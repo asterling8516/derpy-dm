@@ -1,9 +1,9 @@
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
-import { Explorer } from "@quartz-community/explorer"
+import { componentRegistry } from "./quartz/components/registry"
 
 // Must be placed before loadQuartzConfig()
-Explorer({
-  filterFn: (node) => {
+componentRegistry.setOptionOverrides("@quartz-community/explorer", {
+  filterFn: (node: any) => {
     const name = node.displayName?.toLowerCase() || ""
     return name !== "assets" && name !== "templates"
   },
