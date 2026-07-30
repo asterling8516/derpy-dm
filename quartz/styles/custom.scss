@@ -1,3 +1,19 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+.page-title a {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.page-title a::before {
+  content: "";
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  background-image: url('/static/icon.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
