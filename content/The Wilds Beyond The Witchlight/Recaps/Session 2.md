@@ -13,19 +13,19 @@ Raven, Nox, and Jayquelin went over to the Hall of Illusions and tried to figure
 - The mirror is magical
 - It seemed to require something to activate it (open sesame did not work)
 
-Vania eventually joined the crew and tried to interrogate Candlefoot about the disappearances after saying she was scheduled to work the Hall with him. He eventually told you to leave through gestures  to which you did. Deciding to head back to the staff area Thaco was confused as to why you were back when you had told him you were supposed to be working. You told him Candlefoot turned you away and you weren't sure what else to do. He told you to speak with Mr. Witch and Light after the big top show which was just beginning. 
+Vania eventually joined the crew and tried to interrogate [[Candlefoot]] about the disappearances after saying she was scheduled to work the Hall with him. He eventually told you to leave through gestures  to which you did. Deciding to head back to the staff area Thaco was confused as to why you were back when you had told him you were supposed to be working. You told him [[Candlefoot]] turned you away and you weren't sure what else to do. He told you to speak with Mr. Witch and Light after the big top show which was just beginning. 
 
 The group got frustrated at the Hall of Illusions and started to go look for Vania when you learned about the Big Top Extravaganza that was being held and went to join the festivities. Meeting for the first time Mr. Light, a tall thin elven man who wields a fancy looking staff,  as he hosted the event a few of you joined in doing tricks with the clows blasting from cannons and doing acrobatics. 
 
-Raven and JaqueLin headed over to Silver Song Lake and watched a mermaid perform though the performance didn't go well since there was someone in the crowd changing their appearance and heckling the singing mermaid which caused her to eventually swim away up the river. Raven tried her best to chase down the person who was heckling the mermaid, but they were able to get away. You followed her up the river with JaqueLin turning into a dolphin and swimming up the river. Catching up to you witnessed Candlefoot the mime and her were talking you stayed nearby and watched for a moment until you realized that Candlefoot was comforting her and you approached learning a few things:
+Raven and JaqueLin headed over to Silver Song Lake and watched a mermaid perform though the performance didn't go well since there was someone in the crowd changing their appearance and heckling the singing mermaid which caused her to eventually swim away up the river. Raven tried her best to chase down the person who was heckling the mermaid, but they were able to get away. You followed her up the river with JaqueLin turning into a dolphin and swimming up the river. Catching up to you witnessed [[Candlefoot]] the mime and her were talking you stayed nearby and watched for a moment until you realized that [[Candlefoot]] was comforting her and you approached learning a few things:
 
-- Candlefoot had his voice stolen by someone causing trouble at the carnival 
+- [[Candlefoot]] had his voice stolen by someone causing trouble at the carnival 
 - The mermaids name was Palasha
 - The Two of them were dating
 - Though they new people have disappeared they weren't sure the cause, but thought that it might benefit you to ask Mr. Witch and Mr. Light about it
 - They didn't know how the magic mirror worked
 
-Everyone except for Vania headed to carousel and tried speaking with Diana Cloppington. When you told her that you were looking into the disappearances and the person causing issues at the carnival she told you to wait and she would close the carousel and the unicorns could help. After you solved the puzzle of their names you learned:
+Everyone except for Vania headed to carousel and tried speaking with [[Diana Cloppington]]. When you told her that you were looking into the disappearances and the person causing issues at the carnival she told you to wait and she would close the carousel and the unicorns could help. After you solved the puzzle of their names you learned:
 
 - Who has stolen your things
 - Mr. Witch and Mr. Light can help you get to the people who stole them

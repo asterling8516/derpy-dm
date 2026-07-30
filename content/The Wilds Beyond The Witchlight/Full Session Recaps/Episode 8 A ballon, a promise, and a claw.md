@@ -1,7 +1,7 @@
 # The Soggy Court of Downfall
 
 ## An Ill-Fated Crossing
-The journey through the swampy realm of Hither took a chaotic turn at the edge of the river. The great stone bridge across the waters of Luna and Lucenya had collapsed after the adventurers—**Luna**, **Lucenia**, **Lashakira**, **Lainey**, and **La-Aaron**—unwittingly angered a massive war boulder. 
+The journey through the swampy realm of [[Hither]] took a chaotic turn at the edge of the river. The great stone bridge across the waters of Luna and Lucenya had collapsed after the adventurers—**Luna**, **Lucenia**, **Lashakira**, **Lainey**, and **La-Aaron**—unwittingly angered a massive war boulder. 
 
 To make matters worse, **Lashakira** and **Lucenia** tumbled into the murky depths just as two menacing merfolk emerged from the water. With unnaturally wide jaws lined with shark-like teeth and elongated claws, the creatures lunged. 
 
