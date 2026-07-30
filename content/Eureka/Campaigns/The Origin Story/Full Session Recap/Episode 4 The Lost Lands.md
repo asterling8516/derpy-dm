@@ -19,10 +19,9 @@ As they ascended, the glowing motes flared, reflecting lost memories back to tho
 
 At the apex of the spire, Thatcher ushered the party into a grand dining hall. The table was a patchwork of faded card tables, surrounded by chairs fashioned from polished thimbles and spools of thread. A massive feast materialized before them—a spread of local molds, mushrooms, and stale bread. 
 
-Then, **Lady Seraphina** entered. 
+Then, **[[Eureka/Places/The Shifting Veil/Lady Seraphina|Lady Seraphina]]** entered. 
 
 ```
-OSIDIAN NOTE: Lady Seraphina
 - Perception of her is warped. Fynn and Garp struggled to keep their eyes on her, their gaze constantly slipping away as if she were a fading thought. 
 - Kookoush and Naya, already touched by the shifting veil of the [dustlings], could see her clearly.
 ```
