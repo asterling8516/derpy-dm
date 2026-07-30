@@ -4,17 +4,24 @@
 
 .page-title a {
   display: flex;
+  flex-direction: column;
   align-items: center;
-  gap: 0.5rem;
+  text-align: center;
+  gap: 1rem;
+  font-size: 1.8rem;
+  color: var(--dark) !important;
+  text-decoration: none;
+  margin-bottom: 1rem;
 }
 
 .page-title a::before {
   content: "";
   display: inline-block;
-  width: 300px;
-  height: 300px;
+  width: 250px;
+  height: 250px;
   background-image: url('/static/icon.png');
   background-size: contain;
+  background-position: center;
   background-repeat: no-repeat;
 }
 
