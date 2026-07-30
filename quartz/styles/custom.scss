@@ -8,14 +8,10 @@
   gap: 0.5rem;
 }
 
-.page-title a::before {
-  content: "";
-  display: inline-block;
-  width: 64px;
-  height: 64px;
-  background-image: url('/static/icon.png');
-  background-size: contain;
-  background-repeat: no-repeat;
+.page-title img {
+  width: 64px !important;
+  height: 64px !important;
+  max-width: 64px !important;
 }
 
 /* Background Texture */

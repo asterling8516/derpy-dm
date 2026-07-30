@@ -4,7 +4,8 @@ import { Explorer } from "@quartz-community/explorer"
 // Must be placed before loadQuartzConfig()
 Explorer({
   filterFn: (node) => {
-    return node.name !== "Assets"
+    const name = node.name.toLowerCase()
+    return name !== "assets" && name !== "templates"
   },
 })
 
