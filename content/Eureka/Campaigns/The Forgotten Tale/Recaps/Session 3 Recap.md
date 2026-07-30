@@ -17,7 +17,7 @@ The party did this mostly, but here's some key points:
 - Headed back to the inn
 - Got the potions they had as Sora was clearing out the room
 - Stove went up to the room
-- Odin around the tavern for help with whatever was going on in the city
+- [[Odin|Odin]] around the tavern for help with whatever was going on in the city
 - Happy hung out outside for a moment enjoying his high when he felt that he was being watched.  His migraine increased and he heard a sound like something slithering on the ground and screamed into the city he knew he was being watched and headed in 
 - You were able to get some information out of the patrons at the bar and learned tale of a sea hag in the waters surrounding Mistveil and a dwarf who supposedly survived an attack from her that lived on the edge of the city beyond the farms
 - You all decided to head back to the library as it was getting late 

@@ -36,9 +36,9 @@ Reaching into their pockets, each adventurer found a small, cool, translucent st
 
 ### The Strangers in the Dust
 As they sat around the fire, they took stock of their strange companions:
-*   **Finn**: A curse-born, wolf-like humanoid. Though his mind was blank, he felt the chaotic pull of wild magic humming in his veins.
+*   **Fynn**: A curse-born, wolf-like humanoid. Though his mind was blank, he felt the chaotic pull of wild magic humming in his veins.
 *   **Garp**: A sea elf with the weathered look of a pirate. He possessed a sharp eye, a brace of pistols, and an immediate, compulsive urge to pocket nearby shiny objects.
-*   **Kakush**: A tall, disheveled half-wood elf wearing a pair of dirty, child-sized rabbit-ear moccasins and a stained brown robe over leather armor. He carried the tools of an artificer and sported a magnificent, downward-sweeping Imperial mustache.
+*   **Kookoush**: A tall, disheveled half-wood elf wearing a pair of dirty, child-sized rabbit-ear moccasins and a stained brown robe over leather armor. He carried the tools of an artificer and sported a magnificent, downward-sweeping Imperial mustache.
 *   **Anaya**: A blue-skinned, black-haired Djinn Warlock. Once a powerful genie bound to a lamp, she had been freed five years prior and now sought a home, though she retained little knowledge of the world outside her former vessels.
 
 ---
@@ -62,19 +62,19 @@ A holographic projection beamed from the owl’s eyes, displaying a pre-recorded
 
 The hologram faded. Glimmer the owl clicked, cooed, and dropped a small scroll from his talons. Written upon it was a single word in Primordial: *Democ*—the command word for a small, metallic chess rook found in their gear: an **Instant Fortress**.
 
-Curious, **Kakush** reached out to pet the mechanical bird, only to slice his hand wide open on its razor-sharp metal feathers. After a quick bandaging session, the party turned their attention to the magical fortress.
+Curious, **Kookoush** reached out to pet the mechanical bird, only to slice his hand wide open on its razor-sharp metal feathers. After a quick bandaging session, the party turned their attention to the magical fortress.
 
 ---
 
 ## Chapter 3: The Flight of the Sorcerer
 
-Eager to test their new security system, the party stepped back. **Finn**, fueled by chaotic curiosity, decided to use the Instant Fortress as a makeshift catapult. He laid flat on top of the tiny metal rook and commanded it to expand.
+Eager to test their new security system, the party stepped back. **Fynn**, fueled by chaotic curiosity, decided to use the Instant Fortress as a makeshift catapult. He laid flat on top of the tiny metal rook and commanded it to expand.
 
 In a fraction of a second, the fortress violently surged upward and outward, expanding into a 30-foot-tall stone tower. 
 
-The sheer kinetic force of the expansion mangled **Finn**, snapping his legs and launching him into the air like a ragdoll. He plummeted back to the dusty ground, a bloody, unconscious heap. 
+The sheer kinetic force of the expansion mangled **Fynn**, snapping his legs and launching him into the air like a ragdoll. He plummeted back to the dusty ground, a bloody, unconscious heap. 
 
-Thinking quickly, **Kakush** rushed forward, casting *Spare the Dying* to stabilize the reckless sorcerer, followed by a *Healing Word*. **Finn** gasped back to consciousness, his legs shattered and bent at unnatural angles. **Anaya** summoned her magic broom, and with **Garp’s** nautical expertise, they fashioned a splint and hogtied the crippled sorcerer to the back of the broom to keep him from falling off.
+Thinking quickly, **Kookoush** rushed forward, casting *Spare the Dying* to stabilize the reckless sorcerer, followed by a *Healing Word*. **Fynn** gasped back to consciousness, his legs shattered and bent at unnatural angles. **Anaya** summoned her magic broom, and with **Garp’s** nautical expertise, they fashioned a splint and hogtied the crippled sorcerer to the back of the broom to keep him from falling off.
 
 While high in the air on the broom, **Anaya** and **Garp** scanned the horizon:
 *   **To the North**: A faint, warm glow illuminated the gray sky—resembling distant light pollution or a massive campfire.
@@ -86,7 +86,7 @@ The decision was unanimous: they would head **North**.
 
 ## Chapter 4: The Dust Bunny
 
-With **Kakush** leading the way through the surreal landscape, the party began their trek. Glimmer flew overhead, keeping a silent, watchful eye on his new charges. 
+With **Kookoush** leading the way through the surreal landscape, the party began their trek. Glimmer flew overhead, keeping a silent, watchful eye on his new charges. 
 
 As they traveled, the gray dust continued to fall, clinging to their clothes and gear like a persistent film. Only their **Echo Shards** remained perfectly clean, repelling the grime. 
 
@@ -100,7 +100,7 @@ Suddenly, **Garp** spotted a strange creature fluttering through the oversized d
 
 Taking no chances, **Garp** drew his pistol and fired a warning shot. The bullet struck the creature dead center, causing it to explode in a harmless poof of gray lint. 
 
-Upon investigating the remains, **Kakush** recognized the creature as a corrupted Fey entity, highly unusual for this forgotten realm. He harvested the magical dust for future potion-making, while the party recovered a discarded **Wand of Faerie Fire** (1 charge) from the debris.
+Upon investigating the remains, **Kookoush** recognized the creature as a corrupted Fey entity, highly unusual for this forgotten realm. He harvested the magical dust for future potion-making, while the party recovered a discarded **Wand of Faerie Fire** (1 charge) from the debris.
 
 ---
 
@@ -112,9 +112,9 @@ Before sleeping, they dug through the junk piles surrounding the tower to forage
 *   They uncovered enough rations to last them five days.
 *   They found several curious stones: one unnaturally cold, one faintly pulsing, and two etched with swirling, nebula-like carvings from an ancient Air Tribe.
 *   They found two wooden boxes; one smelled faintly of fresh-cut grass, and the other of cinnamon, though the scents quickly faded once opened.
-*   They found a locked wooden music box. Using a rusty key found in their packs, **Kakush** unlocked it. It played a beautiful, euphoric melody that filled the party with profound warmth, granting them temporary immunity to being frightened or charmed.
+*   They found a locked wooden music box. Using a rusty key found in their packs, **Kookoush** unlocked it. It played a beautiful, euphoric melody that filled the party with profound warmth, granting them temporary immunity to being frightened or charmed.
 
-To pass the time, the party decided to build a companion out of the falling debris. Using the heavy gray soot, the nebula stones for eyes, a discarded dagger for a nose, and a custom-tailored leather hat crafted by **Kakush**, they constructed **Dusty the Dust Man**. 
+To pass the time, the party decided to build a companion out of the falling debris. Using the heavy gray soot, the nebula stones for eyes, a discarded dagger for a nose, and a custom-tailored leather hat crafted by **Kookoush**, they constructed **Dusty the Dust Man**. 
 
 ```
        _/\_
@@ -131,7 +131,7 @@ The whimsical atmosphere of the camp did not last.
 
 As the party prepared to sleep, a high-pitched, mosquito-like whine began to vibrate through the air. Though faint, it threatened to bloom into a splitting headache. 
 
-Peering through the arrow slits of the Instant Fortress, **Finn** and **Kakush** spotted movement on the distant, dusty hills. Strange, shadowy figures were running through the gloom. They moved erratically, phasing out of existence only to reappear further along the ridge. 
+Peering through the arrow slits of the Instant Fortress, **Fynn** and **Kookoush** spotted movement on the distant, dusty hills. Strange, shadowy figures were running through the gloom. They moved erratically, phasing out of existence only to reappear further along the ridge. 
 
 The creatures were tracking northeast—not heading directly for the tower, but cutting a path dangerously close to the party's position. 
 
@@ -141,10 +141,10 @@ With the shifting shadows drawing nearer and the high-pitched hum ringing in the
 
 ## Player Character Status & Notes
 
-*   **Finn**: 5/12 HP. Legs splinted; movement speed halved due to severe physical trauma (requires a long rest to recover).
-*   **Kakush**: Acquired *Music Box* (tinkering project: potential sound grenade).
+*   **Fynn**: 5/12 HP. Legs splinted; movement speed halved due to severe physical trauma (requires a long rest to recover).
+*   **Kookoush**: Acquired *Music Box* (tinkering project: potential sound grenade).
 *   **Party Inventory**: 
-    *   *Wand of Faerie Fire* (1 charge, held by Finn).
+    *   *Wand of Faerie Fire* (1 charge, held by Fynn).
     *   *Echo Shards* (4).
     *   *Instant Fortress* (Rook).
     *   *Various magical/strange stones* (Cold stone, pulsing stone, nebula stones).

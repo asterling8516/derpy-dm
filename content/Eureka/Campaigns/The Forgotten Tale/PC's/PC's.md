@@ -1,8 +1,18 @@
 %% Begin Waypoint %%
+- **Character notes**
+	- [[Adamson]]
+	- [[Bearskin]]
+	- [[Odin]]
+	- [[Skal]]
+- **PDF**
+
+- **Went to the Farm**
+	- [[Cinderella]]
+	- [[Stove]]
 - [[Adamson]]
-- [[Cinderella]]
+- [[Bearskin]]
 - [[Frezer]]
 - [[Odin Steelwing]]
-- [[Stove]]
+- [[Skal Deathchewer]]
 
 %% End Waypoint %%

@@ -12,11 +12,11 @@ High above the dunes, the tranquil blue of the day suddenly shattered. A sound l
 
 Through the tear in reality, a colossal, chaotic landmass hurtled toward them. It was a nightmare realm of raging waters, erupting volcanoes, and crumbling mountains—the **Elemental Chaos** itself, momentarily bleeding into their plane. Just as disaster seemed certain, the rogue landmass slowed, halted, and shrank back into the rift, leaving the sky to heal behind it.
 
-As the void closed, a telepathic chorus echoed in the mind of the avian hero, **Odin**. Three familiar, ghostly voices—the Sisters—spoke in perfect unison:
+As the void closed, a telepathic chorus echoed in the mind of the avian hero, **[[Odin|Odin]]**. Three familiar, ghostly voices—the Sisters—spoke in perfect unison:
 
 > *"Seek Codex. Ask for the Origin."*
 
-With these cryptic words burning in Odin’s mind, the party pressed on, shaken but determined.
+With these cryptic words burning in [[Odin|Odin]]’s mind, the party pressed on, shaken but determined.
 
 ---
 
@@ -29,9 +29,9 @@ At the center of the revelry stood a massive Orc Grillmaster, a boombox resting 
 The orcs welcomed them with open arms and gallons of a strange, magically volatile homebrew ale. The effects of the chaotic brew were instantaneous and bizarre:
 
 *   **Prezzer** took a deep swig, only to suddenly sprout a coat of pinfeathers that immediately shriveled and fell away. His internal mana gem, destabilized by the magic, shattered and fell completely out of his chest.
-*   **Adamson**, the tree-man, found his wooden bark turning a vibrant, hot-rod red. His leaves burst into literal flames, granting him a temporary, blazing resistance to fire.
+*   **[[Eureka/Campaigns/The Forgotten Tale/PC's/Adamson|Adamson]]**, the tree-man, found his wooden bark turning a vibrant, hot-rod red. His leaves burst into literal flames, granting him a temporary, blazing resistance to fire.
 *   **Bear Skin** drank deeply and became incredibly, inexplicably fluffy, resembling a giant, plush toy.
-*   **Odin** bore the brunt of the brew's chaos. He was seized by a sudden delusion that he was the entity *Codex*, which quickly dissolved into the absolute certainty that he was a horse. He began eating grass and neighing wildly, before suddenly sprouting fully functional gills.
+*   **[[Odin|Odin]]** bore the brunt of the brew's chaos. He was seized by a sudden delusion that he was the entity *Codex*, which quickly dissolved into the absolute certainty that he was a horse. He began eating grass and neighing wildly, before suddenly sprouting fully functional gills.
 
 After purchasing a sturdy meat-cutting sword from the Grillmaster for forty gold coins and enjoying a few rejuvenating burgers, the heavily altered party scrambled back onto their flying carpet and fled into the shimmering heat.
 
@@ -59,8 +59,8 @@ It was here they met **Jan**, a shapeshifting elven rebel leader. Recognizing th
 ### The Extraction Ritual
 The extraction took place in a hidden basement, inside a Faraday-like cage of iron bars. One by one, they were strapped to metal tables. 
 
-*   **Odin** went first. As lightning cascaded down the cage, the gem was wrenched from his chest. He survived the excruciating psychic backlash, though the pain left him reeling.
-*   **Adamson's** extraction was far worse. The ancient magic of his tree-like form fought back. The gem clung to his life force, splintering his wooden chest as it was violently torn away. Though he survived, a piece of his spiritual essence was lost in the struggle, permanently weakening him (losing one level).
+*   **[[Odin|Odin]]** went first. As lightning cascaded down the cage, the gem was wrenched from his chest. He survived the excruciating psychic backlash, though the pain left him reeling.
+*   **[[Eureka/Campaigns/The Forgotten Tale/PC's/Adamson|Adamson]]'s** extraction was far worse. The ancient magic of his tree-like form fought back. The gem clung to his life force, splintering his wooden chest as it was violently torn away. Though he survived, a piece of his spiritual essence was lost in the struggle, permanently weakening him (losing one level).
 
 Jan took the extracted gems, promising they would be repurposed into "mana bombs" to aid the resistance against *Happily Ever After*.
 
@@ -68,7 +68,7 @@ Jan took the extracted gems, promising they would be repurposed into "mana bombs
 
 ## Act IV: Cleansing and Chaos in the Bazaar
 
-To rid themselves of the lingering, chaotic curses of the orcish ale, the party descended into the **Clear Water Baths** beneath the ziggurat. Bathed in the soft glow of bioluminescent mushrooms, the magical waters washed away Adamson's flames, Odin’s horse-delusions, and Bear Skin's fluffiness, restoring their bodies to normal.
+To rid themselves of the lingering, chaotic curses of the orcish ale, the party descended into the **Clear Water Baths** beneath the ziggurat. Bathed in the soft glow of bioluminescent mushrooms, the magical waters washed away [[Eureka/Campaigns/The Forgotten Tale/PC's/Adamson|Adamson]]'s flames, [[Odin|Odin]]’s horse-delusions, and Bear Skin's fluffiness, restoring their bodies to normal.
 
 Rejuvenated and finally free of their trackers, they headed to the bustling bazaar near the ziggurat to find weapons for Bear Skin. They purchased a legendary *Javelin of Lightning* from a gray-skinned tiefling merchant named Mero, before turning their attention to a blind elven woman selling mysterious, sealed magic vials. 
 
@@ -82,8 +82,8 @@ Once safely outside the city gates, the party began cracking open the mysterious
     *   A cracked crown that granted the immediate benefits of a short rest.
     *   A *Humming Feather* that caused him to instantly begin falling *upward* into the sky. The party had to rope him down like a runaway balloon, resulting in a rough landing.
     *   A *Frozen Staff* that permanently altered his aura, granting him a terrifying presence (permanent advantage on Intimidation).
-*   **Odin** shattered his acquisitions:
-    *   A *Silver Claw* that summoned a hostile goblin, which Adamson instantly vaporized with a single, massive scimitar strike.
+*   **[[Odin|Odin]]** shattered his acquisitions:
+    *   A *Silver Claw* that summoned a hostile goblin, which [[Eureka/Campaigns/The Forgotten Tale/PC's/Adamson|Adamson]] instantly vaporized with a single, massive scimitar strike.
     *   A *Bleeding Apple* that cursed his luck (altering his future critical successes).
     *   An *Obsidian Skull* that caused him to swell to monstrous proportions, turning him into a giant, towering bird-man.
 *   **Prezzer** opened the final set:

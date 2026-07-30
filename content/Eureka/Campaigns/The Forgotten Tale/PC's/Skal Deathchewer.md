@@ -1,3 +1,9 @@
+---
+aliases:
+  - Skal
+  - skal
+---
+
 # ♟️ Character Sheet
 ## ♟ Skal Deathchewer
 > **Character Concept**

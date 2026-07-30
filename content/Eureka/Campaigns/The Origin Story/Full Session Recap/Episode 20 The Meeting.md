@@ -2,18 +2,18 @@
 
 ## Chapter I: Withdrawal and Weird Graves
 
-The journey into the depths of the Black Forest began not with a heroic march, but with the pathetic, shivering wheezes of **Slicer**. Having been off his yellow-lime "Arcane" drug for days, the rogue was in the throes of severe withdrawal. Cold sweats, heavy bags under his eyes, and a desperate plea for whiskey or anything to take the edge off set the mood as the party approached Mother’s clearing. 
+The journey into the depths of the Black Forest began not with a heroic march, but with the pathetic, shivering wheezes of **S Licer**. Having been off his yellow-lime "Arcane" drug for days, the rogue was in the throes of severe withdrawal. Cold sweats, heavy bags under his eyes, and a desperate plea for whiskey or anything to take the edge off set the mood as the party approached Mother’s clearing. 
 
 There, the strange nature of Mother’s home became undeniably apparent. Beneath the dirt mounds surrounding the wooden cottage, massive, living chicken feet shifted and scratched at the earth. 
 
 Before knocking, the party attempted to establish a strategy:
-*   **The Prime Directive:** Protect **Ursula** at all costs. Slicer’s life was magically bound to hers; if she took damage, Slicer felt the sting. If she died, Slicer died.
-*   **The Negotiator:** Sylvia would handle the talking.
+*   **The Prime Directive:** Protect **Ursula** at all costs. S Licer’s life was magically bound to hers; if she took damage, S Licer felt the sting. If she died, S Licer died.
+*   **The Negotiator:** Silvia would handle the talking.
 *   **The Muscle:** Garp would stand in the corner, staring pensively.
 
 But before they could even knock, a strange scratching sound drew them to the back of the house. There, knee-deep in a freshly dug trench, stood **Mother**. Beside her lay the lifeless corpse of a Dragonborn. 
 
-With a casual shrug, Mother admitted she had no idea who the traveler was, but felt they deserved a proper burial. Seeking to make a good impression—and perhaps distract himself from his aching bones—Slicer hopped into the pit. Despite his osteoporotic frame and severe withdrawal, Slicer helped Mother finish the grave. With a wave of her hand, Mother magically swept the dirt from their clothes and invited them inside for tea.
+With a casual shrug, Mother admitted she had no idea who the traveler was, but felt they deserved a proper burial. Seeking to make a good impression—and perhaps distract himself from his aching bones—S Licer hopped into the pit. Despite his osteoporotic frame and severe withdrawal, S Licer helped Mother finish the grave. With a wave of her hand, Mother magically swept the dirt from their clothes and invited them inside for tea.
 
 ***
 
@@ -41,7 +41,7 @@ Ursula sneered at the party and the corporate golem. She freely admitted to orch
 
 "You fight wars and innocent people die, but when I strike back, I am the monster?" Ursula challenged.
 
-A tense negotiation followed. Sylvia awkwardly defended the surface world, mistakenly calling sky-mantas "stupid," which drew Ursula's ire. However, Garp stepped forward, flexing his sheer force of conviction. The party proposed a compromise: they would hunt down the specific dwarf responsible for the whale's death and deliver him to her justice in exchange for peace and a formal alliance with *Happily Ever After*. 
+A tense negotiation followed. Silvia awkwardly defended the surface world, mistakenly calling sky-mantas "stupid," which drew Ursula's ire. However, Garp stepped forward, flexing his sheer force of conviction. The party proposed a compromise: they would hunt down the specific dwarf responsible for the whale's death and deliver him to her justice in exchange for peace and a formal alliance with *Happily Ever After*. 
 
 ***
 
@@ -49,9 +49,9 @@ A tense negotiation followed. Sylvia awkwardly defended the surface world, mista
 
 As Piper offered to draft a magically binding contract to seal the pact, **Garp**’s sharp eyes noticed something amiss. A metal panel on the back of the massive golem was vibrating, hanging loose. 
 
-Hoping to avoid a diplomatic incident, Garp slipped behind the golem and subtly snapped the panel shut. But within moments, the panel began to force itself open again. **Kakush** stepped up to investigate, slipping a pinky into the gap to pry it open. 
+Hoping to avoid a diplomatic incident, Garp slipped behind the golem and subtly snapped the panel shut. But within moments, the panel began to force itself open again. **Kookoush** stepped up to investigate, slipping a pinky into the gap to pry it open. 
 
-Suddenly, Piper spun around, his mechanical eyes glowing. He attempted to wipe Kakush’s mind, commanding him to forget what he saw. While Kakush fell into a thousand-yard stare, Garp resisted the mental assault, his head pounding as he roared: *"The panel on your back is loose! What are you hiding?!"*
+Suddenly, Piper spun around, his mechanical eyes glowing. He attempted to wipe Kookoush’s mind, commanding him to forget what he saw. While Kookoush fell into a thousand-yard stare, Garp resisted the mental assault, his head pounding as he roared: *"The panel on your back is loose! What are you hiding?!"*
 
 Ursula’s tentacles flared with suspicion. "What is inside of you, metal man?" she hissed.
 
@@ -77,7 +77,7 @@ A violent, swirling void tore open in the clearing. The portal expanded rapidly,
                        ||
          ( Corrupted, Melting Treants )
              /         |         \
-      [ Slicer ]   [ Ursula ]   [ Party ]
+      [ S Licer ]   [ Ursula ]   [ Party ]
 ```
 
 ***
@@ -86,25 +86,25 @@ A violent, swirling void tore open in the clearing. The portal expanded rapidly,
 
 The clearing erupted into a brutal, claustrophobic melee. 
 
-The warped Treants struck with terrifying psychic wails. One of the beasts unhinged its jaw and screamed directly into Slicer and Garp's minds. Slicer, already weakened by withdrawal, collapsed under the psychic weight. 
+The warped Treants struck with terrifying psychic wails. One of the beasts unhinged its jaw and screamed directly into S Licer and Garp's minds. S Licer, already weakened by withdrawal, collapsed under the psychic weight. 
 
-Worse still, the warding bond proved to be a double-edged sword. Every time a Treant slammed its massive, rot-dripping branches into Ursula, **Slicer took the exact same damage**. The rogue was repeatedly battered to the brink of death by phantom blows, his chest bruising and ribs cracking whenever the sea witch was struck.
+Worse still, the warding bond proved to be a double-edged sword. Every time a Treant slammed its massive, rot-dripping branches into Ursula, **S Licer took the exact same damage**. The rogue was repeatedly battered to the brink of death by phantom blows, his chest bruising and ribs cracking whenever the sea witch was struck.
 
 The party fought back with desperate fury:
 *   **Garp** opened fire with his futuristic anti-matter rifle, blasting chunks of wood and reality itself out of the clearing.
-*   **Finn** used *Misty Step* to bypass the frontline, unleashing a massive *Lightning Bolt* that shattered the gramophone, severed a metallic arm attempting to crawl back out of the portal, and forced the rift to snap shut.
-*   **Kakush** doused the frontline in a *Caustic Brew*, melting the bark off the central Treant.
-*   **Slicer** used *Starlight Step* to teleport next to Ursula, channeling *Eldritch Might* into his blade. His legs began to petrify into stone, but his strikes cut deep, leaving the lead Treant on death's door.
+*   **Fynn** used *Misty Step* to bypass the frontline, unleashing a massive *Lightning Bolt* that shattered the gramophone, severed a metallic arm attempting to crawl back out of the portal, and forced the rift to snap shut.
+*   **Kookoush** doused the frontline in a *Caustic Brew*, melting the bark off the central Treant.
+*   **S Licer** used *Starlight Step* to teleport next to Ursula, channeling *Eldritch Might* into his blade. His legs began to petrify into stone, but his strikes cut deep, leaving the lead Treant on death's door.
 *   **Mother** proved she was no helpless bystander. Chanting in a precursor dialect of ancient, cursive Elvish, she commanded the very earth to reject the intruders. She stepped into the fray and shattered the first Treant into splinters with her wooden stirring staff.
-*   **Sylvia** unleashed a flurry of psionic strikes, knocking the remaining Treant prone and dragging it across the dirt.
+*   **Silvia** unleashed a flurry of psionic strikes, knocking the remaining Treant prone and dragging it across the dirt.
 
-As the final Treant stood up to strike a killing blow against Ursula—which would have instantly ended Slicer's life—Garp fired his final anti-matter rounds. The beam vaporized the creature's torso, and Mother finished it off with a swift crack of her staff.
+As the final Treant stood up to strike a killing blow against Ursula—which would have instantly ended S Licer's life—Garp fired his final anti-matter rounds. The beam vaporized the creature's torso, and Mother finished it off with a swift crack of her staff.
 
 ***
 
 ## Aftermath: Corporate Warfare
 
-The clearing fell silent, save for the heavy breathing of the battered party and the low groans of Slicer, who lay in the dirt. Garp rushed over, feeding Slicer a healing potion "like a baby bird" to stabilize his fractured life force.
+The clearing fell silent, save for the heavy breathing of the battered party and the low groans of S Licer, who lay in the dirt. Garp rushed over, feeding S Licer a healing potion "like a baby bird" to stabilize his fractured life force.
 
 The evidence left behind was damning: a shattered, high-tech gramophone, a severed mechanical arm, and the realization that **Piper, the head of Happily Ever After, had just attempted to assassinate his own employees and a foreign diplomat in a single, coordinated act of magical terrorism.**
 
@@ -115,7 +115,7 @@ The contract is off the table. It is time to find out who is really pulling the 
 ***
 
 ### Session Ledger & Notes
-*   **Slicer's Condition:** "Arcane" withdrawal (Disadvantage on Initiative). Warding Bond with Ursula active (Shares all damage taken by Ursula).
+*   **S Licer's Condition:** "Arcane" withdrawal (Disadvantage on Initiative). Warding Bond with Ursula active (Shares all damage taken by Ursula).
 *   **Garp's Arsenal:** Anti-matter rifle has 2 charges remaining.
 *   **Enemy Status:** Golem "Piper" escaped through the rift (minus one arm). Two corrupted Treants destroyed.
 *   **Next Objective:** Return to *Happily Ever After* headquarters to confront corporate leadership.

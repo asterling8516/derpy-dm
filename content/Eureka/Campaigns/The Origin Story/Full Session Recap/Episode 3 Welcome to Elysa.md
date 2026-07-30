@@ -2,7 +2,7 @@
 
 ## Act I: The Picture-Perfect Illusion and the Blue Sock
 
-The journey through the muted, gray wasteland of the forgotten grew stranger by the league. Led by **Kakush**, whose keen eyes kept the party on course, the adventurers trudged through a desert of giant-sized discarded clothing and towering books. Overhead, **Naya** drifted lazily on her broom, keeping a watchful eye on **Birdie**—the nameless companion whose physical form was slowly, inexplicably shifting.
+The journey through the muted, gray wasteland of the forgotten grew stranger by the league. Led by **Kookoush**, whose keen eyes kept the party on course, the adventurers trudged through a desert of giant-sized discarded clothing and towering books. Overhead, **Naya** drifted lazily on her broom, keeping a watchful eye on **Birdie**—the nameless companion whose physical form was slowly, inexplicably shifting.
 
 As they crested a hill of compressed fabric, a bizarre sight blocked the road. Right in the middle of the path sat a dining table. A mother and father were cheerfully setting down plates, while three well-behaved children play-fought and giggled, waiting for dinner. It was a scene straight out of a pristine, old-world advertisement—entirely untouched by the dust and decay of this realm.
 
@@ -10,29 +10,29 @@ Suspicious of such domestic bliss in a wasteland, Naya conjured a glowing *Mage 
 
 "It's an illusion!" she warned.
 
-But **Finn** and **Garp**, driven by a mix of curiosity and foolhardiness, decided to walk straight through the phantom family anyway. The moment they stepped through the scene, the illusion shattered. A wave of profound, overwhelming nostalgia and sorrow washed over them. Both took a heavy toll of psychic damage; Garp was flooded with bittersweet memories, while Finn felt the hollow, aching pain of remembering absolutely nothing at all.
+But **Fynn** and **Garp**, driven by a mix of curiosity and foolhardiness, decided to walk straight through the phantom family anyway. The moment they stepped through the scene, the illusion shattered. A wave of profound, overwhelming nostalgia and sorrow washed over them. Both took a heavy toll of psychic damage; Garp was flooded with bittersweet memories, while Fynn felt the hollow, aching pain of remembering absolutely nothing at all.
 
-Shaking off the mental fog, the party continued down the path. A flash of color caught Kakush's eye. Lying in the middle of the road was a single, pristine blue sock. Unlike the giant garments of this realm, this sock was humanoid-sized. Kakush claimed it, realizing quickly that this was no ordinary footwear—it was a magical vessel. Though it initially behaved like a *Bag of Holding* restricted to a single item, the party would soon find a much more creative, liquid use for it.
+Shaking off the mental fog, the party continued down the path. A flash of color caught Kookoush's eye. Lying in the middle of the road was a single, pristine blue sock. Unlike the giant garments of this realm, this sock was humanoid-sized. Kookoush claimed it, realizing quickly that this was no ordinary footwear—it was a magical vessel. Though it initially behaved like a *Bag of Holding* restricted to a single item, the party would soon find a much more creative, liquid use for it.
 
 ---
 
 ## Act II: The Shrub-Beast and the Sticky Residue
 
-As the party pressed on, Naya gasped. Fluttering in the middle of the road was what appeared to be her beloved owl, **Hootie**. Kakush, Garp, and Finn approached cautiously, but Naya flew down, extending a hand to retrieve her pet. 
+As the party pressed on, Naya gasped. Fluttering in the middle of the road was what appeared to be her beloved owl, **Hootie**. Kookoush, Garp, and Fynn approached cautiously, but Naya flew down, extending a hand to retrieve her pet. 
 
 The moment her fingers brushed the feathers, the illusion dissolved. The "bird" was a disguised, sentient shrub. The leaves fell away to reveal a squirming, oozing mound of dust, lined with jagged teeth and a grasping, whip-like tongue.
 
 Combat was instantaneous and brutal:
 *   **Garp** dissolved into the shadows of the nearby foliage, firing a deadly sneak attack arrow that struck deep into the dust-beast.
-*   **Kakush** hurled his boomerang, striking the creature squarely in its shifting mass and leaving it completely stunned.
-*   **Finn**, seizing the opening, unleashed a crackling *Lightning Bolt*. The spell hit with microwave-like intensity, instantly vaporizing the creature into a pile of smoking ash and a single, drooping tongue-tentacle.
+*   **Kookoush** hurled his boomerang, striking the creature squarely in its shifting mass and leaving it completely stunned.
+*   **Fynn**, seizing the opening, unleashed a crackling *Lightning Bolt*. The spell hit with microwave-like intensity, instantly vaporizing the creature into a pile of smoking ash and a single, drooping tongue-tentacle.
 
 ```
                   [ The Dust-Beast Ambush ]
                              |
          +-------------------+-------------------+
          |                   |                   |
-    [Garp: Stealth]     [Kakush: Boomerang]  [Finn: Lightning]
+    [Garp: Stealth]     [Kookoush: Boomerang]  [Fynn: Lightning]
     Sneak Attack!       Stunned!             29 Damage! (Vaporized)
 ```
 
@@ -78,18 +78,18 @@ At the tavern, Garp sat at the bar and ordered a glass of whiskey. When he asked
 To pay for his drink, Garp made a tragic trade. He surrendered his memory of ever meeting Birdie. A glowing mote of light drifted from Garp's head into the bartender's mouth. Garp drank his whiskey, entirely unaware of why his party was fighting so hard to save the graying girl beside them.
 
 ### Naya's Mushroom Roulette
-Meanwhile, Naya and Kakush went foraging outside the city walls. Rather than using scientific alchemy, Naya decided to brute-force identify the local fungi by eating them one by one, while Kakush frantically took notes.
+Meanwhile, Naya and Kookoush went foraging outside the city walls. Rather than using scientific alchemy, Naya decided to brute-force identify the local fungi by eating them one by one, while Kookoush frantically took notes.
 
 | Fungi Type | Physical Description | Effect of Consumption |
 | :--- | :--- | :--- |
 | **Fabric Cap** | Feels and tastes like eating a cotton shirt | Stuns the user for one round, but grants advantage on the next roll. |
 | **Hollow Stock** | Brittle, crumbles into dust | Stuns the user with overwhelming, forgotten memories. |
-| **Quilt Shroom** | Top looks like a sewn patchwork quilt | Inflicts 9 psychic damage and causes severe paranoia (Finn ate this one). |
+| **Quilt Shroom** | Top looks like a sewn patchwork quilt | Inflicts 9 psychic damage and causes severe paranoia (Fynn ate this one). |
 | **Glass Umbrella** | Translucent, looks like glass | Grants 5 temporary HP and advantage on saves against being charmed. |
 | **Silver Glow** | Soft silver light, matches moth fur | Temporarily inflicts a -1 penalty to all mental stats (Int/Wis/Cha). |
 | **Crying Shroom** | Looks wet, tastes extremely salty | Acts as a *Lesser Restoration*, immediately curing minor conditions. |
 
-Through sheer constitution, a few minor poisonings, and some magical *Boldness* potions, Naya survived the taste test. Kakush successfully harvested a healthy stash of these potent mushrooms for his alchemical kit. 
+Through sheer constitution, a few minor poisonings, and some magical *Boldness* potions, Naya survived the taste test. Kookoush successfully harvested a healthy stash of these potent mushrooms for his alchemical kit. 
 
 As the dual suns of the lanterns dipped, the party gathered at the Weaver's Respite, sporting stained boots, pockets full of glowing fur, and stomachs full of magical spores. Tomorrow, they would face Lady Serafina.
 
@@ -97,11 +97,11 @@ As the dual suns of the lanterns dipped, the party gathered at the Weaver's Resp
 
 ## Player Ledger & Inventory Updates
 
-*   **Kakush:** 
+*   **Kookoush:** 
     *   Acquired: **Sock of Endless Water** (Acts as a dry wool sock, can pour up to 10 gallons of fresh water per minute on command).
     *   Acquired: 10x Assorted magical mushrooms (Fabric Caps, Glass Umbrellas, Crying Shrooms).
 *   **Garp:** 
     *   Acquired: 1x Handful of glowing silver moth fur.
     *   Lost: The memory of ever meeting Birdie.
-*   **Finn:** 
+*   **Fynn:** 
     *   Suffered: 9 psychic damage from a bad patchwork mushroom trip.

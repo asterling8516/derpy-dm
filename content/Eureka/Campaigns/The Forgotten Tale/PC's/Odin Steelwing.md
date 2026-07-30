@@ -1,3 +1,8 @@
+---
+aliases:
+  - odin
+---
+
 # ♟️ Character Sheet
 ## ♟ Odin Steelwing
 > **Character Concept**
@@ -22,7 +27,7 @@
 
 ### 🗡️ Weapons & Cantrips
 - Antimatter Rifle, +2 (Hit/DC: +6, Damage: 6d8+3 Necrotic)
-- Handaxe (Hit/DC: +3, Damage: 1d6 Slashing)
+- Hand axe (Hit/DC: +3, Damage: 1d6 Slashing)
 - Skyblinder Staff (Hit/DC: +4, Damage: 1d6+1 Bludgeoning)
 - Shocking Grasp (Hit/DC: +9, Damage: 2d8 Lightning)
 - Unarmed Strike (Hit/DC: +3, Damage: 1 Bludgeoning)
@@ -31,7 +36,7 @@
 - Antimatter Rifle, +2
 - Goggles of the Aerial Calibrator
 - Green Raptor Scale Mail
-- Handaxe
+- Hand axe
 - Ioun Stone of Awareness
 - Potion of Healing (x11)
 - Potion of Healing (Greater) (x2)

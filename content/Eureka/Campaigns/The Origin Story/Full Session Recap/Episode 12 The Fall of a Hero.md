@@ -3,9 +3,9 @@
 ## Echoes of the Past
 The ruins did not merely test the party’s steel; they preyed upon their minds. As the companions pressed northward, the present dissolved into fragmented memories of their deepest regrets and hidden histories:
 *   **Jersey** relived the chilling moment his father struck a bargain with the enigmatic **Zalast**—a deal where the entity seemingly gained nothing, a silent promise hanging in the air.
-*   **Finn** drifted through a silent, suffocating void, listening to a cosmic dispute over his very soul between his creator and Asmodeus.
+*   **Fynn** drifted through a silent, suffocating void, listening to a cosmic dispute over his very soul between his creator and Asmodeus.
 *   **Garp** found himself back in the rain-slicked streets of Shadow’s Haven, guided toward Corally, the catalyst for his redemption.
-*   **Cuckoosh** watched the frostlight shatter, haunted by the whispers of the iron law he broke, forcing him to flee into exile.
+*   **Kookoush** watched the frostlight shatter, haunted by the whispers of the iron law he broke, forcing him to flee into exile.
 *   **Naya** felt her magic surge violently, hearing a voice offering her absolute control before golden shackles snapped shut, pulling her into her own lamp—a prisoner of her own power.
 
 Exhausted and battered by these mental assaults, the party sought rest, but the dungeon denied them peace. They survived an ambush of crystal spiders—one of whom Naya managed to befriend and name **Princess**—only to be startled awake by a massive explosion. In the chaos, a gauntlet of elemental pressure plates and crystal traps tested their reflexes, leaving them weary, bruised, and standing at a silent crossroads.
@@ -28,10 +28,10 @@ Suspicious of a mimic, the party commanded **Glimmer**, Jersey’s mechanical bi
 
 ### The Tug-of-War with Gravity
 What followed was a desperate, chaotic scramble against an unnatural gravity:
-*   **Cuckoosh** reacted instantly, throwing a fifty-foot length of rope down the expanding abyss, bracing himself against the stone corner.
+*   **Kookoush** reacted instantly, throwing a fifty-foot length of rope down the expanding abyss, bracing himself against the stone corner.
 *   **Jersey** grabbed the rope and slid down into the darkness, grabbing Glimmer. But an immense, supernatural weight seized them. Jersey slipped, losing his grip.
-*   Up top, the rope went taut with backbreaking force. Cuckoosh began to slide toward the edge.
-*   **Garp** and **Finn** lunged forward, throwing their weight onto the rope, but the unseen force dragged them all slowly toward the brink.
+*   Up top, the rope went taut with backbreaking force. Kookoush began to slide toward the edge.
+*   **Garp** and **Fynn** lunged forward, throwing their weight onto the rope, but the unseen force dragged them all slowly toward the brink.
 *   **Naya**, summoning her genie magic, took flight. She wrapped the rope around her broom and flew in the opposite direction at maximum speed, finally stabilizing the descent.
 
 With a coordinated heave, they managed to pull Jersey back to the lip of the pit. But the void yawned wider. The gravity surged, swallowing Jersey and Glimmer once more. In the struggle, Glimmer's mechanical talons slipped. 
@@ -53,7 +53,7 @@ Deep in the dark, Naya's body succumbed to the sheer velocity of the fall. The c
 ### A Miraculous Return
 Just as the party began to accept that Naya was gone, a sudden tear in reality opened in the ceiling. Naya's broken, battered body fell from the air, slamming onto the stone floor. She was barely breathing, hovering on the precipice of death.
 
-*   **Cuckoosh** rushed forward, casting *Spare the Dying* to stabilize her fractured soul.
+*   **Kookoush** rushed forward, casting *Spare the Dying* to stabilize her fractured soul.
 *   **Garp** administered a healing potion, forcing the glowing liquid down her throat. 
 
 Naya gasped back to life, exhausted and broken, but alive. The void beneath them slowly shrank, closing shut as if it had never been. And there, resting perfectly in the center of the solid stone floor, the small chest reappeared.
@@ -80,9 +80,9 @@ Through the quiet, they heard the unmistakable sound of heavy chains dragging ac
 Peering around the corner, they spotted a horde of decaying, unnaturally muscular zombies wandering the room. Seeking to vent their frustration, the party coordinated a swift, brutal ambush:
 
 ```
-[Cuckoosh] ---> Casts Faerie Fire (Zombies glow in violet light)
-[Garp]     ---> Fires anti-matter rifle over Cuckoosh's shoulder
-[Finn]     ---> Casts Color Spray, blinding the remaining undead
+[Kookoush] ---> Casts Faerie Fire (Zombies glow in violet light)
+[Garp]     ---> Fires anti-matter rifle over Kookoush's shoulder
+[Fynn]     ---> Casts Color Spray, blinding the remaining undead
 [Jersey]   ---> Delivers a flurry of devastating, wall-shattering punches
 ```
 
@@ -103,7 +103,7 @@ And standing right beside him, looking completely unharmed and rested, was **Nay
                               |
                      [ Zalast & Naya ]
                               |
-[ Garp ] ------- [ Finn ] ------- [ Cuckoosh ] ------- [ Jersey ]
+[ Garp ] ------- [ Fynn ] ------- [ Kookoush ] ------- [ Jersey ]
 ```
 
 Zalast pulled a silver pocket watch from his waistcoat, clicked the casing open, and glanced at the hands. He looked up at Naya and smiled. 

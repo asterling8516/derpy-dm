@@ -5,9 +5,17 @@ My online group
 - **[[PC's]]**
 - **Quests**
 	- **Completed**
+		- [[Broker Peace Between Happily Ever After and Ursula]]
+		- [[Defeat Zalost]]
+		- [[Find a Cure for the Dustling Curse]]
 		- [[Find the First Chord]]
 		- [[Head to Frostlight]]
-	- [[Broker Peace Between Happily Ever After and Ursula]]
+		- [[Retrieve the Blue Fairy's Star]]
+	- [[Confront Happily Ever After's Leadership]]
+	- [[Destroy the Trash-Sending Devices]]
+	- [[Find Garp's Family]]
+	- [[Hunt the Whale-Killing Dwarven Captain]]
+	- [[Seek out Codex in the Silent Archives]]
 - **Recaps**
 	- [[Session 1 Recap]]
 	- [[Session 2 Recap]]

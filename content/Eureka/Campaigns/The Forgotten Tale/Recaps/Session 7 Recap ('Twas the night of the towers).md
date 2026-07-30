@@ -4,7 +4,7 @@ To the Obsidian Cathedral, you ventured with might, And entered the Blue Tower, 
 
 You fled to the Green Tower, where vines intertwined, Up spiral stone stairs, leaving safety behind. At the top lay a Dragon, just bones on the floor, Until Sleepy climbed on it, and heard the beast roar!
 
-Then Adamson panicked and dropped piles of dirt, To bury the exit so no one got hurt. While Sleepy stayed hidden, tucked out of the way, Brave Stove kept you standing to fight one more day.
+Then [[Eureka/Campaigns/The Forgotten Tale/PC's/Adamson|Adamson]] panicked and dropped piles of dirt, To bury the exit so no one got hurt. While Sleepy stayed hidden, tucked out of the way, Brave Stove kept you standing to fight one more day.
 
 You dug out the stairs and you fled from the height, But the Dragon smashed windows to join in the fight. It sat on the spire, a terrifying view, And that’s when poor Stove did what he shouldn’t do.
 

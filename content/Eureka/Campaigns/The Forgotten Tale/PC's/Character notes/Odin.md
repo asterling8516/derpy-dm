@@ -1,4 +1,4 @@
-# Odin Steelwing - Notes
+# [[Odin Steelwing]] - Notes
 ## Backstory
 Growing up in **Frostlight**, you were always an outsider due to being an **Owlin**. Your unique features and nocturnal tendencies set you apart, but you had an unquenchable thirst for knowledge, admiring the city's unique blend of law and mechanics.
 
@@ -21,4 +21,4 @@ As you grew older, a simple **puppet shop** opened across the street. You met th
 - Altheria morwhen Selestia names around the alter on the weed shop.
 - There is a myth of an old hag with tentacles on her lower half. She takes ships down and offers the crew a deal, but most never return. One dwarf did survive and lives on the outskirts of town.
 - Jebbadia the dwarf wants to attack the whale with tentacles. He is going to acquire a ship.
-- Stove broke block and termites start eating Adamson.
+- Stove broke block and termites start eating [[Eureka/Campaigns/The Forgotten Tale/PC's/Adamson|Adamson]].

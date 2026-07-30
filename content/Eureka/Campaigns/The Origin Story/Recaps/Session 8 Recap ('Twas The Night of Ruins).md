@@ -14,9 +14,9 @@ So **Garp** took his gun, with an eye sharp and hot, And severed the rope with a
 
 Then **Fynn** dug through rubble, with holiday cheer, Thinking, _"Maybe there's something to help us out here?"_ He sifted through trash with a scavenger's roar, And pulled out a **Vorpal Sword** from the floor!
 
-Up the great pyramid, the party did creep, Past rotten food-stuffs and secrets held deep. In a kennel abandoned, a treasure remained, A cloak of **Elven Chain**, slightly blood-stained. To **Nijya** it went, a gift for the flight, Who flew down the hall to investigate the light.
+Up the great pyramid, the party did creep, Past rotten food-stuffs and secrets held deep. In a kennel abandoned, a treasure remained, A cloak of **Elven Chain**, slightly blood-stained. To **[[Nijya]]** it went, a gift for the flight, Who flew down the hall to investigate the light.
 
-But down in the darkness, waiting in chains, Were devils specifically bred for your pains! Nijya cast _Hunger_, a cold, biting space, While the rest of you charged all over the place!
+But down in the darkness, waiting in chains, Were devils specifically bred for your pains! [[Nijya]] cast _Hunger_, a cold, biting space, While the rest of you charged all over the place!
 
 The fists, how they flew! The spells, how they flashed! Against metal links, the party all crashed. But Jersey, poor Jersey, his punches flew wide, He swung and he missed, with nowhere to hide. With a crack and a thud, the Monk hit the floor, And Jersey, unconscious, could battle no more.
 

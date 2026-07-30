@@ -4,7 +4,7 @@
 
 The memory of the Shifting Veil was already beginning to slip through the party’s fingers like dry sand. They had left the lonely tower of Lady Serafina—leaving behind the melancholy of her fading existence and the warning that to stay was to slowly turn to dust. Armed with nothing but Lady Serafina's "tumble steeds"—strange, floaty, goat-like creatures—and a vague lead that the mysterious **First Chord** resided in the "Lands of the Lost," the party had ridden straight into a tempest of rainbow lightning. 
 
-The storm had brought dust humanoids, a brutal battle, and very nearly the death of Finn. But just as a wolf-like dust beast closed in to finish him, a savior emerged from the swirling grit. A colossal Goliath, smelling of old leather and sporting a raspy, old-school Italian accent, stepped out of the haze. With a single, devastating punch from his golden boxing gloves, he turned the beast to dust.
+The storm had brought dust humanoids, a brutal battle, and very nearly the death of Fynn. But just as a wolf-like dust beast closed in to finish him, a savior emerged from the swirling grit. A colossal Goliath, smelling of old leather and sporting a raspy, old-school Italian accent, stepped out of the haze. With a single, devastating punch from his golden boxing gloves, he turned the beast to dust.
 
 ---
 
@@ -15,18 +15,18 @@ The giant introduced himself as **Terzis Spinks**, the ultra-heavyweight champio
 ```
    🏆 PRO-TIP FROM THE CHURCH OF BOXING: 
    "8:00 AM, Sunday morning. Show up. I'll teach you devotion." 
-   — Jersey Spinks
+   — Jersey
 ```
 
-While Terzis boasted, **Kakush** knelt over the dying Finn. Channeling his magic, Kakush cast *Spare the Dying*. The spell took hold with miraculous potency, knitting Finn's immediate wounds and bringing him back from the brink of death with a single, gasping breath. Finn awoke, his freshly inked tattoo of Lady Serafina—drawn perfectly from description despite the blinding dust—staring up from his skin.
+While Terzis boasted, **Kookoush** knelt over the dying Fynn. Channeling his magic, Kookoush cast *Spare the Dying*. The spell took hold with miraculous potency, knitting Fynn's immediate wounds and bringing him back from the brink of death with a single, gasping breath. Fynn awoke, his freshly inked tattoo of Lady Serafina—drawn perfectly from description despite the blinding dust—staring up from his skin.
 
-With Finn stabilized, Terzis offered the party shelter in his "fortress"—a massive, mobile metal structure shaped like a chess rook. The party climbed inside, exhausted, and took a long, uneventful rest. 
+With Fynn stabilized, Terzis offered the party shelter in his "fortress"—a massive, mobile metal structure shaped like a chess rook. The party climbed inside, exhausted, and took a long, uneventful rest. 
 
 The next morning, the rainbow lightning had vanished, replaced by a beautiful but deeply unsettling rain. The droplets shimmered with motes of gold and blue. Garp, ever curious, stuck his hand out into the downpour. The magical water washed over him, leaving a shimmering residue that clouded his mind; as long as he remained wet, his senses and intuition would be severely dulled. 
 
 To combat the rain, Garp and Naya quickly set to work fashioning patchwork raincoats out of leather scraps. Garp’s nimble fingers worked wonders, creating highly effective, albeit heavily stitched, protective gear for the party. Terzis, however, refused. No mere leather would cover his legendary muscles.
 
-As they prepared to set out, Kakush and Garp noticed something chilling: Terzis was suffering from the same affliction that plagued Lady Serafina. His skin was graying, and it was occasionally difficult to keep him in one's direct line of sight. The dust was claiming him, and he didn’t even know it.
+As they prepared to set out, Kookoush and Garp noticed something chilling: Terzis was suffering from the same affliction that plagued Lady Serafina. His skin was graying, and it was occasionally difficult to keep him in one's direct line of sight. The dust was claiming him, and he didn’t even know it.
 
 ---
 
@@ -60,7 +60,7 @@ Meanwhile, Naya and Terzis found a bizarre merchant stall run by a blind, blue-s
 
 Recognizing the party's confusion, the robotic bartender approached Naya and produced a glowing green crystal. He explained that in Bytopia, communication was facilitated by these crystals, which allowed users to temporarily merge and share memories of language. 
 
-**Kakush**, watching suspiciously from a nearby tree, mistook the crystal for a memory-stealing trap and rushed down to intervene. After casting *Identify* on the relic, however, he confirmed it was a harmless, common translation tool. The party took turns touching the crystal, permanently absorbing the local languages of Bytopia into their minds.
+**Kookoush**, watching suspiciously from a nearby tree, mistook the crystal for a memory-stealing trap and rushed down to intervene. After casting *Identify* on the relic, however, he confirmed it was a harmless, common translation tool. The party took turns touching the crystal, permanently absorbing the local languages of Bytopia into their minds.
 
 The bartender, pleased with the transaction, offered a crucial piece of lore:
 > *"You're not the first to come looking for the First Chord. A group of devils passed through here not long ago, asking the very same questions..."*
@@ -72,9 +72,9 @@ The bartender, pleased with the transaction, offered a crucial piece of lore:
 Determined to gear up before chasing the devils, the party headed to **The Moss and Mechanism**, a shop run by a small rock golem smelling of machine oil. 
 
 * **The Sale:** Naya successfully pawned her *Dark Shard Amulet* to the golem for 100 gold pieces.
-* **The Upgrade:** Kakush used *Mending* and a vial of specialized clockwork oil to repair and reinforce **Glimmer**, the party's clockwork companion. The dense oil hardened Glimmer's chassis, permanently increasing his Armor Class.
-* **The Heist (Failed):** Finn, desperate for funds, tried to pocket a couple of healing potions by knocking them off the counter into his open bag. A clockwork guard-bee immediately began beeping and flashing red. The rock golem swelled to a towering, menacing size, threatening to crush Finn on the spot. Finn hastily returned the potions and backed away.
-* **The Barter:** Because of Finn's clumsy theft, the golem refused to do business with Kakush. Undeterred, Kakush headed to **The Unseen Loom**, a shop shrouded in magical darkness. There, he traded several rare mushrooms (Glimmer Caps and Unseen Umbrellas) to a shadow-merchant in exchange for a set of *Scale Mail of Acid Resistance*.
+* **The Upgrade:** Kookoush used *Mending* and a vial of specialized clockwork oil to repair and reinforce **Glimmer**, the party's clockwork companion. The dense oil hardened Glimmer's chassis, permanently increasing his Armor Class.
+* **The Heist (Failed):** Fynn, desperate for funds, tried to pocket a couple of healing potions by knocking them off the counter into his open bag. A clockwork guard-bee immediately began beeping and flashing red. The rock golem swelled to a towering, menacing size, threatening to crush Fynn on the spot. Fynn hastily returned the potions and backed away.
+* **The Barter:** Because of Fynn's clumsy theft, the golem refused to do business with Kookoush. Undeterred, Kookoush headed to **The Unseen Loom**, a shop shrouded in magical darkness. There, he traded several rare mushrooms (Glimmer Caps and Unseen Umbrellas) to a shadow-merchant in exchange for a set of *Scale Mail of Acid Resistance*.
 
 Before leaving the market, the party returned to the blind elf's stall and bought several "Fate" items, hoping the chaotic magic of Bytopia would work in their favor. As they finalized their purchases, they noticed several figures in orange jumpsuits and steam-powered exoskeletons watching them intently from the shadows. It was time to go.
 
@@ -86,14 +86,14 @@ The party retreated to the quiet safety of the nearby stone ruins to open their 
 
 ```
    📦 FATE ITEM RESULTS:
-   • Kakush's Tin Whistle: Shattered. The surrounding flora grew lush and vibrant. 
-     Kakush and all nearby plants gained +17 temporary hit points.
-   • Finn's Glass Orb: Shattered. A hostile, ghostly specter erupted from the glass!
+   • Kookoush's Tin Whistle: Shattered. The surrounding flora grew lush and vibrant. 
+     Kookoush and all nearby plants gained +17 temporary hit points.
+   • Fynn's Glass Orb: Shattered. A hostile, ghostly specter erupted from the glass!
      - Combat was brief: Naya blasted it with Hexed Eldritch energy. 
-     - The ghost lunged at Finn, who deflected the blow with a Shield spell. 
+     - The ghost lunged at Fynn, who deflected the blow with a Shield spell. 
      - Terzis Spinks closed the distance and delivered a devastating "donkey punch," 
        instantly obliterating the spirit.
-   • Finn's Deck of Cards: Shredded. The cards whirled around him, granting +5 AC for an hour.
+   • Fynn's Deck of Cards: Shredded. The cards whirled around him, granting +5 AC for an hour.
    • Terzis's Compass: Smashed. Terzis received a sensory flash, revealing a massive, 
      moving danger deep beneath the earth in a neighboring ruin.
    • Copper Ring: Bent. The ring exploded, reducing the user's maximum HP by 5 for one day.

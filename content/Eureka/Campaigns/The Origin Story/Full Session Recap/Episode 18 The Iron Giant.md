@@ -2,9 +2,9 @@
 
 ## Chapter I: An Army in the Blizzard
 
-The morning sun did little to warm the biting cold of the northern wastes, but inside the extradimensional sanctuary of **Cutter’s** tent, the party rested. For **Slicer**, the sleep was a mercy, allowing his body to finally purge the lingering, exhausting toxins of his recent arcane high. Near the exit, Slicer paused, his eyes falling upon a scattering of crude, childhood drawings. They depicted his grandest self-proclaimed achievements—specifically, the slaying of a terrifying three-headed dragon. 
+The morning sun did little to warm the biting cold of the northern wastes, but inside the extradimensional sanctuary of **Cutter’s** tent, the party rested. For **S Licer**, the sleep was a mercy, allowing his body to finally purge the lingering, exhausting toxins of his recent arcane high. Near the exit, S Licer paused, his eyes falling upon a scattering of crude, childhood drawings. They depicted his grandest self-proclaimed achievements—specifically, the slaying of a terrifying three-headed dragon. 
 
-When Slicer proudly pointed them out, Cutter merely smirked. *"It was a dog, brother. A neighbor's dog. And you hit it with a shovel because it barked at you."*
+When S Licer proudly pointed them out, Cutter merely smirked. *"It was a dog, brother. A neighbor's dog. And you hit it with a shovel because it barked at you."*
 
 The bickering of the brothers was quickly silenced as they stepped out of the tent. What they expected was a quiet, hidden camp of a few rogue thieves. What they saw was a breathtaking, terrifying spectacle. Emerging from the cluster of seemingly tiny tents was an army. Hundreds of hulking warriors—disfigured by strange, unnatural growth spurts, standing two to three times the size of average men—stretched and yawned in the freezing air. They were a patchwork legion of giant-blooded outcasts from all four corners of Eureka. 
 
@@ -17,7 +17,7 @@ Over a breakfast of hot, hearty stew and hard bread, Cutter laid out the plan.
 
 ## Chapter II: Whispers of the Past in Frostlight
 
-Before initiating the heist, the party split. While Sylvia stayed behind to keep an eye on the volatile Morta and her tendency to set random objects on fire, **Garp**, **Cuckooch**, and **Finn** slipped back into the icy streets of **Frostlight**. 
+Before initiating the heist, the party split. While Silvia stayed behind to keep an eye on the volatile Morta and her tendency to set random objects on fire, **Garp**, **Cuckooch**, and **Fynn** slipped back into the icy streets of **Frostlight**. 
 
 Their destination was the **Spire Scribe Archives**, a dusty, moldering shop filled with the scent of ancient parchment and maps of planes that no longer existed. Behind the desk sat **Gaden**, an elderly, wrinkled elf. 
 
@@ -38,11 +38,11 @@ Garp tossed a gold piece to the surprisingly agile old elf. The revelation hung 
 
 ## Chapter III: The Vault of the Silent Sentinels
 
-Reunited at the rendezvous point, the party prepared their "disguises." Refusing to go unnoticed, Slicer wore a burlap sack with cut-out eyeholes and a drawn-on mustache, while the rest opted for simple, almost comedic eye masks. 
+Reunited at the rendezvous point, the party prepared their "disguises." Refusing to go unnoticed, S Licer wore a burlap sack with cut-out eyeholes and a drawn-on mustache, while the rest opted for simple, almost comedic eye masks. 
 
 With a wave of Tristle’s hands, the world warped. 
 
-They materialized in a dark, oppressive corridor of cold iron. The air was dead and silent. Sylvia cast *Light* upon her shield, illuminating four massive, locked vault doors. Opposite each door stood a life-sized stone statue: a human, an elf, and two dwarves, each holding a different weapon.
+They materialized in a dark, oppressive corridor of cold iron. The air was dead and silent. Silvia cast *Light* upon her shield, illuminating four massive, locked vault doors. Opposite each door stood a life-sized stone statue: a human, an elf, and two dwarves, each holding a different weapon.
 
 ```
 Vault Layout:
@@ -52,17 +52,17 @@ Vault Layout:
 [Elf (Rapier)]  --> [Locked Vault 4] (Targeted)
 ```
 
-Believing the treasures of the Spades lay within, Finn stepped up to the elf's vault. He slipped his thieves' tools into the lock. He felt the tumblers click, then—*snap*. The lockpick broke.
+Believing the treasures of the Spades lay within, Fynn stepped up to the elf's vault. He slipped his thieves' tools into the lock. He felt the tumblers click, then—*snap*. The lockpick broke.
 
-Instantly, the grinding of stone on stone echoed through the chamber. The elf statue animated, thrusting its stone rapier directly at Finn's throat. Finn ducked just in time as the stone blade slammed into the iron door behind him.
+Instantly, the grinding of stone on stone echoed through the chamber. The elf statue animated, thrusting its stone rapier directly at Fynn's throat. Fynn ducked just in time as the stone blade slammed into the iron door behind him.
 
 A brief, violent skirmish erupted:
 *   **Cuckooch** unleashed a blistering *Firebolt*.
 *   **Garp** fired his custom shotgun, the pellets ricocheting wildly off the stone armor.
-*   **Cutter** and **Slicer** moved in tandem, their blades flashing with radiant energy and martial precision.
-*   **Sylvia** delivered a devastating blow with her vorpal blade, shattering the stone sentinel into harmless rubble.
+*   **Cutter** and **S Licer** moved in tandem, their blades flashing with radiant energy and martial precision.
+*   **Silvia** delivered a devastating blow with her vorpal blade, shattering the stone sentinel into harmless rubble.
 
-An attempt by Sylvia to pry the vault door open with a crowbar only resulted in bent iron. Realizing these vaults were decoy traps, the party pressed deeper into the complex.
+An attempt by Silvia to pry the vault door open with a crowbar only resulted in bent iron. Realizing these vaults were decoy traps, the party pressed deeper into the complex.
 
 ---
 
@@ -80,7 +80,7 @@ As the rest of the party stepped forward, the iron grates beneath them suddenly 
 
 ```
 =================== LAVA CHAMBER DISASTER ===================
-[Slicer]: Saved by Cutter's quick reflexes and a desperate Starlight Step.
+[S Licer]: Saved by Cutter's quick reflexes and a desperate Starlight Step.
 [Garp]: Blasted by the Iron Golem's massive mace. Knocked unconscious.
 [Status]: Falling directly into the lava.
 =============================================================
@@ -89,9 +89,9 @@ As the rest of the party stepped forward, the iron grates beneath them suddenly 
 Garp’s unconscious body slipped into the molten rock. The smell of burning flesh filled the air. 
 
 In a display of sheer panic and heroic coordination, the party rallied:
-*   **Cuckooch** frantically brewed more flight elixirs, tossing them to Finn and Tristle.
-*   **Sylvia** activated her angelic wings, diving through the suffocating heat. Using her telekinetic prowess, she hoisted Garp’s charred, blistered body out of the magma and poured a *Greater Healing Potion* down his throat. Garp gasped back to life, clutching Sylvia in the air.
-*   **Slicer and Cutter** utilized their teleportation abilities—Slicer's *Starlight Step* and Cutter's watery *Wet Warp*—to blink across the gaps of the cavern, catching each other over the open flames.
+*   **Cuckooch** frantically brewed more flight elixirs, tossing them to Fynn and Tristle.
+*   **Silvia** activated her angelic wings, diving through the suffocating heat. Using her telekinetic prowess, she hoisted Garp’s charred, blistered body out of the magma and poured a *Greater Healing Potion* down his throat. Garp gasped back to life, clutching Silvia in the air.
+*   **S Licer and Cutter** utilized their teleportation abilities—S Licer's *Starlight Step* and Cutter's watery *Wet Warp*—to blink across the gaps of the cavern, catching each other over the open flames.
 
 ---
 
@@ -99,20 +99,20 @@ In a display of sheer panic and heroic coordination, the party rallied:
 
 Stranded on the precipice of death, the party turned their fury upon the Iron Guardian. 
 
-Finn placed a dark *Hex* upon the golem, slowing its stony joints. Garp, braced against Sylvia’s side, leveled his anti-matter rifle and fired two devastating shots, the necrotic energy eating away at the golem's iron framework. 
+Fynn placed a dark *Hex* upon the golem, slowing its stony joints. Garp, braced against Silvia’s side, leveled his anti-matter rifle and fired two devastating shots, the necrotic energy eating away at the golem's iron framework. 
 
-Sylvia unleashed a burst of telekinetic force, sweeping the massive golem off its feet and knocking it prone onto the stone platform. 
+Silvia unleashed a burst of telekinetic force, sweeping the massive golem off its feet and knocking it prone onto the stone platform. 
 
-With the guardian grounded, Cutter leaped forward. His crystal blade erupted with blinding, holy light as he unleashed a barrage of high-level paladin smites. Slicer followed his brother's lead, his sword carving deep gouges into the golem's faceplate. 
+With the guardian grounded, Cutter leaped forward. His crystal blade erupted with blinding, holy light as he unleashed a barrage of high-level paladin smites. S Licer followed his brother's lead, his sword carving deep gouges into the golem's faceplate. 
 
-With a final, desperate strike from Sylvia, the Iron Guardian cracked, shattered, and collapsed into a heap of melting slag and stone.
+With a final, desperate strike from Silvia, the Iron Guardian cracked, shattered, and collapsed into a heap of melting slag and stone.
 
 The cavern fell quiet, save for the crackle of the lava below and the heavy breathing of the battered party. Garp was alive, but barely. Their resources were depleted, their escape route was melted, and the massive vault door still stood firmly shut before them.
 
 ***
 
 **Current Status:**
-*   **Slicer:** Moderately wounded, low on arcane steps.
+*   **S Licer:** Moderately wounded, low on arcane steps.
 *   **Garp:** Severely burned, out of ammunition.
-*   **Sylvia:** Winged, keeping the party aloft.
+*   **Silvia:** Winged, keeping the party aloft.
 *   **The Vault:** Sealed.

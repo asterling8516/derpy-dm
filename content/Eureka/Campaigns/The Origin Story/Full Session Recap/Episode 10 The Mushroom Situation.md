@@ -2,7 +2,7 @@
 
 ## Part I: The Quiet Before the Storm
 
-The air in the subterranean ruins grew heavy, thick with the scent of old dust and dried copper. Having survived a gauntlet of relentless battles, the party stood catching their breath. **Finn**, guided by the whispering magic of his *Wand of Secrets*, pointed toward a suspicious corner of the chamber. Working together, **Jersey** and **Kukush** pried loose a hollow stone tile. Beneath the cobwebs of decades lay a beautifully woven **Cloak of Elvenkind**—a perfect tool for **Garp**, the party’s silent stalker.
+The air in the subterranean ruins grew heavy, thick with the scent of old dust and dried copper. Having survived a gauntlet of relentless battles, the party stood catching their breath. **Fynn**, guided by the whispering magic of his *Wand of Secrets*, pointed toward a suspicious corner of the chamber. Working together, **Jersey** and **Kookoush** pried loose a hollow stone tile. Beneath the cobwebs of decades lay a beautifully woven **Cloak of Elvenkind**—a perfect tool for **Garp**, the party’s silent stalker.
 
 Yet, survival demanded more than stolen treasures. The party's spellcasters were utterly drained, their magical reserves running on fumes, and their bodies were battered. They needed rest. 
 
@@ -16,13 +16,13 @@ Sensing a temporary window of safety, they retreated to a defensible nook in the
 
 ```
 Watch Schedule:
-1. Jersey Spinks
+1. Jersey
 2. Naya
-3. Kukush
-4. Finn & Garp
+3. Kookoush
+4. Fynn & Garp
 ```
 
-### The First Watch: Jersey Spinks
+### The First Watch: Jersey
 Barely fifteen minutes after the camp fell dark, the silence broke. The ruins groaned back to life. In the distance, Jersey heard the rhythmic, chilling jingle of dragging chains and the skittering of unseen vermin. Nothing approached their alcove, but the dungeon was awake once more.
 
 ### The Second Watch: Naya
@@ -38,22 +38,22 @@ Zallust grinned, a terrible, sharp-toothed expression. He gestured for her to fo
 
 With a mocking wink and a wave over his shoulder, the devil vanished back into the dark. Naya returned to her post, letting out a breath she hadn't realized she was holding, while Garp’s heavy, rhythmic snoring echoed through the stone chamber.
 
-### The Third Watch: Kukush
-As the hours crawled by, Kukush took his place. His keen eyes caught a slow, shuffling movement down the narrow corridor. Several horrific figures—some dripping with animated blood, others held together by exposed, yellowed bone—were dragging themselves toward the camp. 
+### The Third Watch: Kookoush
+As the hours crawled by, Kookoush took his place. His keen eyes caught a slow, shuffling movement down the narrow corridor. Several horrific figures—some dripping with animated blood, others held together by exposed, yellowed bone—were dragging themselves toward the camp. 
 
-Reacting instantly, Kukush kicked over a nearby weapon rack. The metal clattered violently against the stone, shattering the quiet. 
+Reacting instantly, Kookoush kicked over a nearby weapon rack. The metal clattered violently against the stone, shattering the quiet. 
 > "Move! Wake up! We have company!"
 
 ***
 
 ## Part III: The Fungal Infection
 
-The battle was swift but chaotic. Kukush unleashed searing *Firebolts*, Garp’s pistol barked in the tight corridor, and Finn sent a crackling line of *Lightning Bolt* tearing through the packed monsters. Jersey’s heavy fists shattered bone, and Naya’s *Eldritch Blasts* tore the remaining undead to ribbons.
+The battle was swift but chaotic. Kookoush unleashed searing *Firebolts*, Garp’s pistol barked in the tight corridor, and Fynn sent a crackling line of *Lightning Bolt* tearing through the packed monsters. Jersey’s heavy fists shattered bone, and Naya’s *Eldritch Blasts* tore the remaining undead to ribbons.
 
 With the immediate threat neutralized, the party completed their rest, greeting a new dawn in the dark underbelly of the world. 
 
 ### The Cursed Harvest
-Continuing north, they discovered a corpse slumped against the wall, heavily overgrown with bizarre, vibrant yellow mushrooms. Intrigued, Kukush knelt to harvest a specimen. 
+Continuing north, they discovered a corpse slumped against the wall, heavily overgrown with bizarre, vibrant yellow mushrooms. Intrigued, Kookoush knelt to harvest a specimen. 
 
 The moment his blade sliced the stalk, the corpse tensed. The fungal roots knitting its bones together tightened, pulling the dead thing back to its feet. 
 
@@ -62,19 +62,19 @@ A fresh skirmish erupted. Jersey lunged forward, punching the creature, but the 
 Though the party held their breath and resisted the toxic spores, the sweet, sickly scent of the cooked mushrooms filled the room. The spores found a host. 
 
 ### The Madness Spreads
-Finn’s eyes went wide. Fungal stalks rapidly sprouted across his skin, and his mind fractured. Under the thrall of the spores, he turned on his allies. 
+Fynn’s eyes went wide. Fungal stalks rapidly sprouted across his skin, and his mind fractured. Under the thrall of the spores, he turned on his allies. 
 
-Thinking fast, Kukush lunged at Finn, pinning him to the ground. Reaching into his pouch, Kukush pulled out a rare **Tear Blossom Mushroom**—a known counter-agent—and violently shoved it down Finn's throat. Finn choked, coughed, and snapped out of the delusion, the spores on his skin withering.
+Thinking fast, Kookoush lunged at Fynn, pinning him to the ground. Reaching into his pouch, Kookoush pulled out a rare **Tear Blossom Mushroom**—a known counter-agent—and violently shoved it down Fynn's throat. Fynn choked, coughed, and snapped out of the delusion, the spores on his skin withering.
 
 But the danger was far from over. The final spore zombie unleashed another burst. This time, Jersey failed to resist. The towering brawler sprouted yellow caps along his arms, his eyes glazing over with fungal madness. 
 
 Naya immediately conjured a torrential downpour using *Create Water*, soaking the room to prevent further airborne spores. 
 
-Kukush tried to repeat his force-feeding trick on Jersey, but the charmed giant was too fast. Jersey swatted Kukush away, delivering a stunning blow that knocked the artificer unconscious. 
+Kookoush tried to repeat his force-feeding trick on Jersey, but the charmed giant was too fast. Jersey swatted Kookoush away, delivering a stunning blow that knocked the artificer unconscious. 
 
-Garp fired a non-lethal shot to subdue his friend, but Jersey’s iron-like reflexes allowed him to catch the bullet out of the air. It took a coordinated effort—Naya freezing Jersey with *Frostbite* and Garp delivering a final, precise shot—to finally knock the giant unconscious and break the spore's hold. Finn sliced the last zombie in half with his *Green Flame Blade*.
+Garp fired a non-lethal shot to subdue his friend, but Jersey’s iron-like reflexes allowed him to catch the bullet out of the air. It took a coordinated effort—Naya freezing Jersey with *Frostbite* and Garp delivering a final, precise shot—to finally knock the giant unconscious and break the spore's hold. Fynn sliced the last zombie in half with his *Green Flame Blade*.
 
-Battered, bruised, and covered in soot, the party dragged Jersey and Kukush out of the spore-choked room. They administered healing potions, stabilized their wounds, and systematically incinerated the remaining mushrooms with fire magic until nothing but ash remained.
+Battered, bruised, and covered in soot, the party dragged Jersey and Kookoush out of the spore-choked room. They administered healing potions, stabilized their wounds, and systematically incinerated the remaining mushrooms with fire magic until nothing but ash remained.
 
 ***
 
@@ -104,9 +104,9 @@ Offerings & Divine Boons:
 | :--- | :--- | :--- | :--- |
 | **Garp** | Mother of the Veils | 5 Poison Bullets | **Unseen Presence of the Void**: Can turn invisible as a bonus action in dim light/darkness once per rest. |
 | **Jersey** | Tiamat | Boots of Speed | **Chromatic Breath**: Can exhale a 15-foot cone of elemental energy once per long rest. |
-| **Finn** | Serafina (Custom Shrine) | A handwritten vow of remembrance | **Shadow Step**: Can teleport up to 30 feet as a bonus action (uses equal to proficiency bonus). |
+| **Fynn** | Serafina (Custom Shrine) | A handwritten vow of remembrance | **Shadow Step**: Can teleport up to 30 feet as a bonus action (uses equal to proficiency bonus). |
 | **Naya** | The Fickle Fates | Custom raincoat, pride silk outfit, & a dagger | **Thread Weaver**: Gained two Luck Points that replenish at dawn. |
-| **Kukush** | Gond | A magically tinkered tin whistle emitting the scent of forge coals | **Clockwork Spark**: Once per long rest, can treat a failed save or missed attack roll as a natural 20. |
+| **Kookoush** | Gond | A magically tinkered tin whistle emitting the scent of forge coals | **Clockwork Spark**: Once per long rest, can treat a failed save or missed attack roll as a natural 20. |
 ```
 
 As the divine light of the boons settled into their souls, the party stood in the silent chamber, feeling a renewed surge of power. The final confrontation with Zallust loomed ahead, but they were no longer the weak prey the devil had mocked. They were armed by the old gods themselves.

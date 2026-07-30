@@ -1,4 +1,8 @@
 %% Begin Waypoint %%
+- **Character notes**
+	- [[Garp]]
+	- [[Kookush Mamawaseasak]]
+	- [[Silvia]]
 - **PDF**
 
 - **Went to the Farm**
@@ -8,6 +12,6 @@
 - [[Garp]]
 - [[Kookush Mamawaseasak]]
 - [[S Licer]]
-- [[Silvia Surath]]
+- [[Silvia]]
 
 %% End Waypoint %%
