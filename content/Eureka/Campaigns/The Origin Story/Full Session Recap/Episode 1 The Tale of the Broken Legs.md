@@ -58,7 +58,7 @@ The pylon began to expand, vacuuming the campfire's flames into its core. The me
 
 A holographic projection beamed from the owl’s eyes, displaying a pre-recorded video of the party themselves. In the recording, they were actively planning an operation. The past version of themselves explained the situation:
 
-> *"If you're seeing this, it worked. Your memories have been sealed into the Echo Shards. To enter this place, you had to be forgotten. You still have your skills, your spells, and your instincts, but your identities are locked. Your objective is to find the **First Cord**. This construct is **Glimmer**. He will guide you to **Lady Seraphina, the Queen of Lost Things**. She can point you to the Cord. Good luck."*
+> *"If you're seeing this, it worked. Your memories have been sealed into the Echo Shards. To enter this place, you had to be forgotten. You still have your skills, your spells, and your instincts, but your identities are locked. Your objective is to find the **First Cord**. This construct is **Glimmer**. He will guide you to **[[Eureka/Places/The Shifting Veil/Lady Seraphina|Lady Seraphina]], the Queen of Lost Things**. She can point you to the Cord. Good luck."*
 
 The hologram faded. Glimmer the owl clicked, cooed, and dropped a small scroll from his talons. Written upon it was a single word in Primordial: *Democ*—the command word for a small, metallic chess rook found in their gear: an **Instant Fortress**.
 

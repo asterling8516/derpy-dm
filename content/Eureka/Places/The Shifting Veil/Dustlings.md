@@ -5,6 +5,9 @@ tags:
   - theveil
   - homebrew
   - creature
+aliases:
+  - Dustling
+  - dustling
 ---
 ![[dustlings.jpg]]
 

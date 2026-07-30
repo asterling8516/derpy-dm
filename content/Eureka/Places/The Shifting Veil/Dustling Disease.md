@@ -1,0 +1,1 @@
+A strange affliction that seems to over time turn one in a [[Dustlings|Dustling]]. 

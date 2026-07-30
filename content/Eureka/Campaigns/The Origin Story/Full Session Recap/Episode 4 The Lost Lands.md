@@ -2,7 +2,7 @@
 
 ## Act I: The Spire of Mismatched Memories
 
-The morning in Elysia began with the lingering taste of wild mushrooms and the uneasy peace of a realm built on what the world had cast aside. Eager to find answers regarding the "First Chord" and a cure for their fading companion, Birdie, the party made their way to the towering spire at the center of town. 
+The morning in [[Elysia]] began with the lingering taste of wild mushrooms and the uneasy peace of a realm built on what the world had cast aside. Eager to find answers regarding the "First Chord" and a cure for their fading companion, Birdie, the party made their way to the towering spire at the center of town. 
 
 The spire itself was a surreal monument to the forgotten:
 * **The Architecture:** Constructed entirely of yellowing paper, the structure was braced by mismatched furniture legs, raw tree branches, and entire uprooted trees holding up the paper walls.
@@ -24,11 +24,11 @@ Then, **Lady Seraphina** entered.
 ```
 OSIDIAN NOTE: Lady Seraphina
 - Perception of her is warped. Fynn and Garp struggled to keep their eyes on her, their gaze constantly slipping away as if she were a fading thought. 
-- Kookoush and Naya, already touched by the shifting veil of the dustlings, could see her clearly.
+- Kookoush and Naya, already touched by the shifting veil of the [dustlings], could see her clearly.
 ```
 
-Seraphina, gentle and melancholy, immediately untied Birdie from Naya’s broom, soothing her. She explained the tragic nature of Elysia:
-* **The Dustling Curse:** Anyone who stays in Elysia eventually fades. Their colors wash away, their memories dissolve, and they transform into the "perfect," quiet dustlings who serve the spire. 
+Seraphina, gentle and melancholy, immediately untied Birdie from Naya’s broom, soothing her. She explained the tragic nature of [[Elysia]]:
+* **The [[Dustlings|Dustling]] Curse:** Anyone who stays in [[Elysia]] eventually fades. Their colors wash away, their memories dissolve, and they transform into the "perfect," quiet [[dustlings]] who serve the spire. 
 * **The Lands of the Lost:** While Seraphina had no knowledge of the First Chord, she pointed them toward the outermost ring of her map. In these desolate outer lands, her power is weakest. The oldest forgotten things reside there, corrupted by time and regret. 
 * **The Time Dilation:** She warned them that time behaves erratically in the outer rings. A journey of a few hours inside the mist could translate to years passing in the world outside.
 

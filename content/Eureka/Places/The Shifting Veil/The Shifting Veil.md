@@ -30,9 +30,10 @@ While the sun is always high in the sky here its constantly blurred into a dusk-
 # Table of Contents
 
 %% Begin Waypoint %%
+- [[Dustling Disease]]
 - [[Dustlings]]
 - [[Elysia]]
-- [[Eureka/Places/The Shifting Veil/Lady Seraphina]]
+- [[Lady Seraphina]]
 - [[Mushrooms]]
 - [[The Spire of Whispers]]
 - [[Tumblesteeds]]
