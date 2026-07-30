@@ -1,10 +1,10 @@
-# The Chronicles of Oasis City: Chaos, Cleansing, and a Floating Friend
+# The Chronicles of [[Oasis City]]: Chaos, Cleansing, and a Floating Friend
 
 ## Act I: A Rift in the Heavens
 
 The journey began with quiet preparation. Before the company set out across the shifting desert sands, the artificer **Frezzer** put the finishing touches on a peculiar artifact of his own creation: *The Book of Common*. Hand-bound and adorned with a small, friendly muffin illustrated in the corner, it was designed to teach the common tongue to the strange desert dwellers they had recently encountered. 
 
-With their flying carpet unfurled, the party boarded the magical tapestry and took to the skies, aiming straight for the legendary Oasis City. 
+With their flying carpet unfurled, the party boarded the magical tapestry and took to the skies, aiming straight for the legendary [[Oasis City]]. 
 
 But the desert sky is never entirely safe.
 
@@ -40,19 +40,19 @@ After purchasing a sturdy meat-cutting sword from the Grillmaster for forty gold
 ## Act III: The Jewel of the Sands
 
 ```
-Oasis City
+[Oasis City]
 ├── The Neon Canopy (Rebel Bar)
 └── The Ziggurat (Clear Water Baths)
 ```
 
-Crossing the final, static-charged dune, the brutal heat of the desert suddenly broke against a wall of cool, humid air. Before them lay **Oasis City**—a breathtaking metropolis where ancient clay and brick buildings, inlaid with glittering aquamarine, stood alongside high-tech progress. At the city’s heart, a lush green jungle climbed the tiers of a massive, stepped ziggurat built over a sparkling lake.
+Crossing the final, static-charged dune, the brutal heat of the desert suddenly broke against a wall of cool, humid air. Before them lay **[[Oasis City]]**—a breathtaking metropolis where ancient clay and brick buildings, inlaid with glittering aquamarine, stood alongside high-tech progress. At the city’s heart, a lush green jungle climbed the tiers of a massive, stepped ziggurat built over a sparkling lake.
 
 Floating above the city was a holographic billboard broadcasting wanted posters. To their dismay, the faces of the party flickered across the screen, labeled as "lost assets" of the corporate entity *Happily Ever After*, interspersed with hundreds of photos of missing citizens.
 
 ### The Rebel Sanctuary
 Desperate to blend in, Prezzer used his mechanical genius to graft spare metal plating onto his frame, adopting the alias **Felipe the Mechanic**. They slipped past the gates and made their way to **The Neon Canopy**, a rowdy tavern covered in anti-corporate graffiti. 
 
-Inside, the crystal-bug bartender confirmed their fears: people had been vanishing from the streets of Oasis City for over a month. 
+Inside, the crystal-bug bartender confirmed their fears: people had been vanishing from the streets of [[Oasis City]] for over a month. 
 
 It was here they met **Jan**, a shapeshifting elven rebel leader. Recognizing the tracking mana gems embedded in the party's chests, she offered to remove them.
 
@@ -98,4 +98,4 @@ Once safely outside the city gates, the party began cracking open the mysterious
 
 As the dual suns began to set over Oasis City, the party—now accompanied by a giant bird-man, a scarred but free tree-man, and a floating, encouraging flump—sought out an inn. They had lost their trackers, gained a chaotic arsenal of magic, and taken their first steps into a much larger rebellion. 
 
-The road ahead was uncertain, but as Daryl the Flump whispered in Prezzer's mind: *“You’re doing great, buddy.”*
+The road ahead was uncertain, but as Daryl the Flump whispered in Frezer's mind: *“You’re doing great, buddy.”*

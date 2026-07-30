@@ -25,7 +25,7 @@ Garp, usually a man of few words and many drinks, stepped forward. He was not th
 
 ```
 [Garp's Inquiry: Caspian & Coralli]
-  └─ Last Known Location: The Deserts outside Oasis City
+  └─ Last Known Location: The Deserts outside [Oasis City]
   └─ Traveling Companions: Desert Nomads riding giant lizards
   └─ Caspian's Age: Approximately 5 years old
 ```

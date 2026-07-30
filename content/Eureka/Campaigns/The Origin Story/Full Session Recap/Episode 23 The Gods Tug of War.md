@@ -115,4 +115,4 @@ As Silvia and S Licer carried Fynn's highly malleable body out of the cavern, Ko
 
 The war between storms and hellfire was ancient, and Fynn was now directly in the center of it.
 
-Silently, the party retreated from the boiling cave, carrying their strange, boneless companion back to the giant lizard. Ahead of them, shimmering on the horizon, lay the Oasis City.
+Silently, the party retreated from the boiling cave, carrying their strange, boneless companion back to the giant lizard. Ahead of them, shimmering on the horizon, lay the [[Oasis City]].

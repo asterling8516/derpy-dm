@@ -3,7 +3,7 @@
 ## Session Recap: The Aftermath of the Ink
 The party emerged from the choking dark of the cavern, battered but victorious. Behind them lay the shattered sigils of Asmodeus and Talos. **Fynn** stood tall, finally liberated from the dark lord’s branding—though the cost of his freedom was the loss of his spectral tattoos and his signature chain weapon. **Guillermo**, the cursed specter who had haunted their footsteps, was finally laid to rest as the party took a much-needed long rest under the desert stars. 
 
-With their wounds bound and their spirits tentatively restored, the party looked toward their next destination: the sprawling metropolis known as **Oasis City**.
+With their wounds bound and their spirits tentatively restored, the party looked toward their next destination: the sprawling metropolis known as **[[Oasis City]]**.
 
 ---
 
@@ -45,7 +45,7 @@ The surrounding orcs took up the chant: *"Grill-off! Grill-off! Grill-off!"*
 
 Thrum, bound by the sacred laws of the spatula, accepted. S Licer stepped up to the secondary scrap-grill. Though S Licer’s technique was chaotic, his seasoning was inspired. When the plates were presented to the high and hungry orc crowd, S Licer’s burgers were declared the tasting champions—though Thrum’s burgers possessed literal healing properties. 
 
-Conceding defeat with gruff respect, Thrum fist-bumped S Licer (nearly dislocating the elf's shoulder) and declared them "Grill Brothers." He warned the party that Oasis City was only two days away, but whispered rumors of strange disappearances plaguing the city streets.
+Conceding defeat with gruff respect, Thrum fist-bumped S Licer (nearly dislocating the elf's shoulder) and declared them "Grill Brothers." He warned the party that [[Oasis City]] was only two days away, but whispered rumors of strange disappearances plaguing the city streets.
 
 ---
 
@@ -82,10 +82,10 @@ Using Fynn's "eternally wet sock" (a highly questionable decanter of endless wat
 
 ---
 
-## Chapter 5: Dawn Over Oasis City
+## Chapter 5: Dawn Over [[Oasis City]]
 As the sun began to rise, painting the dunes in shades of gold and violet, the party dragged themselves toward the horizon. 
 
-Led by a zigzagging Garp, a neighing S Licer on all fours, a floating frog-artificer, and a magic-less Fynn shouting about grilling techniques, they finally beheld **Oasis City**.
+Led by a zigzagging Garp, a neighing S Licer on all fours, a floating frog-artificer, and a magic-less Fynn shouting about grilling techniques, they finally beheld **[[Oasis City]]**.
 
 The metropolis was a breathtaking expanse of clay structures centered around a colossal, gleaming pyramid. Floating high above the city streets was a massive magical billboard. It flashed with the words **"HAPPILY EVER AFTER,"** quickly followed by a rotating gallery of **Wanted Posters**. 
 
