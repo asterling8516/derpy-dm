@@ -1,0 +1,3 @@
+Pronounced (BYE-top-ee-uh)
+
+A land found beyond the veil with creatures from across all of time and plane. The inhabitants have found a way to transfer the knowledge they possess usually used for transferring the knowledge of language since there are so many people from all walks of life communication was difficult until this crystal was found. A small crystal similar to the [[Echo Shards]] except these give off a green glow instead of a purple one. 

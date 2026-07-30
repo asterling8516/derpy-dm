@@ -1,0 +1,6 @@
+---
+tags:
+  - PC
+aliases:
+  - Odin
+---

@@ -1,0 +1,11 @@
+You headed outside of town and found an old ship that had a huge bite taken out of it that had been turned into a makeshift house. Happy knocked on the door and then just barged in after hearing some noise come from inside the ship. An old dwarf with a peg leg was stuck in the floor boards of the ship and was not impressed with Happy who just went to make himself comfortable in the dwarfs hammock after filling it with straw. Stove and Odin helped the dwarf get unstuck and mended his leg and the floor. 
+
+You learned the Dwarfs name was Captain Jedidiah Ahab and had chosen to live in his ruined ship after his crew had died. You questioned him about the sea hag and what had been going on in town, but he was clueless about both. He asked if you'd be interested in helping him take on a great white whale he had been hunting and you said yes! He told you to give him a few days to gather a ship and crew and meet him back here. 
+
+You headed back into town and decided to go shopping. Once getting back into town you noticed a large obsidian building and decided to check it out. Outside of the building you found a statue of a five headed dragon. Surrounding the central building were five glowing spires that gave off a different color (red, green, blue, black, and white). 
+
+You headed into the cathedral and found a golden altar that Odin knew was The Altar of Avarice. Used by demons to make the most powerful contracts. You all immediately ran out. Heading into the shops you found a Happily Ever After general store and a shop selling many odd things. You bought some rope and other things for the travel and headed over to the shop of many things and bought a few goodies that caused various effects from harming you to summoning monsters. You then chose to wait until Captain Ahab was ready going back to his house he then lead you to the docks to a massive ship  called The Devoted Maiden, but Odin noticed it only had 12 cannons most were missing. 
+
+You briefly spoke with Captain Ahab and set sail into the  
+
+That is where we are now

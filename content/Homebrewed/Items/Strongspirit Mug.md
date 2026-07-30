@@ -1,0 +1,2 @@
+*Wondrous Item, Common* 
+As an action, you can cause this magic mug to fill with strong spirits or convert any liquid within it to a strong, alcoholic beverage. A creature that drinks a full mug of this beverage must succeed on a DC 12 Constitution saving throw or become [[poisoned]] for 1 hour. A creature poisoned this way has advantage on saving throws against being frightened and gains 2d6 temporary hit points. Once used, this property can’t be used again until the next dawn.

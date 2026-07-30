@@ -1,0 +1,1 @@
+You meet a strange bard who was watching you while you were at the Feasting Orchard 

@@ -1,0 +1,9 @@
+---
+tags:
+  - recap
+---
+Welcome back everyone!
+
+Last time we met our party on a fancy air yach. Where you were given fine foods and treated with exquisite furnishings, by unseen servents as [[Sleepy]] tried talking with them. As you looked out from the massive window aboard the ship you saw [[Infernium - The Capital City|Infernium]] the Capital City where wealth and fortune can be found by those that seek it and lost just as quickly. You were delivered to a massive marble town on a floating island that none of you ever remember seeing from the ground. After checking out the outside of the tower you headed in and were weary of a mirror in the room. [[Odin Steelwing|Odin]] and [[Stove]] drank some tea from a tea pot causing you to float up the tower Willy Wonka style finding yourself at a wooden landing with far less kept furnishings. Meeting Codex the "book golem" you were then told given the details of the job you were hired for. Go to the mist veil anchorage and find out what happened to the library there. You also learned that Codex has sent others before you slowly growing the party size since none have returned. [[Sleepy]] almost got lost in the infinite expanse of the library. As you took some time to explore [[Infernium - The Capital City|Infernium]] [[Odin Steelwing|Odin]] was drawn into one of the casinos and you spent some time gambling using soul coins and quickly learned how people can be tempted with [[Infernium]] as each soul coin being worth 20gp. [[Adamson]] winning over 1000gp worth of soul coins. You then bought some potions and a cane and top hat for [[Odin Steelwing|Odin]] you set out though were tempted to purchase a Giant Snail on the edge of town. You set off and were attacked by some spiny winged demons and took a rest shortly after and that is where we are now.
+
+

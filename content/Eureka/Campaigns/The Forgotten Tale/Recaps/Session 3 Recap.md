@@ -1,0 +1,25 @@
+The party did this mostly, but here's some key points:
+
+- Everyone woke up in a tavern after having dreamed of the travels to [[Mistveil Anchorage|Mistveil]]. You had arrived 8 days ago.
+- You all have terrible migraines
+- There were two more beds in this room than there were members in your party. 
+- You asked the Inn Keep Sora. A small Tiefling woman about the beds and asked how many of you had come. She told you only the 4 of you that she knew about. 
+- You learned people around town had talked about people who have gone missing, but most thought they were crazy or playing jokes
+- You found the missing archive that was disguised as a normal house.
+- When you went inside you found a small library with tombs from floor to ceiling and a small door painted over to look like a normal bookshelf
+- After picking the lock you found a small room with blood leading to small window out the back. 
+- You reached out to codex using the scroll of sending he gave you and he asked you to find out what happened to Glimfeather the librarian for this location
+- You wondered around town for a while asking everyone and heard the same story that there's been some people around town saying people have gone missing, but it seems like lies
+- Stove remembered that you had made this trip with two other people a goliath and a Tiefling
+- Stove wanted to go to a local church and found the church of [[The Fickle Fates]] 
+- Went inside and asked who was in charge and one of the people said "your in charge man"
+- Happy did drugs while you looked around and found more blood trails leading out of this place
+- Headed back to the inn
+- Got the potions they had as Sora was clearing out the room
+- Stove went up to the room
+- Odin around the tavern for help with whatever was going on in the city
+- Happy hung out outside for a moment enjoying his high when he felt that he was being watched.  His migraine increased and he heard a sound like something slithering on the ground and screamed into the city he knew he was being watched and headed in 
+- You were able to get some information out of the patrons at the bar and learned tale of a sea hag in the waters surrounding Mistveil and a dwarf who supposedly survived an attack from her that lived on the edge of the city beyond the farms
+- You all decided to head back to the library as it was getting late 
+- Stove found a book describing a creature that was a hydra with the body of a human 
+- You spent the night here instead of traveling at night

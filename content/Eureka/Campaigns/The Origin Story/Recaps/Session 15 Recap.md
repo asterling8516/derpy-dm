@@ -1,0 +1,1 @@
+Last time you guys juiced your newly acquired slug and learned that it was very poisonous depending on how its used. 
