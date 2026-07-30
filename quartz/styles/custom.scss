@@ -66,3 +66,34 @@ hr {
   background-color: transparent !important;
   border-radius: 4px;
 }
+
+/* D&D Styled Tables */
+.markdown-rendered table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  font-family: var(--bodyFont);
+}
+
+.markdown-rendered table th {
+  background-color: var(--secondary);
+  color: var(--light);
+  font-weight: bold;
+  padding: 0.75rem;
+  text-align: left;
+  border-bottom: 3px solid var(--tertiary);
+}
+
+.markdown-rendered table td {
+  padding: 0.6rem;
+  border-bottom: 1px solid var(--lightgray);
+}
+
+.markdown-rendered table tbody tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.markdown-rendered table tbody tr:nth-child(odd) {
+  background-color: transparent;
+}

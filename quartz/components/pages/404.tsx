@@ -8,7 +8,8 @@ const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
   return (
     <article class="popover-hint">
       <h1>404</h1>
-      <p>{i18n(cfg.locale).pages.error.notFound}</p>
+      <p>You rolled a Natural 1 on your Investigation check. This page does not exist.</p>
+      <img src={`${baseDir}static/nat1.png`} alt="Natural 1 on a D20" style={{ maxWidth: "300px", display: "block", margin: "2rem auto", borderRadius: "12px", boxShadow: "0 8px 16px rgba(0,0,0,0.5)" }} />
       <a href={baseDir}>{i18n(cfg.locale).pages.error.home}</a>
       <script
         dangerouslySetInnerHTML={{
