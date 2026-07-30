@@ -17,3 +17,39 @@
   background-size: contain;
   background-repeat: no-repeat;
 }
+
+/* Background Texture */
+body {
+  background-color: var(--light);
+  background-image: 
+    radial-gradient(circle at center, transparent 0%, #110d0a 100%),
+    url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)' opacity='0.08'/%3E%3C/svg%3E");
+  background-attachment: fixed;
+}
+
+/* Stylized Horizontal Rule */
+hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--secondary), transparent);
+  margin: 2.5rem 0;
+  opacity: 0.7;
+}
+
+/* Add an inner shadow/border to the main article to look like a bound page */
+.page .center, .popover-inner {
+  padding: 2.5rem;
+  border-radius: 6px;
+  box-shadow: inset 0 0 30px rgba(0, 0, 0, 0.4), 0 4px 15px rgba(0, 0, 0, 0.6);
+  border: 1px solid var(--lightgray);
+  background-color: rgba(26, 22, 20, 0.6);
+  backdrop-filter: blur(3px); /* subtle glass effect over the noise */
+}
+
+/* Style tags slightly for the fantasy theme */
+.tag-link {
+  border: 1px solid var(--tertiary);
+  color: var(--tertiary) !important;
+  background-color: transparent !important;
+  border-radius: 4px;
+}
