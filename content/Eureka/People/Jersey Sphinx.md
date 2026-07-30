@@ -1,1 +1,1 @@
-You know nothing about this....yet.
+An old boxer who was lost in the new world. Having defeated the devil Zalost who aided in killing his father time caught up to him bring an end to the Goliaths abnormally long life. 
