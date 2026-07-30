@@ -2,7 +2,7 @@
 
 ## Act I: The Loop Begins
 
-The air in the chamber was thick with the scent of ozone and ancient dust. Standing before the party was Zalost, flanked by shimmering, identical duplicates, with the missing Naya standing silently by his side. Having just granted the party a magical, instantaneous long rest—a boon accepted by all save for the stubborn Garp—the timekeeper made one final request: *“Please, take a few steps back before we begin.”*
+The air in the chamber was thick with the scent of ozone and ancient dust. Standing before the party was Zalost, flanked by shimmering, identical duplicates, with the missing Nijya standing silently by his side. Having just granted the party a magical, instantaneous long rest—a boon accepted by all save for the stubborn Garp—the timekeeper made one final request: *“Please, take a few steps back before we begin.”*
 
 With those words, the ticking of the cosmic clock ceased. Initiative was rolled, and the battle for survival began.
 
@@ -37,14 +37,14 @@ Knowing they were trapped in an endless loop unless the device was destroyed, th
 *   **Destroying Time:** 
     *   Garp took aim with his rifle, firing a shot that cracked the glass of the watch.
     *   Jersey, leaping across the battlefield with *Step of the Wind*, hurled a dagger across the chamber, striking the watch directly in Fynn's hand.
-    *   Naya unleashed a crackling *Eldritch Blast*, shattering the silver pocket watch into useless fragments. The loop was broken.
+    *   Nijya unleashed a crackling *Eldritch Blast*, shattering the silver pocket watch into useless fragments. The loop was broken.
 
 ***
 
 ## Act III: The Bitter Truth
 
 With his primary defense destroyed, Zalost grew desperate, summoning more temporal echoes to defend himself. The battle raged on:
-*   Zalost retaliated with psychic assaults, forcing Jersey and Kookoush to relive their worst memories—Naya falling into the dark, and Jersey’s past failures.
+*   Zalost retaliated with psychic assaults, forcing Jersey and Kookoush to relive their worst memories—Nijya falling into the dark, and Jersey’s past failures.
 *   Fynn unleashed another devastating *Lightning Bolt*, clearing out the duplicates.
 *   Garp brought out his heavy artillery, blasting the real Zalost with his anti-matter rifle.
 
@@ -54,7 +54,7 @@ Jersey closed the distance, his fists glowing with the power of his Golden Glove
 
 *“We’ll find another way,”* Jersey growled, and delivered the final blow.
 
-As Zalost gasped his last breath, Naya blinked out of existence, vanishing into thin air. 
+As Zalost gasped his last breath, Nijya blinked out of existence, vanishing into thin air. 
 
 ### The Vision of the Champion
 As Jersey grabbed the dying timekeeper's hand, a flood of memories washed over him. He saw his father, broken and dying, making a pact with Zalost. He heard the devilish bargain: *“I will keep him alive to the end of his normal life. If anyone kills him, the deal is broken.”*
@@ -114,7 +114,7 @@ An alarm clock was ringing.
 *   **Kookoush:** Alive (Holding the silver pocket watch set to 500 years ago).
 *   **Garp:** Alive (Carrying a vial of Jersey's ashes).
 *   **Jersey:** **Deceased** (Turned to dust; gear left in the ruins).
-*   **Naya:** **Missing** (Faded out of existence upon Zalost's death).
+*   **Nijya:** **Missing** (Faded out of existence upon Zalost's death).
 
 ### Party Inventory Changes
 *   **Lost:** Golden Gloves, Bracers of Defense (left on the chamber floor).

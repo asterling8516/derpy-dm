@@ -24,7 +24,7 @@ Peeking outside, the party beheld a terrifying sight. A third beam of light—th
 
 High in the sky, silhouetted against the magical glare, winged, infernal humanoids soared toward the final, unlit ruin. 
 
-Jersey squinted at the lead figure and froze. His blood ran cold. Flying at the head of the demonic host was **Solas, the Second-Hand King**, ruler of the Sixth Layer of the Nine Hells—one of the very fiends responsible for mutating Jersey’s father into a horrific monstrosity. 
+Jersey squinted at the lead figure and froze. His blood ran cold. Flying at the head of the demonic host was **Zalost, the Second-Hand King**, ruler of the Sixth Layer of the Nine Hells—one of the very fiends responsible for mutating Jersey’s father into a horrific monstrosity. 
 
 "We go after them," Jersey growled, his knuckles cracking. "Now."
 
@@ -82,17 +82,17 @@ At the flat, 30x30-foot peak of the great pyramid, they found a single, dark sta
 They descended into the gloom, moving stealthily with Garp in the lead.
 
 * **The Moldy Larder:** The first room was an ancient food storage chamber filled with unidentifiable, decaying rations. Kookoush harvested several strange, glowing purple mushrooms and gathered rusted iron frying pans to grind down into iron dust for his spells.
-* **The Kennels & Alchemy Lab:** The next chamber smelled heavily of rot and copper. Old iron cages and shattered alchemical apparatuses littered the floor. Rummaging through a pile of discarded, dry-rotted clothes, Garp discovered a heavy, shimmering silk cloak. Kookoush identified it as **Elven Chain**—a rare, masterwork medium armor. The party handed it to Naya, significantly boosting her defenses.
+* **The Kennels & Alchemy Lab:** The next chamber smelled heavily of rot and copper. Old iron cages and shattered alchemical apparatuses littered the floor. Rummaging through a pile of discarded, dry-rotted clothes, Garp discovered a heavy, shimmering silk cloak. Kookoush identified it as **Elven Chain**—a rare, masterwork medium armor. The party handed it to Nijya, significantly boosting her defenses.
 
 ---
 
 ## Act IV: Clashing Chains
 
-A long, narrow hallway stretched deep into the darkness of the pyramid. Eager to scout ahead, Naya mounted Garp's flying broom and drifted down the corridor. 
+A long, narrow hallway stretched deep into the darkness of the pyramid. Eager to scout ahead, Nijya mounted Garp's flying broom and drifted down the corridor. 
 
-As she crossed the threshold of the far doorway, the darkness erupted. Two horrific **Chain Devils**, their bodies wrapped in rusted, writhing chains, lunged from the shadows. One chain missed, but the second wrapped tightly around Naya's throat, slashing her flesh and pinning her to the broom.
+As she crossed the threshold of the far doorway, the darkness erupted. Two horrific **Chain Devils**, their bodies wrapped in rusted, writhing chains, lunged from the shadows. One chain missed, but the second wrapped tightly around Nijya's throat, slashing her flesh and pinning her to the broom.
 
-Desperate, Naya twisted violently, slipping from the metal links. As she flew backward down the hallway, she cast *Hunger of Hadar*, filling the corridor behind her with a freezing, acidic void of absolute darkness.
+Desperate, Nijya twisted violently, slipping from the metal links. As she flew backward down the hallway, she cast *Hunger of Hadar*, filling the corridor behind her with a freezing, acidic void of absolute darkness.
 
 "Demons! BDSM demons!" Kookoush yelled, retreating as the clanking of chains echoed through the pitch-black hallway.
 
@@ -100,7 +100,7 @@ The party bottlenecked the corridor, waiting for the fiends to emerge from the m
 
 Fynn stepped up beside him, the newly acquired Vorpal Sword humming with power. Channelling a *Green Flame Blade* spell through the silver steel, Fynn swung. The blade cut through the air in a perfect arc, cleanly decapitating the first Chain Devil in a burst of green fire.
 
-Jersey, wrapped in the chains of the remaining devil, spat blood and glared at the monster. "Where is Solas?!" he roared.
+Jersey, wrapped in the chains of the remaining devil, spat blood and glared at the monster. "Where is Zalost?!" he roared.
 
 The Chain Devil laughed, a dry, rattling sound. *"He is our King. I fear his wrath far more than death. I will bring you to him... in pieces!"*
 

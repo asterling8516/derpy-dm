@@ -3,7 +3,7 @@
 ## Prologue: Into the Desert
 Having survived the explosive destruction of the strange sky-vessel, fought off abominations of the Fey, and slipped past the soul-sucking horrors of a haunted valley, the weary adventurers pressed deeper into the endless sands. 
 
-Guided by a crude map recovered from a fallen desert lizard, the party—the indomitable barbarian **[[Eureka/Campaigns/The Forgotten Tale/PC's/Bearskin|Bearskin]]**, the clever arcanist **Frizzard**, the perceptive druid **[[Odin|Odin]]**, and the ancient, bark-skinned **[[Eureka/Campaigns/The Forgotten Tale/PC's/Adamson|Adamson]]**—marched onward. Though battered and far from fully healed, they sought one of the mysterious circular markings drawn upon the parchment.
+Guided by a crude map recovered from a fallen desert lizard, the party—the indomitable barbarian **[[Eureka/Campaigns/The Forgotten Tale/PC's/Bearskin|Bearskin]]**, the clever arcanist **Frezer**, the perceptive druid **[[Odin|Odin]]**, and the ancient, bark-skinned **[[Eureka/Campaigns/The Forgotten Tale/PC's/Adamson|Adamson]]**—marched onward. Though battered and far from fully healed, they sought one of the mysterious circular markings drawn upon the parchment.
 
 ---
 
@@ -42,16 +42,16 @@ The guides led the adventurers to a massive, central dome. Inside, taking up nea
 
 Her lower half was a colossal, pulsating biomass integrated into a strange, ancient machine. Her upper torso was humanoid, but she sat completely motionless. As the party offered respectful bows, they noticed a grim detail: a steady trickle of sand was spilling from her open mandibles.
 
-* **A Grim Diagnosis:** [[Odin|Odin]], observing closely, noticed the sand was not falling naturally—it was swirling, as if blown by an unseen wind. Frizzard attempted to cast *Lesser Restoration* and *Cure Wounds*, but his magic fizzled uselessly. The Queen was not sick or cursed; she was entirely dead, a hollow husk.
+* **A Grim Diagnosis:** [[Odin|Odin]], observing closely, noticed the sand was not falling naturally—it was swirling, as if blown by an unseen wind. Frezer attempted to cast *Lesser Restoration* and *Cure Wounds*, but his magic fizzled uselessly. The Queen was not sick or cursed; she was entirely dead, a hollow husk.
 * **The Sand-Writing:** Desperate to communicate, the glass-bugs began drawing frantic pictures in the sand. They sketched swirling clouds (a sandstorm), a mushroom-like shape (a great explosion), and deep, jagged holes. They aggressively pressed grains of sand into [[Eureka/Campaigns/The Forgotten Tale/PC's/Adamson|Adamson]]'s wooden hands. 
 * **The Verdict:** The party realized a catastrophic sandstorm had breached the hive, carrying something elemental and destructive inside. This entity had hollowed out the Queen, using her dead body as a puppet. 
-* **The Incision:** With the bugs' silent, grieving permission, Frizzard drew his blade and sliced open the Queen's thick chitin. 
+* **The Incision:** With the bugs' silent, grieving permission, Frezer drew his blade and sliced open the Queen's thick chitin. 
 
 ---
 
 ## Act III: The Neon Tempest
 
-Frizzard thrust his hand into the dark cavity and cast a bright, neon-green *Light* spell. The interior of the dead Queen ignited, revealing a hollow, cavernous space filled with floating, glowing sand. 
+Frezer thrust his hand into the dark cavity and cast a bright, neon-green *Light* spell. The interior of the dead Queen ignited, revealing a hollow, cavernous space filled with floating, glowing sand. 
 
 Suddenly, the Queen’s body ruptured.
 
@@ -70,8 +70,8 @@ An explosion of neon-green sand burst into the chamber, swirling violently befor
 * **The Barbarian's Rage:** [[Eureka/Campaigns/The Forgotten Tale/PC's/Bearskin|Bearskin]] let out a bloodthirsty roar, entering a primal rage. He lunged forward, swinging his great greataxe. Though his blow landed true, the blade slipped through the shifting sands, dealing minimal damage to the elemental's formless body.
 * **The Blinding Storm:** The elemental deconstructed itself, reforming behind [[Eureka/Campaigns/The Forgotten Tale/PC's/Bearskin|Bearskin]]. It whipped up a localized sandstorm, blinding [[Eureka/Campaigns/The Forgotten Tale/PC's/Bearskin|Bearskin]] and trapping the party in a vortex of flying, razor-sharp debris.
 * **Alchemist's Fire:** [[Eureka/Campaigns/The Forgotten Tale/PC's/Adamson|Adamson]], shaking off the blinding dust, hurled a heavy keg of Alchemist's Fire directly into the elemental's chest. The concussive blast ignited the creature, setting the swirling neon sands ablaze.
-* **The Horn of Summoning:** Seizing the moment, Frizzard pulled out a legendary horn and blew a resounding blast. The air shimmered, and nine spectral bug spirits—affectionately dubbed **"Billy and Bobby"**—materialized. The ghostly warriors swarmed the elemental, their spectral spears tearing deep into its fiery core.
-* **The Final Blast:** [[Odin|Odin]] fell unconscious under the relentless battering of the sandstorm, but Frizzard quickly revived him with a *Healing Word*. Standing firm, Frizzard aimed his antimatter rifle and fired. The resulting necrotic explosion tore the remaining sand particles apart, dispersing the elemental into a harmless, lifeless pile of dust.
+* **The Horn of Summoning:** Seizing the moment, Frezer pulled out a legendary horn and blew a resounding blast. The air shimmered, and nine spectral bug spirits—affectionately dubbed **"Billy and Bobby"**—materialized. The ghostly warriors swarmed the elemental, their spectral spears tearing deep into its fiery core.
+* **The Final Blast:** [[Odin|Odin]] fell unconscious under the relentless battering of the sandstorm, but Frezer quickly revived him with a *Healing Word*. Standing firm, Frezer aimed his antimatter rifle and fired. The resulting necrotic explosion tore the remaining sand particles apart, dispersing the elemental into a harmless, lifeless pile of dust.
 
 ---
 

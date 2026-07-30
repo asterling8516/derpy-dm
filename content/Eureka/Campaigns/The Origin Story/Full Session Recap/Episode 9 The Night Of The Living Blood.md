@@ -34,13 +34,13 @@ The trail led the party to what appeared to be an abandoned market stall or stor
 
 *   **The Trap is Sprung:** As Jersey began sorting through the rusted gear, the metal weapons, shields, and chainmail scattered across the floor began to violently rattle. They flew into the air, clattering together to form two massive, ten-foot-tall **Armory Golems**.
 *   **The Stun-Lock Strategy:** Jersey activated his **Eldritch Claw Tattoo**, extending his spectral reach to fifteen feet. Unleashing a flurry of blows, he successfully stun-locked the leading golem, keeping its massive weapon-limbs frozen in place.
-*   **Raining Bolts:** The second golem unleashed a volley of heavy crossbow bolts from its back, peppering Garp, Naya, and Kookoush. 
+*   **Raining Bolts:** The second golem unleashed a volley of heavy crossbow bolts from its back, peppering Garp, Nijya, and Kookoush. 
 *   **A Tactical Victory:** Garp retaliated with a devastating shot from his anti-matter rifle, while Kookoush commanded a *Flaming Sphere* to burn through the constructs' joints. With the frontline held firmly by Jersey and Fynn's sweeping blade, the party dismantled both iron monstrosities into harmless piles of scrap.
 *   **The Spoils of War:** Sifting through the debris of the fallen golems, the party uncovered an extraordinary hoard of magical treasures:
     *   A **Potion of Greater Healing** & a **+1 Quarterstaff** (claimed by Jersey)
     *   A **Potion of Resistance** & **Potion of Poison Resistance** (claimed by Fynn)
     *   A **Potion of Climbing** & the **Eyes of the Eagle** (claimed by Garp)
-    *   A **Bag of Holding** & an **Amulet of Health** (claimed by Naya)
+    *   A **Bag of Holding** & an **Amulet of Health** (claimed by Nijya)
     *   A rare glass needle containing a **Barrier Tattoo** & a set of **Mithril Scale Mail**
 
 ---
@@ -62,7 +62,7 @@ Shaken but determined, the party followed a fresh trail of blood dripping down t
 *   **The Blood Elementals:** As they reached a dead-end cubby, the blood pooling on the floor suddenly rose, coalescing into two terrifying, swirling mass of crimson fluid—**Blood Elementals**.
 *   **Sucked Dry:** The elementals slammed into the party, immediately engulfing Garp and Fynn. The necrotic, blood-draining properties of the creatures were devastating. 
 *   **Fynn's Brush with Death:** Fynn was quickly overwhelmed, falling unconscious inside the swirling mass of blood. As he began to slip away, failing his death saving throws, Kookoush rushed forward, casting *Spare the Dying* just in time to stabilize him.
-*   **The Tide Recedes:** Jersey, fighting through the horrific necrotic drain of his own strikes, shattered the elemental's cohesion with his fists. Naya followed up with a critical *Eldritch Blast*, dispersing the remaining blood into harmless puddles on the stone floor.
+*   **The Tide Recedes:** Jersey, fighting through the horrific necrotic drain of his own strikes, shattered the elemental's cohesion with his fists. Nijya followed up with a critical *Eldritch Blast*, dispersing the remaining blood into harmless puddles on the stone floor.
 
 Bruised, battered, and out of spell slots, the party dragged Fynn's stabilized body back to a safe corner of the ruins, settling down for a tense, well-deserved short rest in the dark.
 
@@ -72,5 +72,5 @@ Bruised, battered, and out of spell slots, the party dragged Fynn's stabilized b
 *   **Jersey:** Acquired **+1 Quarterstaff**, **Potion of Greater Healing**, and the **Barrier Tattoo** (Rare).
 *   **Fynn:** Stabilized at 17 HP (after short rest/potions). Acquired **Potion of Resistance**, **Potion of Poison Resistance**, and is currently bound to the **Cursed Chain Tattoos**.
 *   **Garp:** Acquired **Potion of Climbing** and **Eyes of the Eagle** (requires attunement).
-*   **Naya:** Acquired **Bag of Holding** and **Amulet of Health** (attuned, Constitution is now 19).
+*   **Nijya:** Acquired **Bag of Holding** and **Amulet of Health** (attuned, Constitution is now 19).
 *   **Kookoush:** Successfully harvested 10 glowing magical purple mushrooms and a variety of mundane fungi.

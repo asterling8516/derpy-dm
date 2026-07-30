@@ -19,9 +19,9 @@ Moments later, a second beam of blinding white light erupted from a neighboring 
 
 **Fynn** and **Kookoush** examined the magical phenomenon. The energy hummed with a primal, wild resonance. It felt ancient and druidic, yet fundamentally alien—a localized warping of the plane's natural laws. 
 
-Meanwhile, the captured blue raptor tied to **Naya’s** flying broom began to thrash violently, its muzzle straining against the ropes. Fynn attempted to soothe the beast with sweet lies of salvation, but his silver tongue failed him. As the raptor prepared to unleash a blast of crackling lightning, a swift, heavy blow to its temple sent it back into a peaceful slumber.
+Meanwhile, the captured blue raptor tied to **Nijya’s** flying broom began to thrash violently, its muzzle straining against the ropes. Fynn attempted to soothe the beast with sweet lies of salvation, but his silver tongue failed him. As the raptor prepared to unleash a blast of crackling lightning, a swift, heavy blow to its temple sent it back into a peaceful slumber.
 
-Kneeling, Naya pressed her palm to the stone floor. Through the rock, she felt the vibrations of massive, grinding gears turning deep within the earth. The ruins were waking up.
+Kneeling, Nijya pressed her palm to the stone floor. Through the rock, she felt the vibrations of massive, grinding gears turning deep within the earth. The ruins were waking up.
 
 ---
 
@@ -46,7 +46,7 @@ Beyond the trap lay a damp, mist-shrouded chamber where warm water bubbled up fr
 [Water Breathing Cast] ──► [Glowing Algae Descent] ──► [The Raptor Nest]
 ```
 
-Kookoush invoked a powerful transmutation, granting the entire party the ability to breathe underwater. Leaving the unconscious raptor safely secured next to Naya's magically polished broom, they plunged into the glowing, algae-lit depths.
+Kookoush invoked a powerful transmutation, granting the entire party the ability to breathe underwater. Leaving the unconscious raptor safely secured next to Nijya's magically polished broom, they plunged into the glowing, algae-lit depths.
 
 Peering through the murky turquoise water, Garp’s keen, sea-faring instincts flared. Nestled on a submerged stone island roughly a hundred feet away was a massive, tangled mound of a dozen green raptors, sleeping soundly. 
 
@@ -64,7 +64,7 @@ In the next wing of the ruins, the adventurers discovered a smaller chamber cont
 
 Jersey noticed deep claw scratches scarring the stone, as if some beast had desperately tried to claw its way through the images. 
 
-To test the anomaly, Kookoush tossed his owl familiar, Glimmer, directly at the wall. The construct vanished, seamlessly merging into the moving landscape of the painting. Fascinated, Naya leapt in after it, followed shortly by Garp, Fynn, and Kookoush. Only Jersey remained behind in the physical world.
+To test the anomaly, Kookoush tossed his owl familiar, Glimmer, directly at the wall. The construct vanished, seamlessly merging into the moving landscape of the painting. Fascinated, Nijya leapt in after it, followed shortly by Garp, Fynn, and Kookoush. Only Jersey remained behind in the physical world.
 
 Inside the mural, the party found themselves entirely separated, trapped within a surreal, endless maze of towering, dense trees. 
 
@@ -72,7 +72,7 @@ Inside the mural, the party found themselves entirely separated, trapped within 
    ┌────────────────────────────────────────────────────────┐
    │                  THE PAINTED MAZE                      │
    │                                                        │
-   │   [Naya] ──► Builds Tower ──► Hits Sky Ceiling         │
+   │   [Nijya] ──► Builds Tower ──► Hits Sky Ceiling         │
    │   [Garp] ──► Lost in the Thicket                       │
    │   [Fynn] ──► Finds Mural Wall ──► Escapes              │
    │   [Kookoush] ─► Uses Rope ──► Escapes                    │
@@ -80,11 +80,11 @@ Inside the mural, the party found themselves entirely separated, trapped within 
    └────────────────────────────────────────────────────────┘
 ```
 
-*   **The Slow-Motion Dance:** Stranded in the painted forest, Naya attempted to communicate with those on the outside by performing a slow-motion, YMCA-style dance to spell out the word *"FOREST"*. Outside, Jersey and Kookoush watched her tiny, painted figure mimic the letters across the stone canvas.
-*   **The Tower of Desperation:** Realizing they were lost in an illusion, Naya used her magic to construct a massive wooden tower, climbing high above the canopy until she literally bumped her head against a rippling, liquid sky that resisted her eldritch blasts.
+*   **The Slow-Motion Dance:** Stranded in the painted forest, Nijya attempted to communicate with those on the outside by performing a slow-motion, YMCA-style dance to spell out the word *"FOREST"*. Outside, Jersey and Kookoush watched her tiny, painted figure mimic the letters across the stone canvas.
+*   **The Tower of Desperation:** Realizing they were lost in an illusion, Nijya used her magic to construct a massive wooden tower, climbing high above the canopy until she literally bumped her head against a rippling, liquid sky that resisted her eldritch blasts.
 *   **The Decapitation Solution:** Back in the physical room, Kookoush and Jersey realized their companions were slipping deeper into the painted maze. Inspecting the central statue, Kookoush found subtle seams along the dragon necks. With a heavy hand, he flicked the stone heads backward, effectively "decapitating" the statue.
 
-The disruption shattered the portal's magic. With a violent, disorienting tear in space, Garp, Naya, and Glimmer were forcefully ejected from the mural, crashing onto the cold stone floor with splitting psychic headaches. 
+The disruption shattered the portal's magic. With a violent, disorienting tear in space, Garp, Nijya, and Glimmer were forcefully ejected from the mural, crashing onto the cold stone floor with splitting psychic headaches. 
 
 ---
 
@@ -106,7 +106,7 @@ The gold coins began to jingle and clatter, sprouting tiny fangs, while the poti
 A chaotic, close-quarters brawl erupted:
 *   **Jersey**, utilizing his Drunken Master training, gracefully redirected a lashing tongue attack from the chest mimic, forcing it to violently smack into a nearby swarm of its own coin-children.
 *   **Kookoush** regurgitated a stream of highly corrosive, green bile (*Tasha's Caustic Brew*), coating the swarms of coin-mimics in sizzling acid.
-*   **Naya** rained *Eldritch Blasts* and hexes from above, while **Garp** unleashed the devastating, high-caliber fury of his antimatter rifle, blasting the swarms into copper shrapnel.
+*   **Nijya** rained *Eldritch Blasts* and hexes from above, while **Garp** unleashed the devastating, high-caliber fury of his antimatter rifle, blasting the swarms into copper shrapnel.
 
 When the dust settled, the mimics were reduced to a silent pile of artificial loot.
 
@@ -119,7 +119,7 @@ The party took stock of their bizarre haul and prepared to rest:
 ### 🎒 Session Loot & Discoveries
 
 *   **1x Green Raptor Egg:** Pulsing with elemental nature magic.
-*   **30x Dead Baby Mimic Coins & 5x Mimic Potions:** Fleshy, bizarre specimens. (Naya experimentally drank one of the mimic potions, resulting in a severe case of magical acid reflux).
+*   **30x Dead Baby Mimic Coins & 5x Mimic Potions:** Fleshy, bizarre specimens. (Nijya experimentally drank one of the mimic potions, resulting in a severe case of magical acid reflux).
 *   **1x Mimic Tongue & Teeth:** Harvested from the chest mimic.
 *   **1x Scroll of Dragon's Breath (Blue):** A single-use scroll allowing the user to exhale a 15-foot cone of crackling thunder damage (4d6).
 
