@@ -1,63 +1,38 @@
-**Class/Level:** Sorcerer 8 | **Species:** Curseborn | **Background:** Mage of High Sorcery | **Alignment:** Neutral | **Status:** Hollow One
+# ♟️ Character Sheet
+## ♟ Fynn
+> **Character Concept**
+> Curseborn Sorcerer, Mage of High Sorcery.
 
-### **Ability Scores & Combat Stats**
+### Basic Information
+| Class/Subclass | Race | Alignment | Background | Player Name |
+|----------------|------|-----------|------------|-------------|
+| Sorcerer | Curseborn | Unknown | Mage of High Sorcery | Tantalum |
 
-- **STR:** 8 (-1) | **DEX:** 16 (+3) | **CON:** 14 (+2) | **INT:** 12 (+1) | **WIS:** 12 (+1) | **CHA:** 16 (+3)
-    
-- **HP:** 42 | **AC:** 17 | **Initiative:** +3 | **Speed:** 35 ft.
-    
-- **Proficiency Bonus:** +3 | **Spell Save DC:** 14 | **Spell Attack:** +6
-    
-- **Resistances:** Fire
-    
+### ⚔️ Combat & Core Stats
+#### Vitals
+| Stat | Value | Stat | Value |
+|------|-------|------|-------|
+| Max HP | 42 | Level | 8 |
+| Armor Class (AC) | 17 | Initiative | +3 |
 
-### **Abilities, Traits & Features**
+#### Ability Scores
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 8 (-1) | 16 (+3) | 12 (+1) | 14 (+2) | 12 (+1) | 16 (+3) |
 
-- **Sorcerer Core:** Wild Magic Surge, Tides of Chaos (1/LR), Font of Magic (8 SP), Metamagic (Distant, Twinned, Quickened, Seeking).
-    
-- **Species (Curseborn):** Cursed Claws (Unarmed 1d6 Slashing + Disadvantage on D20 tests for target, 3/LR), Grey Balance (Reaction: turn fail to success, then disadvantage on tests until next turn, 1/LR), Darkvision (60 ft.).
-    
-- **Feats & Supernatural:**
-    
-    - **Metamagic Adept:** +2 Sorcery Points.
-        
-    - **Hollow One:** Ageless; Cling to Life (recover 1 HP on death save 16+); Revenance (detects as Undead).
-        
-    - **High Sorcery:** Initiate of High Sorcery (Lunitari); Shadow Step (Boon).
-        
-- **Actions (Misc):** Unsettling Presence (1/LR).
-    
+### 🗡️ Weapons & Cantrips
+- Chill Touch (Hit/DC: +8, Damage: 2d8 Necrotic)
+- Shocking Grasp (Hit/DC: +8, Damage: 2d8 Lightning)
+- Fire Bolt (Hit/DC: +8, Damage: 2d10 Fire)
+- Unarmed Strike (Hit/DC: +2, Damage: 0 Bludgeoning)
+- Cursed Claws (Str) (Hit/DC: +2, Damage: 1d6-1 Slashing)
+- Cursed Claws (Dex) (Hit/DC: +6, Damage: 1d6+3 Slashing)
 
-### **Proficiencies & Senses**
-
-- **Saving Throws:** Constitution, Charisma.
-    
-- **Skills:** Arcana, Deception, Perception, Sleight of Hand.
-    
-- **Passive Perception:** 14 | **Passive Insight:** 11 | **Passive Investigation:** 12.
-    
-- **Languages:** Abyssal, Common, Draconic, Elvish, Undercommon.
-    
-- **Weapon Proficiencies:** Crossbow (light), Dagger, Dart, Quarterstaff, Sling.
-    
-
-### **Spellbook**
-
-- **Cantrips:** Chill Touch, Concealed Shot, Fire Bolt, Green-Flame Blade, Mending, Shocking Grasp.
-    
-- **1st Level (4 slots):** Color Spray, Feather Fall, Shield.
-    
-- **2nd Level (3 slots):** Misty Step, Warding Wind.
-    
-- **3rd Level (3 slots):** Lightning Bolt, Tongues, Water Breathing.
-    
-- **4th Level (2 slots):** Buried Alive, Dimension Door, Spirit of Death.
-    
-
-### **Equipment & Inventory**
-
-- **Attuned:** Barrier Tattoo (Rare), Wand of the War Mage +2.
-    
-- **Items:** Clothes (common), Potion of Healing (x3), Potion of Healing (Greater), Signal Whistle, Wand of Secrets.
-    
-- **Capacity:** 5 lb. (Carried) / 120 lb. (Encumbered) / 240 lb. (Push/Drag/Lift).
+### 🎒 Equipment
+- Wand of Secrets
+- Potion of Healing (Greater)
+- Wand of the War Mage, +2
+- Barrier Tattoo (Rare)
+- Clothes, Common
+- Potion of Healing (x3)
+- Signal Whistle

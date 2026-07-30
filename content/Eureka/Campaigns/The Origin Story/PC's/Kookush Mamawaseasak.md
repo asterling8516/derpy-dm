@@ -1,77 +1,80 @@
----
-aliases:
-  - Kookush
-tags:
-  - PC
----
-**Class/Level:** Artificer 8 | **Species:** Wood Half-Elf | **Background:** Criminal (Baldur's Gate) | **Alignment:** Chaotic Good
+# ♟️ Character Sheet
+## ♟ Kookoush Mamakwasesak
+> **Character Concept**
+> A self-exiled half-elf who set up a humble life selling poultices and 'entertainments' before being imprisoned and meeting his halfling ally Watt.
 
-### **Ability Scores & Combat Stats**
+### Basic Information
+| Class/Subclass | Race | Alignment | Background | Player Name |
+|----------------|------|-----------|------------|-------------|
+| Artificer | Wood Half-Elf | Chaotic Good | Criminal - Baldur's Gate | Tantalum |
 
-- **STR:** 7 (-2) | **DEX:** 12 (+1) | **CON:** 15 (+2) | **INT:** 17 (+3) | **WIS:** 14 (+2) | **CHA:** 14 (+2)
-    
-- **HP:** 58 | **AC:** 19 | **Initiative:** +6 | **Speed:** 30 ft.
-    
-- **Proficiency Bonus:** +3 | **Saving Throws:** CON, INT (+ Advantage vs. Charmed)
-    
-- **Resistances:** Poison | **Immunities:** Magical Sleep
-    
+### ⚔️ Combat & Core Stats
+#### Vitals
+| Stat | Value | Stat | Value |
+|------|-------|------|-------|
+| Max HP | 58 | Level | 8 |
+| Armor Class (AC) | 19 | Initiative | +6 |
 
-### **Abilities, Traits & Features**
+#### Ability Scores
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 7 (-2) | 12 (+1) | 15 (+2) | 17 (+3) | 14 (+2) | 14 (+2) |
 
-- **Artificer Core:** Infuse Item (3/Long Rest), Magical Tinkering (3 objects), Tool Expertise, Flash of Genius (+3 to save/check, 3/LR).
-    
-- **Specialist (Alchemist):** Experimental Elixir (2/Long Rest), Alchemical Savant (+3 bonus to Acid, Fire, Necrotic, or Poison damage/healing when using Alchemist's Supplies as focus).
-    
-- **Species (Wood Half-Elf):** Darkvision (60 ft.), Fey Ancestry, Mask of the Wild (Hide in light obscuration).
-    
-- **Feats:** Artificer Initiate, Crossbow Expert (Ignore loading, no disadvantage in melee, Bonus Action hand crossbow attack), Alert (+5 Init, can't be surprised).
-    
-- **Boons:** The Clockwork Spark, Philter of the Morning Sun.
-    
+### 🗡️ Weapons & Cantrips
+- Dagger (Hit/DC: +5, Damage: 1d4+2 Piercing)
+- Stormerang (Hit/DC: +4, Damage: 1d4+1 Bludgeoning)
+- The Bio-Bolt Caster (Hit/DC: +6, Damage: 1d8+3 Piercing)
+- Fire Bolt (Hit/DC: +6, Damage: 2d10 Fire)
+- Unarmed Strike (Hit/DC: +1, Damage: 0 Bludgeoning)
 
-### **Proficiencies**
-
-- **Armor/Weapons:** Light/Medium Armor, Shields, Firearms, Simple Weapons.
-    
-- **Tools:** Alchemist's Supplies, Glassblower's Tools, Herbalism Kit, Jeweler's Tools, Playing Card Set, Thieves' Tools, Tinker's Tools.
-    
-- **Skills:** Arcana, Deception, Investigation, Medicine, Stealth.
-    
-- **Languages:** Common, Elvish, Halfling.
-    
-
-### **Combat Loadout**
-
-- **Bio-Bolt Caster:** +6 hit, 1d8+3 Piercing.
-    
-- **Stormerang:** +4 hit, 1d4+1 Bludgeoning + 3d4 Thunder (1 Charge).
-    
-- **Fire Bolt:** +6 hit, 2d10 Fire.
-    
-- **Dagger:** +5 hit, 1d4+2 Piercing.
-    
-
-### **Equipment & Inventory**
-
-- **Attuned:** Bio-Bolt Caster, Armor of Cold Resistance (Chain Shirt), Repulsion Shield.
-    
-- **Key Items:** Alchemy Jug, Alchemist's Supplies, Potion of Healing (Greater x5, Normal x4), Experimental Elixirs (Flight, Healing, Boldness, Swiftness, Transformation).
-    
-- **Weight:** 194 lb. (Encumbered at 105 lb. — _Note: Currently over encumbrance limit_).
-    
-
-### **Spells**
-
-- **Key Spells:** Cure Wounds, Faerie Fire, Sanctuary, Tasha's Caustic Brew, Blur, Levitate, Heat Metal, Web.
-    
-- _Note: Always prepared spells include Healing Word, Ray of Sickness, Acid/Fire/Necrotic/Poison spells benefit from Alchemical Savant._
-    
-
-### **Background/Notes**
-
-- **Allies:** Watt.
-    
-- **Organizations:** Happily Ever After (excommunicado), Gleet.
-    
-- **Crafting Queue:** Shoulder pad for Garp's rifle; research weaponized Medicinal Tumeric (poison).
+### 🎒 Equipment
+- Armor of Cold Resistance, Chain Shirt
+- Repulsion Shield
+- Stormerang
+- Green Raptor Scale Mail
+- The Bio-Bolt Caster
+- Bunny Slippers
+- Dagger (x2)
+- Backpack
+- Robes
+- Alchemist's Supplies
+- Boots
+- Pouch (x2)
+- Traveler's Clothes
+- Alchemy Jug
+- Echo Shard
+- Rusty Key
+- Cold Pebble
+- Tiny Swirling Stone
+- Pulsing Stone
+- Old Tin Whistle
+- Bag of Mushrooms
+- Vial of Arcamag corpses
+- Dragon-Eye Emerald
+- Quarterstaff
+- Crowbar (x2)
+- Hammer
+- Piton (x10)
+- Rations (1 day) (x5)
+- Rope, Hempen (50 feet)
+- Tinderbox
+- Torch (x10)
+- Waterskin
+- Brewer's Supplies
+- Poisoner's Kit
+- Thieves' Tools
+- Mushroom - Echo Bells (x8)
+- Mushroom - Hallow Stalks (x3)
+- Mushroom - Unknown Type 2 (x3)
+- Mushroom - Unknown Type 1
+- Medicinal Tumeric (x5)
+- Potion of Healing (Greater) (x5)
+- Potion of Healing (x4)
+- Experimental Elixir : Flight (x2)
+- Experimental Elixir : Healing (x4)
+- Experimental Elixir : Boldness (x2)
+- Experimental Elixir : Swiftnes (x2)
+- Experimental Elixir : Transformation (x2)
+- Acid (vial) (x5)
+- Alchemist's Fire (flask) (x4)
+- Poison, Basic (vial) (x4)

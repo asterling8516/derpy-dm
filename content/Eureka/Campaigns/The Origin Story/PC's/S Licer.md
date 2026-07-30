@@ -1,62 +1,51 @@
-# Character Dossier: S. Licer
+# ♟️ Character Sheet
+## ♟ S. Licer
+> **Character Concept**
+> An Astral Elf Hexblade Warlock of noble background wielding Caliburn The King Breaker.
 
-**Class/Level:** Warlock 8 | **Species:** Astral Elf | **Background:** Noble | **Alignment:** (Blank)
+### Basic Information
+| Class/Subclass | Race | Alignment | Background | Player Name |
+|----------------|------|-----------|------------|-------------|
+| Warlock (The Hexblade) 8 | Astral Elf | N/A | Noble | Tantalum |
 
-### **Ability Scores & Combat Stats**
+### ⚔️ Combat & Core Stats
+#### Vitals
+| Stat | Value | Stat | Value |
+|------|-------|------|-------|
+| Max HP | 75 | Level | 8 |
+| Armor Class (AC) | 14 | Initiative | +3 |
 
-- **STR:** 19 (+4) | **DEX:** 17 (+3) | **CON:** 19 (+4) | **INT:** 4 (-3) | **WIS:** 7 (-2) | **CHA:** 19 (+4)
-    
-- **HP:** 75 | **AC:** 14 | **Initiative:** +3 | **Speed:** 30 ft.
-    
-- **Proficiency Bonus:** +3 | **Saving Throws:** Concentration (Advantage)
-    
-- **Immunities:** Magical Sleep
-    
+#### Ability Scores
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 19 (+4) | 17 (+3) | 19 (+4) | 4 (-3) | 7 (-2) | 19 (+4) |
 
-### **Abilities, Traits & Features**
+### 🗡️ Weapons & Cantrips
+- Caliburn The King Breaker (Hit/DC: +7, Damage: 2d6+4 Slashing)
+- Eldritch Blast (Hit/DC: +7, Damage: 1d10+4 Force)
+- Unarmed Strike (Hit/DC: +7, Damage: 5 Bludgeoning)
+- Booming Blade (Hit/DC: +7, Damage: 1d8 Thunder)
+- Infestation (Hit/DC: CON 15, Damage: Varies)
+- Light (Hit/DC: DEX 15, Damage: N/A)
 
-- **Warlock Core:** Pact Magic, Magical Cunning (1/LR, regain 1 slot), Eldritch Invocations (Agonizing Blast, Eldritch Mind, Eldritch Smite, Lessons of the First Ones, Pact of the Blade, Thirsting Blade).
-    
-- **Subclass (The Hexblade):** Hexblade's Curse (1/SR, +3 dmg, crit 19-20, heal on kill), Hex Warrior (CHA for attacks), Accursed Specter (Raise humanoid spirit on kill).
-    
-- **Species (Astral Elf):** Darkvision (60 ft.), Fey Ancestry (Advantage vs. Charmed), Starlight Step (30 ft. teleport, 3/LR), Astral Trance (4-hour Long Rest + temp proficiency).
-    
-- **Feats:** War Caster (Advantage on Concentration, cast spells with hands full, reaction spells), Inspiring Leader (10 min to grant 12 temp HP), Savage Attacker (reroll weapon damage once per turn).
-    
-
-### **Proficiencies**
-
-- **Armor/Weapons:** Light/Medium Armor, Shields, Martial Weapons, Simple Weapons.
-    
-- **Tools:** Dice Set, Disguise Kit.
-    
-- **Skills:** Athletics, Deception, Intimidation, Perception, Performance, Persuasion, Sleight of Hand, Stealth.
-    
-- **Languages:** Celestial, Common, Infernal.
-    
-
-### **Combat Loadout**
-
-- **Caliburn (The King Breaker):** +7 hit, 2d6+4 Slashing (+1d8/2d8 Thunder via Booming Blade).
-    
-- **Eldritch Blast:** +7 hit, 1d10+4 Force (x2 beams).
-    
-- **Unarmed Strike:** +7 hit, 5 Bludgeoning.
-    
-
-### **Equipment & Inventory**
-
-- **Attuned:** Amulet of Health, Gauntlets of Ogre Power, Caliburn the King Breaker.
-    
-- **Key Items:** Breastplate, Fine Clothes, Potion of Healing (Greater x5), Scroll of Reverse Gravity, Signet Ring.
-    
-- **Weight:** 78.5 lb. (Encumbered at 285 lb.).
-    
-
-### **Spellcasting**
-
-- **Spell Save DC:** 15 | **Spell Attack:** +7
-    
-- **Cantrips:** Eldritch Blast, Booming Blade, Infestation, Light.
-    
-- **Notable Spells:** Hex, Hold Person, Misty Step, Earthbind, Counterspell.
+### 🎒 Equipment
+- Amulet of Health
+- Gauntlets of Ogre Power
+- Potion of Healing (Greater) x5
+- Caliburn The King Breaker
+- Leather Armor
+- Breastplate
+- Dagger x2
+- Sickle
+- Clothes, Fine
+- Signet Ring
+- Backpack
+- Book x2
+- Orb
+- scroll of reverse gravity x2
+- Oil x10
+- Parchment x10
+- Tinderbox
+- Lamp
+- Ink Pen
+- Ink
