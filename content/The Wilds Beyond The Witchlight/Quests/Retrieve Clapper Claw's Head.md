@@ -1,0 +1,2 @@
+- **Status:** Active
+- **Description:** Find and retrieve the scarecrow child Clapper Claw's stolen stag skull head from Bavlorna.

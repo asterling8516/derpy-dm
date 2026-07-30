@@ -1,0 +1,2 @@
+- **Status:** Completed
+- **Description:** The party's curse is purged when they awaken from the realm in the Happily Ever After laboratory.
