@@ -1,0 +1,2 @@
+- **Status:** Active
+- **Description:** Survive long enough to take the place of the dying gods.

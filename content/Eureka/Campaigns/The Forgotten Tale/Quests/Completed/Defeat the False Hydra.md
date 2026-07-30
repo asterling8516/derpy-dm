@@ -1,0 +1,2 @@
+- **Status:** Completed
+- **Description:** The party tracked a trail of missing townsfolk to the Obsidian Cathedral and slayed the multi-headed False Hydra that was eating people and erasing memories.

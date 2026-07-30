@@ -1,0 +1,2 @@
+- **Status:** Active
+- **Description:** The storm god Talos commanded Finn to seek out Codex and find "a sword, a quill, and a book."

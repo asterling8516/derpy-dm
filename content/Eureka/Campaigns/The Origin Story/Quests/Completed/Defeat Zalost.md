@@ -1,0 +1,2 @@
+- **Status:** Completed
+- **Description:** The party confronts Zalost in a temporal time-loop battle, eventually destroying his pocket watch and killing him.
