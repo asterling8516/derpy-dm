@@ -1,8 +1,8 @@
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
-import * as ExternalPlugin from "./.quartz/plugins"
+import { Explorer } from "@quartz-community/explorer"
 
 // Must be placed before loadQuartzConfig()
-ExternalPlugin.Explorer({
+Explorer({
   filterFn: (node) => {
     return node.name !== "Assets"
   },
