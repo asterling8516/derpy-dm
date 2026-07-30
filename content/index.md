@@ -1,3 +1,6 @@
+---
+title: Welcome Adventurers and Fellow DMs!
+---
 Welcome fellow adventurers, to **The Derpy Dm's Guide**!
 
 Pull up a chair and bring your dice! In this realm we believe in the **The Rule of Cool** and everyone's fun comes first. The raw mechanics are important, but sometimes need bent to make that cinematic moment for my players. 
