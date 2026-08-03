@@ -1,4 +1,6 @@
 %% Begin Waypoint %%
+- **Companions**
+	- [[Daryl]]
 - **[[Full Session Recap]]**
 - **[[PC's]]**
 - **Quests**
