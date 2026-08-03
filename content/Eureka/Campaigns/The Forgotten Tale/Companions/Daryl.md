@@ -1,5 +1,9 @@
 ## **Daryl (Flumph)**
-![[flumph.png|center|300]]
+<center>
+
+![[flumph.png|300]]
+
+</center>
 
 _(A small, glowing, jellyfish-like creature that floats gently in the air, radiating feelings of warmth and telepathic goodwill.)_
 

@@ -90,7 +90,7 @@ Once safely outside the city gates, the party began cracking open the mysterious
     *   A lead wand that left him temporarily exhausted.
     *   A magical rose granting temporary resistance to all damage.
     *   The permanent ability to cast *Identify* at will.
-    *   A *Vibrating Chalice* that summoned **Daryl the Flump**—a floating, somewhat smelly, jellyfish-like creature. Daryl immediately began telepathically whispering words of emotional support to [[Frezer]], officially declaring himself the party's new mascot.
+    *   A *Vibrating Chalice* that summoned **[[Daryl]] the Flump**—a floating, somewhat smelly, jellyfish-like creature. Daryl immediately began telepathically whispering words of emotional support to [[Frezer]], officially declaring himself the party's new mascot.
 
 ---
 
@@ -98,4 +98,4 @@ Once safely outside the city gates, the party began cracking open the mysterious
 
 As the dual suns began to set over Oasis City, the party—now accompanied by a giant bird-man, a scarred but free tree-man, and a floating, encouraging flump—sought out an inn. They had lost their trackers, gained a chaotic arsenal of magic, and taken their first steps into a much larger rebellion. 
 
-The road ahead was uncertain, but as Daryl the Flump whispered in [[Frezer]]'s mind: *“You’re doing great, buddy.”*
+The road ahead was uncertain, but as [[Daryl]] the Flump whispered in [[Frezer]]'s mind: *“You’re doing great, buddy.”*
