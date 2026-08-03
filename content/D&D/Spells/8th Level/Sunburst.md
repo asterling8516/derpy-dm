@@ -4,6 +4,7 @@ tags:
   - level-8
   - save-constitution
   - spell
+url: https://derpydm.com/dd/spells/8th-level/sunburst
 ---
 # Sunburst
 

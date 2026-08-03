@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-veryrare
   - wondrous-items
+url: https://derpydm.com/dd/items/container/wondrous-items/carpet-of-flying-3-ft-x-5-ft
 ---
 # Carpet of Flying (3 ft. x 5 ft.)
 

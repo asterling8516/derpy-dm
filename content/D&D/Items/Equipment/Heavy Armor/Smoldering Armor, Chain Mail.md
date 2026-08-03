@@ -4,6 +4,7 @@ tags:
   - heavy-armor
   - item
   - rarity-common
+url: https://derpydm.com/dd/items/equipment/heavy-armor/smoldering-armor-chain-mail
 ---
 # Smoldering Armor, Chain Mail
 

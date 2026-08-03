@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-veryrare
   - wondrous-items
+url: https://derpydm.com/dd/items/container/wondrous-items/bag-of-devouring
 ---
 # Bag of Devouring
 

@@ -4,6 +4,7 @@ tags:
   - rarity-rare
   - simple-melee
   - weapons
+url: https://derpydm.com/dd/items/weapons/simple-melee/dagger-2
 ---
 # Dagger, +2
 

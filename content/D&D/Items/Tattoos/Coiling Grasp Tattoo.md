@@ -4,6 +4,7 @@ tags:
   - rarity-uncommon
   - save-strength
   - tattoos
+url: https://derpydm.com/dd/items/tattoos/coiling-grasp-tattoo
 ---
 # Coiling Grasp Tattoo
 

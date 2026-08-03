@@ -2,6 +2,7 @@
 tags:
   - conditions
   - dying
+url: https://derpydm.com/dd/rules/conditions/dying/instant-death
 ---
 #### Instant Death
 

@@ -4,6 +4,7 @@ tags:
   - martial-ranged
   - rarity-veryrare
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-ranged/blowgun-3
 ---
 # Blowgun, +3
 

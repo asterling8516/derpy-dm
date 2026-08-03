@@ -4,6 +4,7 @@ tags:
   - heavy-armor
   - item
   - rarity-rare
+url: https://derpydm.com/dd/items/equipment/heavy-armor/armor-of-acid-resistance-chain-mail
 ---
 # Armor of Acid Resistance, Chain Mail
 

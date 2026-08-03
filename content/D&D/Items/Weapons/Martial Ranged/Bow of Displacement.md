@@ -4,6 +4,7 @@ tags:
   - martial-ranged
   - rarity-artifact
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-ranged/bow-of-displacement
 ---
 # Bow of Displacement
 

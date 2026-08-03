@@ -4,6 +4,7 @@ tags:
   - item
   - light-armor
   - rarity-uncommon
+url: https://derpydm.com/dd/items/equipment/light-armor/mariners-studded-leather
 ---
 # Mariner's Studded Leather
 

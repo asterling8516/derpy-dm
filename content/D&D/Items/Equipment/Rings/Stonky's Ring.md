@@ -3,6 +3,7 @@ tags:
   - item
   - equipment
   - rings
+url: https://derpydm.com/dd/items/equipment/rings/stonkys-ring
 ---
 # Stonky's Ring
 

@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-uncommon
   - rods
+url: https://derpydm.com/dd/items/equipment/rods/immovable-rod
 ---
 # Immovable Rod
 

@@ -5,6 +5,7 @@ tags:
   - potions
   - rarity-uncommon
   - save-dexterity
+url: https://derpydm.com/dd/items/consumable/potions/potion-of-fire-breath
 ---
 # Potion of Fire Breath
 

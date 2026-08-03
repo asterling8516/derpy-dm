@@ -3,6 +3,7 @@ level: 2
 tags:
   - spell
   - level-2
+url: https://derpydm.com/dd/spells/2nd-level/nystuls-magic-aura
 ---
 # Nystul's Magic Aura
 

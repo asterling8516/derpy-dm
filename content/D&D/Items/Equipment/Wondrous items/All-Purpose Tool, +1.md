@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-uncommon
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/all-purpose-tool-1
 ---
 # All-Purpose Tool, +1
 

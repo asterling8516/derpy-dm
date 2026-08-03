@@ -4,6 +4,7 @@ tags:
   - rarity-uncommon
   - simple-ranged
   - weapons
+url: https://derpydm.com/dd/items/weapons/simple-ranged/shortbow-1
 ---
 # Shortbow, +1
 

@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/the-wilds-beyond-the-witchlight/people/sir-talavar
+---
 # Sir Talavar
 
 A noble Faerie Dragon who serves as a knight of the Summer Court. 

@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/recaps/recaps
+---
 
 %% Begin Waypoint %%
 - [[Session 1 Recap]]

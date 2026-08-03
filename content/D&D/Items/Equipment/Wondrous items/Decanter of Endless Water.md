@@ -5,6 +5,7 @@ tags:
   - rarity-uncommon
   - save-strength
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/decanter-of-endless-water
 ---
 # Decanter of Endless Water
 

@@ -5,6 +5,7 @@ tags:
   - rarity-uncommon
   - save-constitution
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/gem-of-brightness
 ---
 # Gem of Brightness
 

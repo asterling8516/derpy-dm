@@ -4,6 +4,7 @@ tags:
   - martial-melee
   - rarity-rare
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/shortsword-of-life-stealing
 ---
 # Shortsword of Life Stealing
 

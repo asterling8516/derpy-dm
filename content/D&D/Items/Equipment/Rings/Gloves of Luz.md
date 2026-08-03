@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-artifact
   - rings
+url: https://derpydm.com/dd/items/equipment/rings/gloves-of-luz
 ---
 # Gloves of Luz
 

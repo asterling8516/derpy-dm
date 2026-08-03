@@ -3,6 +3,7 @@ tags:
   - item
   - equipment
   - clothing
+url: https://derpydm.com/dd/items/equipment/clothing/clothes-travelers
 ---
 # Clothes, Traveler's
 

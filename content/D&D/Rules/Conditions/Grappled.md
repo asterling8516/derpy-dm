@@ -1,6 +1,7 @@
 ---
 tags:
   - conditions
+url: https://derpydm.com/dd/rules/conditions/grappled
 ---
 A grappled creature’s speed becomes 0, and it can’t benefit from any bonus to its speed.
 The condition ends if the grappler is [[incapacitated]].

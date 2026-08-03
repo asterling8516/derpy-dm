@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-4-the-lost-lands
+---
 # Session Recap: The Paper Spire & The Lands of the Lost
 
 ## Act I: The Spire of Mismatched Memories

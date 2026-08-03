@@ -4,6 +4,7 @@ tags:
   - item
   - potions
   - rarity-rare
+url: https://derpydm.com/dd/items/consumable/potions/potion-of-healing-superior
 ---
 # Potion of Healing (Superior)
 

@@ -2,6 +2,7 @@
 tags:
   - homebrew
   - feat
+url: https://derpydm.com/homebrewed/feats/veil-touched
 ---
 # Prerequisites
 You have spent some amount of time (as determined by the DM) within [[The Shifting Veil]].

@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/pcs/s-licer
+---
 # ♟️ Character Sheet
 ## ♟ S. Licer
 > **Character Concept**

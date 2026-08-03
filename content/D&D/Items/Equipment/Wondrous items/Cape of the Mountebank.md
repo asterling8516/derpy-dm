@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-rare
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/cape-of-the-mountebank
 ---
 # Cape of the Mountebank
 

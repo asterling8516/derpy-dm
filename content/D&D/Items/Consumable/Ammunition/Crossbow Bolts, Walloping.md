@@ -5,6 +5,7 @@ tags:
   - item
   - rarity-common
   - save-strength
+url: https://derpydm.com/dd/items/consumable/ammunition/crossbow-bolts-walloping
 ---
 # Crossbow Bolts, Walloping
 

@@ -3,6 +3,7 @@ tags:
   - item
   - consumable
   - adventuring-gear
+url: https://derpydm.com/dd/items/consumable/adventuring-gear/rope-silk-50-feet
 ---
 # Rope, Silk (50 feet)
 

@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-rare
   - shields
+url: https://derpydm.com/dd/items/equipment/shields/shield-2
 ---
 # Shield, +2
 

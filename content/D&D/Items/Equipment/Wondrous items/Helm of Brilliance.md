@@ -5,6 +5,7 @@ tags:
   - rarity-veryrare
   - save-dexterity
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/helm-of-brilliance
 ---
 # Helm of Brilliance
 

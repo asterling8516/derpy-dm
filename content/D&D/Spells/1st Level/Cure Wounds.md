@@ -3,6 +3,7 @@ level: 1
 tags:
   - spell
   - level-1
+url: https://derpydm.com/dd/spells/1st-level/cure-wounds
 ---
 # Cure Wounds
 

@@ -4,6 +4,7 @@ tags:
   - heavy-armor
   - item
   - rarity-rare
+url: https://derpydm.com/dd/items/equipment/heavy-armor/armor-of-acid-resistance-plate
 ---
 # Armor of Acid Resistance, Plate
 

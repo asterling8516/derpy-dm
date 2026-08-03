@@ -5,6 +5,7 @@ tags:
   - save-dexterity
   - save-wisdom
   - spell
+url: https://derpydm.com/dd/spells/2nd-level/nathairs-mischief
 ---
 # Nathair's Mischief
 

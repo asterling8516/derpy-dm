@@ -4,6 +4,7 @@ tags:
   - consumable
   - item
   - rarity-uncommon
+url: https://derpydm.com/dd/items/consumable/ammunition/energy-cells-1
 ---
 # Energy Cells, +1
 

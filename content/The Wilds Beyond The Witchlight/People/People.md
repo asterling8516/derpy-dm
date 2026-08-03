@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/the-wilds-beyond-the-witchlight/people/people
+---
 %% Begin Waypoint %%
 - [[Agdon Longscarf]]
 - [[Candlefoot]]

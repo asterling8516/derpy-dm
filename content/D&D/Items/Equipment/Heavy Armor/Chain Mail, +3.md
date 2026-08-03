@@ -4,6 +4,7 @@ tags:
   - heavy-armor
   - item
   - rarity-legendary
+url: https://derpydm.com/dd/items/equipment/heavy-armor/chain-mail-3
 ---
 # Chain Mail, +3
 

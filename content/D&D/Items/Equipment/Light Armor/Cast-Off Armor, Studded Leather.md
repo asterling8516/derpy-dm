@@ -4,6 +4,7 @@ tags:
   - item
   - light-armor
   - rarity-common
+url: https://derpydm.com/dd/items/equipment/light-armor/cast-off-armor-studded-leather
 ---
 # Cast-Off Armor, Studded Leather
 

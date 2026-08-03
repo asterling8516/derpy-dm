@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-common
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/masque-charm
 ---
 # Masque Charm
 

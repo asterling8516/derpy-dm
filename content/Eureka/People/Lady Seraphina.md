@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/people/lady-seraphina
+---
 ![image](https://pixplanet.xyz/i/b9ce5456-2896-4097-9eb2-4cad1a30bd1e.jpg)
 
 ## Description

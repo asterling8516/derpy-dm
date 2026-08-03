@@ -3,6 +3,7 @@ level: 3
 tags:
   - spell
   - level-3
+url: https://derpydm.com/dd/spells/3rd-level/protection-from-energy
 ---
 # Protection from Energy
 

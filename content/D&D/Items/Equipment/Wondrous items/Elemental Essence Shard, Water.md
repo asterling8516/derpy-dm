@@ -5,6 +5,7 @@ tags:
   - rarity-rare
   - save-strength
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/elemental-essence-shard-water
 ---
 # Elemental Essence Shard, Water
 

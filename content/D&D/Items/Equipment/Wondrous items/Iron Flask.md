@@ -5,6 +5,7 @@ tags:
   - rarity-legendary
   - save-wisdom
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/iron-flask
 ---
 # Iron Flask
 

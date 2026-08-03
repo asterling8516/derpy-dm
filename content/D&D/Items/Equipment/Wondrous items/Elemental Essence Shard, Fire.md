@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-rare
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/elemental-essence-shard-fire
 ---
 # Elemental Essence Shard, Fire
 

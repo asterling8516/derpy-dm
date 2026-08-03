@@ -4,6 +4,7 @@ tags:
   - item
   - potions
   - rarity-legendary
+url: https://derpydm.com/dd/items/consumable/potions/potion-of-storm-giant-strength
 ---
 # Potion of Storm Giant Strength
 

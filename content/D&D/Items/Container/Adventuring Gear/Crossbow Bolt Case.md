@@ -3,6 +3,7 @@ tags:
   - item
   - container
   - adventuring-gear
+url: https://derpydm.com/dd/items/container/adventuring-gear/crossbow-bolt-case
 ---
 # Crossbow Bolt Case
 

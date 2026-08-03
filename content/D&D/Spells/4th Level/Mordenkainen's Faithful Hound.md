@@ -4,6 +4,7 @@ tags:
   - level-4
   - save-dexterity
   - spell
+url: https://derpydm.com/dd/spells/4th-level/mordenkainens-faithful-hound
 ---
 # Mordenkainen's Faithful Hound
 

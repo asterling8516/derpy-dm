@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/the-wilds-beyond-the-witchlight/people/agdon-longscarf
+---
 # Agdon Longscarf
 
 A notorious Harengon (rabbit-folk) bandit and thief who roams the swamps of [[Hither]]. 

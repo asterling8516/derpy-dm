@@ -4,6 +4,7 @@ tags:
   - homebrew
   - theveil
   - liminal
+url: https://derpydm.com/eureka/places/the-shifting-veil/mushrooms
 ---
 Due to the strange nature of [[The Shifting Veil]] most vegetation cannot grow here. Though the [[Dustlings]] seem to have found a way to cultivate mushrooms that seem to have been affected by [[The Shifting Veil|the Veil]] and have taken new forms. 
 

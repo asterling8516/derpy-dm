@@ -5,6 +5,7 @@ tags:
   - rarity-uncommon
   - save-wisdom
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/greatsword-of-vengeance
 ---
 # Greatsword of Vengeance
 

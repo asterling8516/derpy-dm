@@ -4,6 +4,7 @@ tags:
   - martial-melee
   - rarity-rare
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/war-pick-2
 ---
 # War Pick, +2
 

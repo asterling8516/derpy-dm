@@ -4,6 +4,7 @@ tags:
   - martial-melee
   - rarity-uncommon
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/whip-of-warning
 ---
 # Whip of Warning
 

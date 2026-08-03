@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-12-the-fall-of-a-hero
+---
 # The Chronicles of the Deep Ruins: Time, Void, and the Lost
 
 ## Echoes of the Past

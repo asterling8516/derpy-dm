@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-veryrare
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/pennant-of-the-vind-rune
 ---
 # Pennant of the Vind Rune
 

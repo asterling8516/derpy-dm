@@ -4,6 +4,7 @@ tags:
   - heavy-armor
   - item
   - rarity-rare
+url: https://derpydm.com/dd/items/equipment/heavy-armor/molten-bronze-skin-plate
 ---
 # Molten Bronze Skin, Plate
 

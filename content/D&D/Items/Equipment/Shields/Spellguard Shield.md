@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-veryrare
   - shields
+url: https://derpydm.com/dd/items/equipment/shields/spellguard-shield
 ---
 # Spellguard Shield
 

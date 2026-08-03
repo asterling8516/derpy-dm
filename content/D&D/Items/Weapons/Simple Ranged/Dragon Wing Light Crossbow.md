@@ -4,6 +4,7 @@ tags:
   - rarity-rare
   - simple-ranged
   - weapons
+url: https://derpydm.com/dd/items/weapons/simple-ranged/dragon-wing-light-crossbow
 ---
 # Dragon Wing Light Crossbow
 

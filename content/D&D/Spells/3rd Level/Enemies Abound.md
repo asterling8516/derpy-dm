@@ -4,6 +4,7 @@ tags:
   - level-3
   - save-intelligence
   - spell
+url: https://derpydm.com/dd/spells/3rd-level/enemies-abound
 ---
 # Enemies Abound
 

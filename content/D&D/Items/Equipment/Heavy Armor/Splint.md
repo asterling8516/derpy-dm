@@ -3,6 +3,7 @@ tags:
   - item
   - equipment
   - heavy-armor
+url: https://derpydm.com/dd/items/equipment/heavy-armor/splint
 ---
 # Splint
 

@@ -4,6 +4,7 @@ tags:
   - item
   - light-armor
   - rarity-rare
+url: https://derpydm.com/dd/items/equipment/light-armor/leather-1
 ---
 # Leather, +1
 

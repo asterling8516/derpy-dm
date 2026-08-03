@@ -6,6 +6,7 @@ tags:
   - ruler
 aliases:
   - Seraphina
+url: https://derpydm.com/eureka/places/the-shifting-veil/lady-seraphina
 ---
 ![[lady_seraphina.jpg]]
 

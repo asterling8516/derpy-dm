@@ -4,6 +4,7 @@ tags:
   - martial-melee
   - rarity-rare
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/scimitar-2
 ---
 # Scimitar, +2
 

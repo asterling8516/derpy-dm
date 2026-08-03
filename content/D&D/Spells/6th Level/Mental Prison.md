@@ -4,6 +4,7 @@ tags:
   - level-6
   - save-intelligence
   - spell
+url: https://derpydm.com/dd/spells/6th-level/mental-prison
 ---
 # Mental Prison
 

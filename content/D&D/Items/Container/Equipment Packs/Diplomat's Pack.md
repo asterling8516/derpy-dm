@@ -3,6 +3,7 @@ tags:
   - item
   - container
   - equipment-packs
+url: https://derpydm.com/dd/items/container/equipment-packs/diplomats-pack
 ---
 # Diplomat's Pack
 

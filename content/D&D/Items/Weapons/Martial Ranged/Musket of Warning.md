@@ -4,6 +4,7 @@ tags:
   - martial-ranged
   - rarity-uncommon
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-ranged/musket-of-warning
 ---
 # Musket of Warning
 

@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/external-links
+---
 Here are some links to resources I use for world building, creature creation, and just other resources.
 
 # The Home Brewery

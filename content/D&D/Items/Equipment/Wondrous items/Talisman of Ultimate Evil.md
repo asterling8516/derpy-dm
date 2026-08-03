@@ -5,6 +5,7 @@ tags:
   - rarity-legendary
   - save-dexterity
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/talisman-of-ultimate-evil
 ---
 # Talisman of Ultimate Evil
 

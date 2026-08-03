@@ -3,6 +3,7 @@ tags:
   - item
   - consumable
   - adventuring-gear
+url: https://derpydm.com/dd/items/consumable/adventuring-gear/ball-bearings-bag-of-1000
 ---
 # Ball Bearings (bag of 1,000)
 

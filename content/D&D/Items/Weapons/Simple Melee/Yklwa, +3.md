@@ -4,6 +4,7 @@ tags:
   - rarity-veryrare
   - simple-melee
   - weapons
+url: https://derpydm.com/dd/items/weapons/simple-melee/yklwa-3
 ---
 # Yklwa, +3
 

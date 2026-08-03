@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-14-confusion-and-mantas
+---
 # Act II: Waking in the Lab & The Wrath of Grimhold
 
 ## The Awakening in Happily Ever After

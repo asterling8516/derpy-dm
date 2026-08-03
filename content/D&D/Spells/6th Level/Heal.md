@@ -3,6 +3,7 @@ level: 6
 tags:
   - spell
   - level-6
+url: https://derpydm.com/dd/spells/6th-level/heal
 ---
 # Heal
 

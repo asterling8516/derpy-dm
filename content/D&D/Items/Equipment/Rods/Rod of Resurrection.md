@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-legendary
   - rods
+url: https://derpydm.com/dd/items/equipment/rods/rod-of-resurrection
 ---
 # Rod of Resurrection
 

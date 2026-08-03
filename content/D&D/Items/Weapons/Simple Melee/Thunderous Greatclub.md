@@ -7,6 +7,7 @@ tags:
   - save-strength
   - simple-melee
   - weapons
+url: https://derpydm.com/dd/items/weapons/simple-melee/thunderous-greatclub
 ---
 # Thunderous Greatclub
 

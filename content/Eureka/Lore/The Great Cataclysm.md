@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/lore/the-great-cataclysm
+---
 A wizard on the Material Plane was playing with magic they didn't understand, causing a break in the planes. This attracted the attention of Osmodus, who also experimented with the broken magic and, in his ambition, shattered the planes completely. This caused the planes of the Nine Hells, the Fey Wilds, Shadowfell, and the Material Plane to collide, creating the new world of [[Eureka]].
 
 This collision led to a great war between the peoples of the affected planes, which eventually ended with a peace treaty. The four planes became the four kingdoms: [[the Kingdom of Hearts]] (Nine Hells), the [[The Kingdom of Diamonds]] (Fey Wilds), [[the Kingdom of Spades]] (Material Plane), and [[the Kingdom of Clubs]] (Shadowfell). Magic was subsequently banned as the root of all evil, pushing the world into an industrial age where it's only used in the form of tools.

@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-rare
   - rings
+url: https://derpydm.com/dd/items/equipment/rings/ring-of-acid-resistance
 ---
 # Ring of Acid Resistance
 

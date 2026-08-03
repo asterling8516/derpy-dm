@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/pcs/adamson
+---
 # ♟️ Character Sheet
 ## ♟ Adamson
 > **Character Concept**

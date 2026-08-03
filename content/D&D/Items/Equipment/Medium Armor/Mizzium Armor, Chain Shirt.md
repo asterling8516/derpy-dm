@@ -5,6 +5,7 @@ tags:
   - medium-armor
   - rarity-rare
   - save-constitution
+url: https://derpydm.com/dd/items/equipment/medium-armor/mizzium-armor-chain-shirt
 ---
 # Mizzium Armor, Chain Shirt
 

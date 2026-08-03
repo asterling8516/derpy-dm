@@ -5,6 +5,7 @@ tags:
   - potions
   - rarity-uncommon
   - save-constitution
+url: https://derpydm.com/dd/items/consumable/potions/potion-of-poison
 ---
 # Potion of Poison
 

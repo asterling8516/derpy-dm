@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/full-session-recap/full-session-recap
+---
 These are AI generated recaps using the sessions recordings.
 
 %% Begin Waypoint %%

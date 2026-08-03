@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/the-wilds-beyond-the-witchlight/people/jingle-jangle
+---
 # Jingle Jangle
 
 A friendly goblin who resides in Telemy Hill, within the domain of [[Hither]].

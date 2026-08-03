@@ -4,6 +4,7 @@ tags:
   - level-4
   - save-intelligence
   - spell
+url: https://derpydm.com/dd/spells/4th-level/raulothims-psychic-lance
 ---
 # Raulothim's Psychic Lance
 

@@ -4,6 +4,7 @@ tags:
   - martial-melee
   - rarity-veryrare
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/pike-3
 ---
 # Pike, +3
 

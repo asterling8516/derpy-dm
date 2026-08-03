@@ -4,6 +4,7 @@ tags:
   - heavy-armor
   - item
   - rarity-artifact
+url: https://derpydm.com/dd/items/equipment/heavy-armor/omega-armor
 ---
 # Omega Armor
 

@@ -4,6 +4,7 @@ tags:
   - rarity-artifact
   - simple-ranged
   - weapons
+url: https://derpydm.com/dd/items/weapons/simple-ranged/ephixis-bow-of-nylea
 ---
 # Ephixis, Bow of Nylea
 

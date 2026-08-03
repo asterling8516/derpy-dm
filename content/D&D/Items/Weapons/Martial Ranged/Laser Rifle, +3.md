@@ -4,6 +4,7 @@ tags:
   - martial-ranged
   - rarity-veryrare
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-ranged/laser-rifle-3
 ---
 # Laser Rifle, +3
 

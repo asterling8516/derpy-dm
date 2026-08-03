@@ -4,6 +4,7 @@ tags:
   - level-7
   - save-charisma
   - spell
+url: https://derpydm.com/dd/spells/7th-level/divine-word
 ---
 # Divine Word
 

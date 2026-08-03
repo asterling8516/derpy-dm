@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-uncommon
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/living-gloves-cobblers-tools
 ---
 # Living Gloves, Cobbler's Tools
 

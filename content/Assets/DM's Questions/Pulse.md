@@ -1,1 +1,4 @@
+---
+url: https://derpydm.com/assets/dms-questions/pulse
+---
 Hey y'all I just wanted to reach out and get a pulse for how everything is going so far in the campaign. Is there anything you've liked so far? Anything you've disliked? Anything you don't agree with or want to change? I'll probably be reaching out a few times with these questions just to get a pulse on how everything is going. I want to make sure everyone is always having a good time at the table and is able to do the cool thing they want to do with their character. All feedback is welcome and if something is wrong I'd love to talk about it.

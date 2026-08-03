@@ -3,6 +3,7 @@ tags:
   - item
   - tools
   - artisan's-tools
+url: https://derpydm.com/dd/items/tools/artisans-tools/jewelers-tools
 ---
 # Jeweler's Tools
 

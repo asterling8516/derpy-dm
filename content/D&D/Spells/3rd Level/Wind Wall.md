@@ -4,6 +4,7 @@ tags:
   - level-3
   - save-strength
   - spell
+url: https://derpydm.com/dd/spells/3rd-level/wind-wall
 ---
 # Wind Wall
 

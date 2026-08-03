@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/pcs/character-notes/adamson
+---
 # [[Eureka/Campaigns/The Forgotten Tale/PC's/Adamson|Adamson]] - Notes
 ## Backstory
 Originally starting as a **normal tree** before the great cataclysm, you have lived a long life. After the collision of planes, you found yourself planted in what would come to be known as the **The Black Forest**, which lies just outside the border of **The Kingdom of Spades**. While living there as a tree you saw a great many evils: the horrors of **The great war**, hags luring children into the forest with candy, and creatures killing humanoids in front of you. You have also seen the great powers that have come to replace the old gods, like **The Three Sisters** of the Fickle Fates (Altheria, Morwen, Calistia) and the mother of hags herself, whom you've only known as **Mother** as the other hags called her that.

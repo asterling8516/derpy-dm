@@ -3,6 +3,7 @@ level: 9
 tags:
   - spell
   - level-9
+url: https://derpydm.com/dd/spells/9th-level/gate
 ---
 # Gate
 

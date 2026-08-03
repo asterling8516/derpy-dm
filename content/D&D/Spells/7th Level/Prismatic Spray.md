@@ -6,6 +6,7 @@ tags:
   - save-dexterity
   - save-wisdom
   - spell
+url: https://derpydm.com/dd/spells/7th-level/prismatic-spray
 ---
 # Prismatic Spray
 

@@ -4,6 +4,7 @@ tags:
   - item
   - light-armor
   - rarity-rare
+url: https://derpydm.com/dd/items/equipment/light-armor/armor-of-acid-resistance-leather
 ---
 # Armor of Acid Resistance, Leather
 

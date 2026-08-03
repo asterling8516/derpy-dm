@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/pcs/character-notes/garp
+---
 # Garp - Notes
 ## Allies & Organizations
 - Elves/Humans/Factions/Gretel Hexenwald (criminal contact)

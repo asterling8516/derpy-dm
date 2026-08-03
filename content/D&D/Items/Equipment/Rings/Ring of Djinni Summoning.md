@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-legendary
   - rings
+url: https://derpydm.com/dd/items/equipment/rings/ring-of-djinni-summoning
 ---
 # Ring of Djinni Summoning
 

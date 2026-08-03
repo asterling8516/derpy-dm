@@ -4,6 +4,7 @@ tags:
   - rarity-legendary
   - simple-melee
   - weapons
+url: https://derpydm.com/dd/items/weapons/simple-melee/sunes-silverwood-staff
 ---
 # Sune's Silverwood Staff
 

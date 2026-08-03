@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-rare
   - rings
+url: https://derpydm.com/dd/items/equipment/rings/ring-of-the-ram
 ---
 # Ring of the Ram
 

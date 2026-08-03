@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/places/the-sands-of-rhuamor/oasis-city
+---
 Rising from the sands are tall, flat-roofed buildings forged of sunbaked clay, stone, and brick. Their parapet walls and facades catch the desert sun, glittering with brilliant aquamarine inlays. As your eyes trace inward toward the city center, the sparse desert brush gives way to an impossibly dense, vibrant jungle of foliage.
 
 This lush green heart climbs up the sides of a massive, stepped pyramid—a sprawling ziggurat of square homes built directly over a sparkling, life-giving aquifer.

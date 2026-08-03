@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-3-welcome-to-elysa
+---
 # The City That Waits: Spores, Whiskeys, and Forgotten Memories
 
 ## Act I: The Picture-Perfect Illusion and the Blue Sock

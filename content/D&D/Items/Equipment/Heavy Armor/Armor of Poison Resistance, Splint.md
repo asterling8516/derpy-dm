@@ -4,6 +4,7 @@ tags:
   - heavy-armor
   - item
   - rarity-rare
+url: https://derpydm.com/dd/items/equipment/heavy-armor/armor-of-poison-resistance-splint
 ---
 # Armor of Poison Resistance, Splint
 

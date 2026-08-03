@@ -5,6 +5,7 @@ tags:
   - rarity-veryrare
   - rings
   - save-dexterity
+url: https://derpydm.com/dd/items/equipment/rings/ring-of-shooting-stars
 ---
 # Ring of Shooting Stars
 

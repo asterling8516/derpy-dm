@@ -4,6 +4,7 @@ tags:
   - level-5
   - save-constitution
   - spell
+url: https://derpydm.com/dd/spells/5th-level/cone-of-cold
 ---
 # Cone of Cold
 

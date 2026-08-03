@@ -5,6 +5,7 @@ tags:
   - rarity-legendary
   - save-wisdom
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/black-crystal-tablet
 ---
 # Black Crystal Tablet
 

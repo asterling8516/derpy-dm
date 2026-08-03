@@ -2,6 +2,7 @@
 tags:
   - homebrew
   - rules
+url: https://derpydm.com/homebrewed/rules/enchanting
 ---
 Using [Kobold Press's]([https://koboldpress.com/kpstore?raf=ref4237525](https://koboldpress.com/kpstore?raf=ref4237525)) Wanderers Guide to enchantments and adding in some twists of my own here are the rules for enchanting items. All of the rules below can be changed or adjusted at the DM's discretion. 
 

@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-uncommon
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/wheel-of-wind-and-water
 ---
 # Wheel of Wind and Water
 

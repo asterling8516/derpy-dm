@@ -4,6 +4,7 @@ tags:
   - level-7
   - save-constitution
   - spell
+url: https://derpydm.com/dd/spells/7th-level/finger-of-death
 ---
 # Finger of Death
 

@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-common
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/ruby-of-the-war-mage
 ---
 # Ruby of the War Mage
 

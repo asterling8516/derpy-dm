@@ -4,6 +4,7 @@ tags:
   - martial-ranged
   - rarity-legendary
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-ranged/topaz-annihilator
 ---
 # Topaz Annihilator
 

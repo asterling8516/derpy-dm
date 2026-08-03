@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-artifact
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/smiths-swedish-knife
 ---
 # Smiths Swedish Knife
 

@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/dd/items/consumable/poisons/malice
+---
 # Malice
 
 **Malice**

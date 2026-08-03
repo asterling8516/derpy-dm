@@ -5,6 +5,7 @@ tags:
   - rarity-veryrare
   - save-strength
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/amethyst-lodestone
 ---
 # Amethyst Lodestone
 

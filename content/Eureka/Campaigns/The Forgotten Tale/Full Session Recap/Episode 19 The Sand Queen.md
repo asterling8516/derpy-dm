@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/full-session-recap/episode-19-the-sand-queen
+---
 # Session Recap: The Glass Hive and the Neon Tempest
 
 ## Prologue: Into the Desert

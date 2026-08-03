@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-rare
   - scrolls
+url: https://derpydm.com/dd/items/consumable/scrolls/scroll-of-protection
 ---
 # Scroll of Protection
 

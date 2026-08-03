@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/lore/the-first-chord
+---
 You know nothing about this...yet.
 
 # Gathered Knowledge 1

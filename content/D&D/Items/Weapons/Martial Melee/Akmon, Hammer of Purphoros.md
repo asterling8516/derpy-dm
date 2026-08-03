@@ -4,6 +4,7 @@ tags:
   - martial-melee
   - rarity-artifact
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/akmon-hammer-of-purphoros
 ---
 # Akmon, Hammer of Purphoros
 

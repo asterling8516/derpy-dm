@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-uncommon
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/stone-of-good-luck-luckstone
 ---
 # Stone of Good Luck (Luckstone)
 

@@ -4,6 +4,7 @@ tags:
   - item
   - potions
   - rarity-uncommon
+url: https://derpydm.com/dd/items/consumable/potions/oil-of-slipperiness
 ---
 # Oil of Slipperiness
 

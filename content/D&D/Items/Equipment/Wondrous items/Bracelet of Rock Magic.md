@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-veryrare
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/bracelet-of-rock-magic
 ---
 # Bracelet of Rock Magic
 

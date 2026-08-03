@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-uncommon
   - wondrous-items
+url: https://derpydm.com/dd/items/consumable/wondrous-items/elemental-gem-yellow-diamond
 ---
 # Elemental Gem (Yellow Diamond)
 

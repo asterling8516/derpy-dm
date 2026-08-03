@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-uncommon
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/living-gloves-brewers-supplies
 ---
 # Living Gloves, Brewer's Supplies
 

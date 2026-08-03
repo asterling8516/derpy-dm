@@ -1,6 +1,7 @@
 ---
 tags:
   - conditions
+url: https://derpydm.com/dd/rules/conditions/unconscious
 ---
 An unconscious creature is [[incapacitated]] (see the condition), can’t move or speak, and is unaware of its surroundings
 The creature drops whatever it’s holding and falls [[prone]].

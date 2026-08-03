@@ -5,6 +5,7 @@ tags:
   - rarity-veryrare
   - save-constitution
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/nine-lives-stealer-lance
 ---
 # Nine Lives Stealer Lance
 

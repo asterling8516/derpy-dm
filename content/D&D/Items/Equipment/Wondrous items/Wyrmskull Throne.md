@@ -5,6 +5,7 @@ tags:
   - rarity-artifact
   - save-dexterity
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/wyrmskull-throne
 ---
 # Wyrmskull Throne
 

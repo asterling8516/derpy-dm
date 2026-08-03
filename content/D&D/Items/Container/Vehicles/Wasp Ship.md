@@ -3,6 +3,7 @@ tags:
   - item
   - container
   - vehicles
+url: https://derpydm.com/dd/items/container/vehicles/wasp-ship
 ---
 # Wasp Ship
 

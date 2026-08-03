@@ -1,6 +1,7 @@
 ---
 tags:
   - TWBTWL
+url: https://derpydm.com/the-wilds-beyond-the-witchlight/people/mr-witch-and-mr-light
 ---
 # Mr. Witch and Mr. Light
 

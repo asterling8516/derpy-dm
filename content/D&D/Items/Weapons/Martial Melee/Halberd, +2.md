@@ -4,6 +4,7 @@ tags:
   - martial-melee
   - rarity-rare
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/halberd-2
 ---
 # Halberd, +2
 

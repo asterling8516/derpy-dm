@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/recaps/session-6-recap-twas-the-night-of-the-sea-witch
+---
 ’Twas the night after battle, and all through the boat, You worked through the pain just to keep it afloat. Captain Ahab had promised rewards for the fight, But peace wasn't destined to last through the night.
 
 The deck gave a tremble, the waters went wild, Then fell deadly silent, no longer so mild. From the depths rose a figure, with skin caramel, **Ursula** rose with a treacherous yell.

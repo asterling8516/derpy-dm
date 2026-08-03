@@ -5,6 +5,7 @@ tags:
   - rarity-rare
   - save-constitution
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/shortsword-of-wounding
 ---
 # Shortsword of Wounding
 

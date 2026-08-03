@@ -3,6 +3,7 @@ tags:
   - item
   - consumable
   - adventuring-gear
+url: https://derpydm.com/dd/items/consumable/adventuring-gear/spikes-iron-10
 ---
 # Spikes, Iron (10)
 

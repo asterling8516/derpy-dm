@@ -4,6 +4,7 @@ tags:
   - martial-melee
   - rarity-legendary
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/trident-of-boccobo
 ---
 # Trident of Boccobo
 

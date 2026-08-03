@@ -3,6 +3,7 @@ tags:
   - item
   - weapons
   - martial-ranged
+url: https://derpydm.com/dd/items/weapons/martial-ranged/revolver
 ---
 # Revolver
 

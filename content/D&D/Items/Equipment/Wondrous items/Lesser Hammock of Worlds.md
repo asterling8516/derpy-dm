@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-legendary
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/lesser-hammock-of-worlds
 ---
 # Lesser Hammock of Worlds
 

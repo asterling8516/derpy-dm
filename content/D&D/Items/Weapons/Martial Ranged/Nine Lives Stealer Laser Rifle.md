@@ -5,6 +5,7 @@ tags:
   - rarity-veryrare
   - save-constitution
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-ranged/nine-lives-stealer-laser-rifle
 ---
 # Nine Lives Stealer Laser Rifle
 

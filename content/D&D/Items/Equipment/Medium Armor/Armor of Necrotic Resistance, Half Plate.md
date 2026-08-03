@@ -4,6 +4,7 @@ tags:
   - item
   - medium-armor
   - rarity-rare
+url: https://derpydm.com/dd/items/equipment/medium-armor/armor-of-necrotic-resistance-half-plate
 ---
 # Armor of Necrotic Resistance, Half Plate
 

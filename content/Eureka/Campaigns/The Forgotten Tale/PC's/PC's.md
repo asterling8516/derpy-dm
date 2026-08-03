@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/pcs/pcs
+---
 %% Begin Waypoint %%
 - **Character notes**
 	- [[Adamson]]

@@ -4,6 +4,7 @@ tags:
   - consumable
   - item
   - rarity-uncommon
+url: https://derpydm.com/dd/items/consumable/ammunition/sling-bullets-1
 ---
 # Sling Bullets, +1
 

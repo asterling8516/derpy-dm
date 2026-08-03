@@ -5,6 +5,7 @@ tags:
   - liminal
   - theveil
   - homebrew
+url: https://derpydm.com/eureka/places/the-shifting-veil/the-spire-of-whispers
 ---
 The Spire of Whispers is not so much a castle as it is a breathtaking, tragic testament to [[Eureka/Places/The Shifting Veil/Lady Seraphina]]'s existence. It is an impossible structure, a single, towering monument that spirals upward into the hazy, dust-filled sky of [[The Shifting Veil]], visible from any point in her domain. Its construction is a mosaic of colossal, forgotten things: walls are formed from the brittle, yellowed pages of books no one finished; grand archways are made from the bent, impossibly large frames of eyeglasses that no one ever looked through; and its foundation rests on a mountain of countless, unpaired socks, their colors muted and their textures worn by time.
 

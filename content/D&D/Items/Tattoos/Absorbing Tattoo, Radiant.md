@@ -3,6 +3,7 @@ tags:
   - item
   - rarity-veryrare
   - tattoos
+url: https://derpydm.com/dd/items/tattoos/absorbing-tattoo-radiant
 ---
 # Absorbing Tattoo, Radiant
 

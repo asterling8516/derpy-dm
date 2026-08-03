@@ -4,6 +4,7 @@ tags:
   - martial-melee
   - rarity-veryrare
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/flail-3
 ---
 # Flail, +3
 

@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-uncommon
   - rings
+url: https://derpydm.com/dd/items/equipment/rings/boros-guild-signet
 ---
 # Boros Guild Signet
 

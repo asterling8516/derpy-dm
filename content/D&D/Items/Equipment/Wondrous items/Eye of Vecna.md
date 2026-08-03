@@ -5,6 +5,7 @@ tags:
   - rarity-artifact
   - save-constitution
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/eye-of-vecna
 ---
 # Eye of Vecna
 

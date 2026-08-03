@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-rare
   - rings
+url: https://derpydm.com/dd/items/equipment/rings/ring-of-animal-influence
 ---
 # Ring of Animal Influence
 

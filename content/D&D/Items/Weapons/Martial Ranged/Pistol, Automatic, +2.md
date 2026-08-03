@@ -4,6 +4,7 @@ tags:
   - martial-ranged
   - rarity-rare
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-ranged/pistol-automatic-2
 ---
 # Pistol, Automatic, +2
 

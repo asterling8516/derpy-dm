@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-uncommon
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/living-gloves-woodcarvers-tools
 ---
 # Living Gloves, Woodcarver's Tools
 

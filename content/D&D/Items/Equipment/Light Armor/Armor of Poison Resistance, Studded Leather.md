@@ -4,6 +4,7 @@ tags:
   - item
   - light-armor
   - rarity-rare
+url: https://derpydm.com/dd/items/equipment/light-armor/armor-of-poison-resistance-studded-leather
 ---
 # Armor of Poison Resistance, Studded Leather
 

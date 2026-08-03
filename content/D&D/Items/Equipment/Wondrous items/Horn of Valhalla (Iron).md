@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-legendary
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/horn-of-valhalla-iron
 ---
 # Horn of Valhalla (Iron)
 

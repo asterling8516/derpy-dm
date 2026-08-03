@@ -4,6 +4,7 @@ tags:
   - item
   - medium-armor
   - rarity-rare
+url: https://derpydm.com/dd/items/equipment/medium-armor/armor-of-lightning-resistance-chain-shirt
 ---
 # Armor of Lightning Resistance, Chain Shirt
 

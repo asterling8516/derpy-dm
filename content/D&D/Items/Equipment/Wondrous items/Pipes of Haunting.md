@@ -5,6 +5,7 @@ tags:
   - rarity-uncommon
   - save-wisdom
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/pipes-of-haunting
 ---
 # Pipes of Haunting
 

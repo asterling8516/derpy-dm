@@ -4,6 +4,7 @@ tags:
   - item
   - medium-armor
   - rarity-rare
+url: https://derpydm.com/dd/items/equipment/medium-armor/chain-shirt-1
 ---
 # Chain Shirt, +1
 

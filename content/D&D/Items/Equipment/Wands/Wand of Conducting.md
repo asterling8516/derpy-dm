@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-common
   - wands
+url: https://derpydm.com/dd/items/equipment/wands/wand-of-conducting
 ---
 # Wand of Conducting
 

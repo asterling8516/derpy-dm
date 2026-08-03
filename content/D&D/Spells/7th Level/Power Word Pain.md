@@ -4,6 +4,7 @@ tags:
   - level-7
   - save-constitution
   - spell
+url: https://derpydm.com/dd/spells/7th-level/power-word-pain
 ---
 # Power Word Pain
 

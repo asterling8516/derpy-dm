@@ -5,6 +5,7 @@ tags:
   - item
   - rarity-veryrare
   - save-constitution
+url: https://derpydm.com/dd/items/consumable/ammunition/arrow-of-slaying
 ---
 # Arrow of Slaying
 

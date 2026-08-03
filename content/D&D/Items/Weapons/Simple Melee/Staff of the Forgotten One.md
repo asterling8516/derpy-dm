@@ -7,6 +7,7 @@ tags:
   - save-dexterity
   - simple-melee
   - weapons
+url: https://derpydm.com/dd/items/weapons/simple-melee/staff-of-the-forgotten-one
 ---
 # Staff of the Forgotten One
 

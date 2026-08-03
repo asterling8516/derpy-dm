@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-artifact
   - rings
+url: https://derpydm.com/dd/items/equipment/rings/ring-of-winter
 ---
 # Ring of Winter
 

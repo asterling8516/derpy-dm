@@ -4,6 +4,7 @@ tags:
   - level-3
   - save-charisma
   - spell
+url: https://derpydm.com/dd/spells/3rd-level/magic-circle
 ---
 # Magic Circle
 

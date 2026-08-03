@@ -5,6 +5,7 @@ tags:
   - save-intelligence
   - save-wisdom
   - spell
+url: https://derpydm.com/dd/spells/8th-level/illusory-dragon
 ---
 # Illusory Dragon
 

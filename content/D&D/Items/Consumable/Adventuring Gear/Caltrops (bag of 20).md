@@ -3,6 +3,7 @@ tags:
   - item
   - consumable
   - adventuring-gear
+url: https://derpydm.com/dd/items/consumable/adventuring-gear/caltrops-bag-of-20
 ---
 # Caltrops (bag of 20)
 

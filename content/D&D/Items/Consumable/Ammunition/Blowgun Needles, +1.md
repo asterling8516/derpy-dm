@@ -4,6 +4,7 @@ tags:
   - consumable
   - item
   - rarity-uncommon
+url: https://derpydm.com/dd/items/consumable/ammunition/blowgun-needles-1
 ---
 # Blowgun Needles, +1
 

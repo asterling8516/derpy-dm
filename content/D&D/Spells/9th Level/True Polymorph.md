@@ -4,6 +4,7 @@ tags:
   - level-9
   - save-wisdom
   - spell
+url: https://derpydm.com/dd/spells/9th-level/true-polymorph
 ---
 # True Polymorph
 

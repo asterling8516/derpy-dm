@@ -5,6 +5,7 @@ tags:
   - rarity-artifact
   - save-charisma
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/demonomicon-of-iggwilv
 ---
 # Demonomicon of Iggwilv
 

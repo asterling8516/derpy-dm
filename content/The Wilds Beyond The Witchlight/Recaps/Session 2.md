@@ -1,6 +1,7 @@
 ---
 tags:
   - TWBTWL
+url: https://derpydm.com/the-wilds-beyond-the-witchlight/recaps/session-2
 ---
 This ones a long one so buckle up!
 

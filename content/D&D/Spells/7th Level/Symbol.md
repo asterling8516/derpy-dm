@@ -7,6 +7,7 @@ tags:
   - save-intelligence
   - save-wisdom
   - spell
+url: https://derpydm.com/dd/spells/7th-level/symbol
 ---
 # Symbol
 

@@ -7,6 +7,7 @@ tags:
   - save-dexterity
   - save-wisdom
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/teeth-of-dahlver-nar
 ---
 # Teeth of Dahlver-Nar
 

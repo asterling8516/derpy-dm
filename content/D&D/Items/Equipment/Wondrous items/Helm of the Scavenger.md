@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-legendary
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/helm-of-the-scavenger
 ---
 # Helm of the Scavenger
 

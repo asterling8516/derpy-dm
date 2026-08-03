@@ -5,6 +5,7 @@ tags:
   - rarity-uncommon
   - save-wisdom
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/infernal-puzzle-box
 ---
 # Infernal Puzzle Box
 

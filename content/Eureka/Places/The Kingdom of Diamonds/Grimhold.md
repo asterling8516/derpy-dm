@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/places/the-kingdom-of-diamonds/grimhold
+---
 Grimhold is a breathtaking, terrifying collision of untamed Feywild magic and ruthless corporate efficiency. It is the seat of power for the Kingdom of Diamonds, but the true royalty here isn't flesh and blood—it's the bottom line of the mega-corporation **Happily Ever After (H.E.A.)**.
 
 The city is built directly into and around a massive, ancient fey forest. Sky-scraping towers of steel and glass are woven into the trunks of trees the size of mountains. Neon holograms of corporate mascots flicker alongside swarms of real, glowing pixies.

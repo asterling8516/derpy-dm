@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-uncommon
   - shields
+url: https://derpydm.com/dd/items/equipment/shields/sentinel-shield
 ---
 # Sentinel Shield
 

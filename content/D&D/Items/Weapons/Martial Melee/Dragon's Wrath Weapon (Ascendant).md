@@ -5,6 +5,7 @@ tags:
   - rarity-legendary
   - save-dexterity
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/dragons-wrath-weapon-ascendant
 ---
 # Dragon's Wrath Weapon (Ascendant)
 

@@ -3,6 +3,7 @@ tags:
   - item
   - rarity-legendary
   - tattoos
+url: https://derpydm.com/dd/items/tattoos/blood-fury-tattoo
 ---
 # Blood Fury Tattoo
 

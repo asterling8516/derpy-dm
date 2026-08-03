@@ -5,6 +5,7 @@ tags:
   - rarity-veryrare
   - save-constitution
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/amulet-of-the-black-skull
 ---
 # Amulet of the Black Skull
 

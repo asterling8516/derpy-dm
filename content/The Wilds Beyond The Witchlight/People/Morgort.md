@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/the-wilds-beyond-the-witchlight/people/morgort
+---
 # Morgort
 
 A brave Bullywug (frog-person) knight who belongs to the Soggy Court in the domain of [[Hither]]. 

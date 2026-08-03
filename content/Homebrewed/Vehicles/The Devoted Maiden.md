@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/homebrewed/vehicles/the-devoted-maiden
+---
 Gargantuan Vehicle (300ft by 160ft)
 
 #### Capacity

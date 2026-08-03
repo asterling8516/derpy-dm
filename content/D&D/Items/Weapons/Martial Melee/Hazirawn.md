@@ -5,6 +5,7 @@ tags:
   - rarity-legendary
   - save-constitution
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/hazirawn
 ---
 # Hazirawn
 

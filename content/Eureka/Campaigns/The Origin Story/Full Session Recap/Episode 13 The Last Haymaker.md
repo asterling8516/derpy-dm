@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-13-the-last-haymaker
+---
 # Campaign Recap: The Clock Stops for the Champion
 
 ## Act I: The Loop Begins

@@ -5,6 +5,7 @@ tags:
   - rarity-common
   - save-charisma
   - wands
+url: https://derpydm.com/dd/items/equipment/wands/wand-of-scowls
 ---
 # Wand of Scowls
 

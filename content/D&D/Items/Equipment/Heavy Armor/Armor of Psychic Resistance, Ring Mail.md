@@ -4,6 +4,7 @@ tags:
   - heavy-armor
   - item
   - rarity-rare
+url: https://derpydm.com/dd/items/equipment/heavy-armor/armor-of-psychic-resistance-ring-mail
 ---
 # Armor of Psychic Resistance, Ring Mail
 

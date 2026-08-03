@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/pcs/character-notes/odin
+---
 # [[Odin Steelwing]] - Notes
 ## Backstory
 Growing up in **Frostlight**, you were always an outsider due to being an **Owlin**. Your unique features and nocturnal tendencies set you apart, but you had an unquenchable thirst for knowledge, admiring the city's unique blend of law and mechanics.

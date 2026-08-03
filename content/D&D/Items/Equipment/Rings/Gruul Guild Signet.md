@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-uncommon
   - rings
+url: https://derpydm.com/dd/items/equipment/rings/gruul-guild-signet
 ---
 # Gruul Guild Signet
 

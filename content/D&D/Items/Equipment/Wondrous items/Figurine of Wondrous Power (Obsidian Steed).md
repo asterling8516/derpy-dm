@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-veryrare
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/figurine-of-wondrous-power-obsidian-steed
 ---
 # Figurine of Wondrous Power (Obsidian Steed)
 

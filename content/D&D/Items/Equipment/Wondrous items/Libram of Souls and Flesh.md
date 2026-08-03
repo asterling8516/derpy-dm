@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-rare
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/libram-of-souls-and-flesh
 ---
 # Libram of Souls and Flesh
 

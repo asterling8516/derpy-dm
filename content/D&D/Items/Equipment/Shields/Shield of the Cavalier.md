@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-veryrare
   - shields
+url: https://derpydm.com/dd/items/equipment/shields/shield-of-the-cavalier
 ---
 # Shield of the Cavalier
 

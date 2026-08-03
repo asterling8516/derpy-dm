@@ -4,6 +4,7 @@ tags:
   - rarity-rare
   - simple-ranged
   - weapons
+url: https://derpydm.com/dd/items/weapons/simple-ranged/crossbow-light-2
 ---
 # Crossbow, Light, +2
 

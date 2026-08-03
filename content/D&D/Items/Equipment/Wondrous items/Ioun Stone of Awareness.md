@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-rare
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/ioun-stone-of-awareness
 ---
 # Ioun Stone of Awareness
 

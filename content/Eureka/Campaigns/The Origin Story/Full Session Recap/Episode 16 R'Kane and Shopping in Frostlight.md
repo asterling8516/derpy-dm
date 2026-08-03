@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-16-rkane-and-shopping-in-frostlight
+---
 # Campaign Recap: The Ticking Spire of Frostlight
 
 ## Whispers in the Wind & Preparations

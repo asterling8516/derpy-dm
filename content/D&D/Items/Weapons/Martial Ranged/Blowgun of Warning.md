@@ -4,6 +4,7 @@ tags:
   - martial-ranged
   - rarity-uncommon
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-ranged/blowgun-of-warning
 ---
 # Blowgun of Warning
 

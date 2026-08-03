@@ -5,6 +5,7 @@ tags:
   - save-constitution
   - simple-melee
   - weapons
+url: https://derpydm.com/dd/items/weapons/simple-melee/wand-of-orcus
 ---
 # Wand of Orcus
 

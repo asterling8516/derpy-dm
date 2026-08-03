@@ -1,6 +1,7 @@
 ---
 tags:
   - places
+url: https://derpydm.com/eureka/eureka
 ---
 # Eureka
 A world filled with magics from the inner planes. Where fairytales come to life!

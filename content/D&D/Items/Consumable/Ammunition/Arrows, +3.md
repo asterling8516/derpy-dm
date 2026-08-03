@@ -4,6 +4,7 @@ tags:
   - consumable
   - item
   - rarity-veryrare
+url: https://derpydm.com/dd/items/consumable/ammunition/arrows-3
 ---
 # Arrows, +3
 

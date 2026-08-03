@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-veryrare
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/shard-of-the-ise-rune
 ---
 # Shard of the Ise Rune
 

@@ -3,6 +3,7 @@ tags:
   - item
   - rarity-uncommon
   - tattoos
+url: https://derpydm.com/dd/items/tattoos/spellwrought-tattoo-2nd-level
 ---
 # Spellwrought Tattoo, 2nd level
 

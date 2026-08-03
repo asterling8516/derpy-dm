@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-2-the-night-terror
+---
 # The Whispers of the Waste: Dreams, Dust, and Debris
 
 ## Session Overview

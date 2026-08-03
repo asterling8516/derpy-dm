@@ -4,6 +4,7 @@ tags:
   - item
   - potions
   - rarity-uncommon
+url: https://derpydm.com/dd/items/consumable/potions/potion-of-radiant-resistance
 ---
 # Potion of Radiant Resistance
 

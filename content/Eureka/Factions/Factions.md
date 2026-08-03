@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/factions/factions
+---
 # Table of Contents
 %% Begin Waypoint %%
 - **Religions**

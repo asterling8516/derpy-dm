@@ -4,6 +4,7 @@ tags:
   - item
   - potions
   - rarity-veryrare
+url: https://derpydm.com/dd/items/consumable/potions/potion-of-vitality
 ---
 # Potion of Vitality
 

@@ -3,6 +3,7 @@ tags:
   - item
   - rarity-rare
   - tattoos
+url: https://derpydm.com/dd/items/tattoos/shadowfell-brand-tattoo
 ---
 # Shadowfell Brand Tattoo
 

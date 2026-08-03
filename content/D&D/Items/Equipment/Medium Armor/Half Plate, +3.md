@@ -4,6 +4,7 @@ tags:
   - item
   - medium-armor
   - rarity-legendary
+url: https://derpydm.com/dd/items/equipment/medium-armor/half-plate-3
 ---
 # Half Plate, +3
 

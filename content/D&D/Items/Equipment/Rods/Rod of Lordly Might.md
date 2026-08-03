@@ -7,6 +7,7 @@ tags:
   - save-constitution
   - save-strength
   - save-wisdom
+url: https://derpydm.com/dd/items/equipment/rods/rod-of-lordly-might
 ---
 # Rod of Lordly Might
 

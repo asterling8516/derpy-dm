@@ -4,6 +4,7 @@ tags:
   - rarity-veryrare
   - simple-melee
   - weapons
+url: https://derpydm.com/dd/items/weapons/simple-melee/light-hammer-3
 ---
 # Light Hammer, +3
 

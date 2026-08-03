@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-veryrare
   - wands
+url: https://derpydm.com/dd/items/equipment/wands/wand-of-polymorph
 ---
 # Wand of Polymorph
 

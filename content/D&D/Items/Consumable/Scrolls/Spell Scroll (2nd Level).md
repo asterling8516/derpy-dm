@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-uncommon
   - scrolls
+url: https://derpydm.com/dd/items/consumable/scrolls/spell-scroll-2nd-level
 ---
 # Spell Scroll (2nd Level)
 

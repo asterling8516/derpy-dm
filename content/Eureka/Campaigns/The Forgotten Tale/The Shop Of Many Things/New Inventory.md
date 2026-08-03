@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/the-shop-of-many-things/new-inventory
+---
 
 [[The Shop of Many Things]] has refreshed its inventory. Take a look and choose wisely the chaos level has been raised!
 

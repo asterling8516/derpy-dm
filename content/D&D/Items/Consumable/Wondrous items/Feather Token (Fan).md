@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-rare
   - wondrous-items
+url: https://derpydm.com/dd/items/consumable/wondrous-items/feather-token-fan
 ---
 # Feather Token (Fan)
 

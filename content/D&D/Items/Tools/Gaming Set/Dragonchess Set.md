@@ -3,6 +3,7 @@ tags:
   - item
   - tools
   - gaming-set
+url: https://derpydm.com/dd/items/tools/gaming-set/dragonchess-set
 ---
 # Dragonchess Set
 

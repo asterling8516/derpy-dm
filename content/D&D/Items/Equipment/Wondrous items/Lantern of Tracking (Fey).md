@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-common
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/lantern-of-tracking-fey
 ---
 # Lantern of Tracking (Fey)
 

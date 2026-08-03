@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-uncommon
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/rhythm-makers-drum-1
 ---
 # Rhythm-Maker's Drum, +1
 

@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-18-the-iron-giant
+---
 # Campaign Chronicle: The Vault of Spades and the Crucible of Fire
 
 ## Chapter I: An Army in the Blizzard

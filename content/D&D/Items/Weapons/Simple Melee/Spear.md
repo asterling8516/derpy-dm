@@ -3,6 +3,7 @@ tags:
   - item
   - weapons
   - simple-melee
+url: https://derpydm.com/dd/items/weapons/simple-melee/spear
 ---
 # Spear
 

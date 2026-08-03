@@ -2,6 +2,7 @@
 aliases:
   - Skal
   - skal
+url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/pcs/skal-deathchewer
 ---
 
 # ♟️ Character Sheet

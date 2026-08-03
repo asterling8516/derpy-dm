@@ -5,6 +5,7 @@ tags:
   - rarity-veryrare
   - save-dexterity
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/dragons-wrath-weapon-wakened
 ---
 # Dragon's Wrath Weapon (Wakened)
 

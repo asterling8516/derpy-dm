@@ -4,6 +4,7 @@ tags:
   - martial-melee
   - rarity-uncommon
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/trident-of-fish-command
 ---
 # Trident of Fish Command
 

@@ -5,6 +5,7 @@ tags:
   - rarity-veryrare
   - save-wisdom
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/mirror-of-reflected-pasts
 ---
 # Mirror of Reflected Pasts
 

@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-veryrare
   - rings
+url: https://derpydm.com/dd/items/equipment/rings/ring-of-telekinesis
 ---
 # Ring of Telekinesis
 

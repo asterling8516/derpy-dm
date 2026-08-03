@@ -4,6 +4,7 @@ tags:
   - heavy-armor
   - item
   - rarity-artifact
+url: https://derpydm.com/dd/items/equipment/heavy-armor/soul-master-armor
 ---
 # Soul Master Armor
 

@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-uncommon
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/psi-crystal-int-16
 ---
 # Psi Crystal (Int 16+)
 

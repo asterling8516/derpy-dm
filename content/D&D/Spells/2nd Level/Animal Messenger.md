@@ -4,6 +4,7 @@ tags:
   - level-2
   - save-charisma
   - spell
+url: https://derpydm.com/dd/spells/2nd-level/animal-messenger
 ---
 # Animal Messenger
 

@@ -4,6 +4,7 @@ tags:
   - consumable
   - item
   - rarity-uncommon
+url: https://derpydm.com/dd/items/consumable/ammunition/crossbow-bolts-1
 ---
 # Crossbow Bolts, +1
 

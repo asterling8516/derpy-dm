@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/recaps/session-14-recap
+---
 Last session, the frozen tundra demanded a heavy toll.
 
 Amidst the brutal clash with the Frost Giants and their mammoths, [[Eureka/Campaigns/The Forgotten Tale/PC's/Adamson|Adamson]] began to hear the forest whispering. At first, the voices were lost in the roar of battle, but soon they cut through the chaos, clear and urgent, urging you all to flee into the trees. They offered sanctuary. They offered an escape.

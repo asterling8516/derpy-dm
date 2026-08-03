@@ -3,6 +3,7 @@ tags:
   - item
   - weapons
   - simple-ranged
+url: https://derpydm.com/dd/items/weapons/simple-ranged/crossbow-light
 ---
 # Crossbow, Light
 

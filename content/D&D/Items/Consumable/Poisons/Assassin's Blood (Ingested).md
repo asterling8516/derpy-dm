@@ -4,6 +4,7 @@ tags:
   - item
   - poisons
   - save-constitution
+url: https://derpydm.com/dd/items/consumable/poisons/assassins-blood-ingested
 ---
 # Assassin's Blood (Ingested)
 

@@ -5,6 +5,7 @@ tags:
   - rarity-rare
   - rings
   - save-constitution
+url: https://derpydm.com/dd/items/equipment/rings/ring-of-x-ray-vision
 ---
 # Ring of X-ray Vision
 

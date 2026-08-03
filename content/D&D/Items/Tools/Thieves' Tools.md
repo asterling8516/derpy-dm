@@ -2,6 +2,7 @@
 tags:
   - item
   - tools
+url: https://derpydm.com/dd/items/tools/thieves-tools
 ---
 # Thieves' Tools
 

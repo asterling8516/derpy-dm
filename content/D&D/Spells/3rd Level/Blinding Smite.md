@@ -4,6 +4,7 @@ tags:
   - level-3
   - save-constitution
   - spell
+url: https://derpydm.com/dd/spells/3rd-level/blinding-smite
 ---
 # Blinding Smite
 

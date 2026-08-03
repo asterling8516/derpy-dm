@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-rare
   - wondrous-items
+url: https://derpydm.com/dd/items/container/wondrous-items/hewards-handy-haversack
 ---
 # Heward's Handy Haversack
 

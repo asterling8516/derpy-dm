@@ -4,6 +4,7 @@ tags:
   - level-5
   - save-charisma
   - spell
+url: https://derpydm.com/dd/spells/5th-level/seeming
 ---
 # Seeming
 

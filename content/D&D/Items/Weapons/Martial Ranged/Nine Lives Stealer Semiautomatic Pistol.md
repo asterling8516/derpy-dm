@@ -5,6 +5,7 @@ tags:
   - rarity-veryrare
   - save-constitution
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-ranged/nine-lives-stealer-semiautomatic-pistol
 ---
 # Nine Lives Stealer Semiautomatic Pistol
 

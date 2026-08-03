@@ -4,6 +4,7 @@ tags:
   - martial-ranged
   - rarity-uncommon
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-ranged/crossbow-heavy-1
 ---
 # Crossbow, Heavy, +1
 

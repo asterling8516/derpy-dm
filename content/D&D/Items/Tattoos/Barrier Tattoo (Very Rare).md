@@ -3,6 +3,7 @@ tags:
   - item
   - rarity-veryrare
   - tattoos
+url: https://derpydm.com/dd/items/tattoos/barrier-tattoo-very-rare
 ---
 # Barrier Tattoo (Very Rare)
 

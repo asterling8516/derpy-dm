@@ -5,6 +5,7 @@ tags:
   - rarity-artifact
   - save-dexterity
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-ranged/aethanas-bow
 ---
 # Aethana's Bow
 

@@ -4,6 +4,7 @@ tags:
   - level-9
   - save-intelligence
   - spell
+url: https://derpydm.com/dd/spells/9th-level/psychic-scream
 ---
 # Psychic Scream
 

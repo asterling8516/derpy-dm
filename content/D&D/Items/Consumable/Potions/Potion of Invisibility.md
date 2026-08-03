@@ -4,6 +4,7 @@ tags:
   - item
   - potions
   - rarity-very-rare
+url: https://derpydm.com/dd/items/consumable/potions/potion-of-invisibility
 ---
 # Potion of Invisibility
 

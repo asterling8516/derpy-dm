@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/the-origin-story
+---
 My online group
 
 %% Begin Waypoint %%

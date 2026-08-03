@@ -4,6 +4,7 @@ tags:
   - item
   - potions
   - rarity-rare
+url: https://derpydm.com/dd/items/consumable/potions/potion-of-mind-control-humanoid
 ---
 # Potion of Mind Control (Humanoid)
 

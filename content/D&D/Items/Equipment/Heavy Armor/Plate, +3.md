@@ -4,6 +4,7 @@ tags:
   - heavy-armor
   - item
   - rarity-legendary
+url: https://derpydm.com/dd/items/equipment/heavy-armor/plate-3
 ---
 # Plate, +3
 

@@ -4,6 +4,7 @@ tags:
   - cantrip
   - save-wisdom
   - spell
+url: https://derpydm.com/dd/spells/0th-level-cantrip/vicious-mockery
 ---
 # Vicious Mockery
 

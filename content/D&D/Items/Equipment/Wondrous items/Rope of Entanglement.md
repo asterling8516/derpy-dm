@@ -5,6 +5,7 @@ tags:
   - rarity-rare
   - save-dexterity
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/rope-of-entanglement
 ---
 # Rope of Entanglement
 

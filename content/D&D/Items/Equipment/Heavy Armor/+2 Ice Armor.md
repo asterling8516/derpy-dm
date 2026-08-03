@@ -4,6 +4,7 @@ tags:
   - heavy-armor
   - item
   - rarity-veryrare
+url: https://derpydm.com/dd/items/equipment/heavy-armor/2-ice-armor
 ---
 # +2 Ice Armor
 

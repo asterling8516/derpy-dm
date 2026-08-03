@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-common
   - wondrous-items
+url: https://derpydm.com/dd/items/consumable/wondrous-items/perfume-of-bewitching
 ---
 # Perfume of Bewitching
 

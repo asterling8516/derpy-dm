@@ -3,6 +3,7 @@ tags:
   - item
   - rarity-rare
   - tattoos
+url: https://derpydm.com/dd/items/tattoos/spellwrought-tattoo-4th-level
 ---
 # Spellwrought Tattoo, 4th level
 

@@ -4,6 +4,7 @@ tags:
   - level-6
   - save-dexterity
   - spell
+url: https://derpydm.com/dd/spells/6th-level/investiture-of-flame
 ---
 # Investiture of Flame
 

@@ -5,6 +5,7 @@ tags:
   - rarity-rare
   - save-strength
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-ranged/giant-slayer-pistol
 ---
 # Giant Slayer Pistol
 

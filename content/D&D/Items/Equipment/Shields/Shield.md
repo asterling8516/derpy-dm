@@ -3,6 +3,7 @@ tags:
   - item
   - equipment
   - shields
+url: https://derpydm.com/dd/items/equipment/shields/shield
 ---
 # Shield
 

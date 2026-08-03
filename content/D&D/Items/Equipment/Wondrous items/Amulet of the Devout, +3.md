@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-veryrare
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/amulet-of-the-devout-3
 ---
 # Amulet of the Devout, +3
 

@@ -5,6 +5,7 @@ tags:
   - save-strength
   - simple-ranged
   - weapons
+url: https://derpydm.com/dd/items/weapons/simple-ranged/giant-slayer-sling
 ---
 # Giant Slayer Sling
 

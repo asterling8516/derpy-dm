@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-legendary
   - scrolls
+url: https://derpydm.com/dd/items/consumable/scrolls/spell-scroll-9th-level
 ---
 # Spell Scroll (9th Level)
 

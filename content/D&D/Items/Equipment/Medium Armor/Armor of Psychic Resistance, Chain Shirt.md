@@ -4,6 +4,7 @@ tags:
   - item
   - medium-armor
   - rarity-rare
+url: https://derpydm.com/dd/items/equipment/medium-armor/armor-of-psychic-resistance-chain-shirt
 ---
 # Armor of Psychic Resistance, Chain Shirt
 

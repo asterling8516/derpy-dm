@@ -4,6 +4,7 @@ tags:
   - martial-melee
   - rarity-veryrare
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/warhammer-3
 ---
 # Warhammer, +3
 

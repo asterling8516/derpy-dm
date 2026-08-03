@@ -4,6 +4,7 @@ tags:
   - item
   - medium-armor
   - rarity-rare
+url: https://derpydm.com/dd/items/equipment/medium-armor/molten-bronze-skin-half-plate
 ---
 # Molten Bronze Skin, Half Plate
 

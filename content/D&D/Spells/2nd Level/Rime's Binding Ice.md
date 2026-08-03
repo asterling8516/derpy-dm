@@ -4,6 +4,7 @@ tags:
   - level-2
   - save-constitution
   - spell
+url: https://derpydm.com/dd/spells/2nd-level/rimes-binding-ice
 ---
 # Rime's Binding Ice
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - item
+url: https://derpydm.com/dd/items/prices
 ---
 # Magic Item Values (SRD)
 

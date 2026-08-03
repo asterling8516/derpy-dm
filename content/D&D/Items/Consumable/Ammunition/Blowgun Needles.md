@@ -3,6 +3,7 @@ tags:
   - item
   - consumable
   - ammunition
+url: https://derpydm.com/dd/items/consumable/ammunition/blowgun-needles
 ---
 # Blowgun Needles
 

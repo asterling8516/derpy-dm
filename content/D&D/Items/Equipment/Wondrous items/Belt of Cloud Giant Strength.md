@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-legendary
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/belt-of-cloud-giant-strength
 ---
 # Belt of Cloud Giant Strength
 

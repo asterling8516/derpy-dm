@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-uncommon
   - rings
+url: https://derpydm.com/dd/items/equipment/rings/izzet-guild-signet
 ---
 # Izzet Guild Signet
 

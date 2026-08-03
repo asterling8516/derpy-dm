@@ -4,6 +4,7 @@ tags:
   - item
   - medium-armor
   - rarity-rare
+url: https://derpydm.com/dd/items/equipment/medium-armor/armor-of-acid-resistance-chain-shirt
 ---
 # Armor of Acid Resistance, Chain Shirt
 

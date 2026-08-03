@@ -3,6 +3,7 @@ level: 8
 tags:
   - spell
   - level-8
+url: https://derpydm.com/dd/spells/8th-level/clone
 ---
 # Clone
 

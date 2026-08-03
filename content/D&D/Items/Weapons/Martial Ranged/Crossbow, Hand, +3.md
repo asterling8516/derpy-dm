@@ -4,6 +4,7 @@ tags:
   - martial-ranged
   - rarity-veryrare
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-ranged/crossbow-hand-3
 ---
 # Crossbow, Hand, +3
 

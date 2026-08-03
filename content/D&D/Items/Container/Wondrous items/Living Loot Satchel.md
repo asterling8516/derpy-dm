@@ -3,6 +3,7 @@ tags:
   - item
   - container
   - wondrous-items
+url: https://derpydm.com/dd/items/container/wondrous-items/living-loot-satchel
 ---
 # Living Loot Satchel
 

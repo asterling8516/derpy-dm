@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-legendary
   - scrolls
+url: https://derpydm.com/dd/items/consumable/scrolls/scroll-of-tarrasque-summoning
 ---
 # Scroll of Tarrasque Summoning
 

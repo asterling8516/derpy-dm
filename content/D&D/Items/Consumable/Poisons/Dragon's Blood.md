@@ -3,6 +3,7 @@ tags:
   - item
   - consumable
   - poisons
+url: https://derpydm.com/dd/items/consumable/poisons/dragons-blood
 ---
 # Dragon's Blood
 

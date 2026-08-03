@@ -3,6 +3,7 @@ tags:
   - item
   - loot
   - gemstone
+url: https://derpydm.com/dd/items/loot/gemstone/bloodstone
 ---
 # Bloodstone
 

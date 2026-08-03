@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-common
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/bottle-of-boundless-coffee
 ---
 # Bottle of Boundless Coffee
 

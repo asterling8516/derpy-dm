@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-uncommon
   - rings
+url: https://derpydm.com/dd/items/equipment/rings/rings-of-shared-suffering
 ---
 # Rings of Shared Suffering
 

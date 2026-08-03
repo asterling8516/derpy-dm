@@ -4,6 +4,7 @@ tags:
   - heavy-armor
   - item
   - rarity-common
+url: https://derpydm.com/dd/items/equipment/heavy-armor/armor-of-gleaming-chain-mail
 ---
 # Armor of Gleaming, Chain Mail
 

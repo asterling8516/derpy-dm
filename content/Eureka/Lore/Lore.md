@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/lore/lore
+---
 %% Begin Waypoint %%
 - [[How The Multiverse Works]]
 - [[The First Chord]]

@@ -3,6 +3,7 @@ tags:
   - item
   - equipment
   - medium-armor
+url: https://derpydm.com/dd/items/equipment/medium-armor/scale-mail
 ---
 # Scale Mail
 

@@ -5,6 +5,7 @@ tags:
   - rarity-veryrare
   - save-strength
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-ranged/energy-longbow
 ---
 # Energy Longbow
 

@@ -4,6 +4,7 @@ tags:
   - level-3
   - save-dexterity
   - spell
+url: https://derpydm.com/dd/spells/3rd-level/lightning-bolt
 ---
 # Lightning Bolt
 

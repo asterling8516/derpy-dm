@@ -6,6 +6,7 @@ tags:
   - save-constitution
   - save-dexterity
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/talos-hammer
 ---
 # Talos' Hammer
 

@@ -4,6 +4,7 @@ tags:
   - item
   - light-armor
   - rarity-rare
+url: https://derpydm.com/dd/items/equipment/light-armor/glamoured-studded-leather
 ---
 # Glamoured Studded Leather
 

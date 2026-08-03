@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/homebrewed/homebrewed
+---
 %% Begin Waypoint %%
 - **Creatures**
 	- [[Cookie Claus]]

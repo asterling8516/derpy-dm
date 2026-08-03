@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-5-a-whole-new-world
+---
 # The Chronicles of Bytopia: Gold, Grease, and Fate
 
 ## Prologue: Out of the Dust

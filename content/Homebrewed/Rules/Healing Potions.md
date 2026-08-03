@@ -2,6 +2,7 @@
 tags:
   - homebrew
   - rules
+url: https://derpydm.com/homebrewed/rules/healing-potions
 ---
 You may drink a healing potion for a bonus action allowing you to get the maximum amount of hp back
 

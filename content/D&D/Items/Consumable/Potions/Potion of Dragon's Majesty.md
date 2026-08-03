@@ -4,6 +4,7 @@ tags:
   - item
   - potions
   - rarity-legendary
+url: https://derpydm.com/dd/items/consumable/potions/potion-of-dragons-majesty
 ---
 # Potion of Dragon's Majesty
 

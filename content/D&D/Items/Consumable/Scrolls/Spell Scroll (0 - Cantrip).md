@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-common
   - scrolls
+url: https://derpydm.com/dd/items/consumable/scrolls/spell-scroll-0---cantrip
 ---
 # Spell Scroll (0 - Cantrip)
 

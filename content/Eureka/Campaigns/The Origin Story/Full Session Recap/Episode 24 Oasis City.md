@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-24-oasis-city
+---
 # The Chronicles of the Sand Cruiser: Burgers, Black Water, and Beastly Brews
 
 ## Session Recap: The Aftermath of the Ink

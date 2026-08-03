@@ -4,6 +4,7 @@ tags:
   - level-6
   - save-dexterity
   - spell
+url: https://derpydm.com/dd/spells/6th-level/fizbans-platinum-shield
 ---
 # Fizban's Platinum Shield
 

@@ -3,6 +3,7 @@ tags:
   - item
   - equipment
   - adventuring-gear
+url: https://derpydm.com/dd/items/equipment/adventuring-gear/censer
 ---
 # Censer
 

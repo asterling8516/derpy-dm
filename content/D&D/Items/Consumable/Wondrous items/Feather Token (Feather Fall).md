@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-common
   - wondrous-items
+url: https://derpydm.com/dd/items/consumable/wondrous-items/feather-token-feather-fall
 ---
 # Feather Token (Feather Fall)
 

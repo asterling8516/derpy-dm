@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-veryrare
   - rods
+url: https://derpydm.com/dd/items/equipment/rods/rod-of-absorption
 ---
 # Rod of Absorption
 

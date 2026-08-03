@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-1-the-tale-of-the-broken-legs
+---
 # Campaign Journal: The Chronicles of Eureka
 ## Session 1: The Land of Lost Things
 

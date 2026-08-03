@@ -3,6 +3,7 @@ level: 4
 tags:
   - spell
   - level-4
+url: https://derpydm.com/dd/spells/4th-level/private-sanctum
 ---
 # Private Sanctum
 

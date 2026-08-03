@@ -4,6 +4,7 @@ tags:
   - item
   - medium-armor
   - rarity-common
+url: https://derpydm.com/dd/items/equipment/medium-armor/cast-off-armor-spiked-armor
 ---
 # Cast-Off Armor, Spiked Armor
 

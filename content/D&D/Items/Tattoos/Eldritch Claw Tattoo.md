@@ -3,6 +3,7 @@ tags:
   - item
   - rarity-uncommon
   - tattoos
+url: https://derpydm.com/dd/items/tattoos/eldritch-claw-tattoo
 ---
 # Eldritch Claw Tattoo
 

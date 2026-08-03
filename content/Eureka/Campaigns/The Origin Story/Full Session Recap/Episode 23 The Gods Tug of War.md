@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-23-the-gods-tug-of-war
+---
 # The Sands of Ruamore: The Crucible of Pandemonium
 
 ## Act I: Into the Maw of Heat and Ink

@@ -4,6 +4,7 @@ tags:
   - level-1
   - save-constitution
   - spell
+url: https://derpydm.com/dd/spells/1st-level/frost-fingers
 ---
 # Frost Fingers
 

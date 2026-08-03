@@ -3,6 +3,7 @@ level: 0
 tags:
   - spell
   - cantrip
+url: https://derpydm.com/dd/spells/0th-level-cantrip/guidance
 ---
 # Guidance
 

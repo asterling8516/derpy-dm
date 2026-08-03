@@ -5,6 +5,7 @@ tags:
   - rarity-rare
   - save-wisdom
   - wands
+url: https://derpydm.com/dd/items/equipment/wands/wand-of-fear
 ---
 # Wand of Fear
 

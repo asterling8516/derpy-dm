@@ -6,6 +6,7 @@ tags:
   - rarity-veryrare
   - save-charisma
   - save-constitution
+url: https://derpydm.com/dd/items/consumable/ammunition/sling-bullets-of-althemone
 ---
 # Sling Bullets of Althemone
 

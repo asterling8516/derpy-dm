@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/people/lady-celest
+---
 ![[lady_celeste.png]]
 
 ### **Lady Celeste, The Blue Fairy**

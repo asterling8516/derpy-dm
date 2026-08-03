@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-legendary
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/ioun-stone-of-greater-absorption
 ---
 # Ioun Stone of Greater Absorption
 

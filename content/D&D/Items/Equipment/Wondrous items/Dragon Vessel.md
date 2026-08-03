@@ -3,6 +3,7 @@ tags:
   - item
   - equipment
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/dragon-vessel
 ---
 # Dragon Vessel
 

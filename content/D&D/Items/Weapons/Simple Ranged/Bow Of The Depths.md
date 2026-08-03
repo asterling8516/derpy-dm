@@ -4,6 +4,7 @@ tags:
   - rarity-artifact
   - simple-ranged
   - weapons
+url: https://derpydm.com/dd/items/weapons/simple-ranged/bow-of-the-depths
 ---
 # Bow Of The Depths
 

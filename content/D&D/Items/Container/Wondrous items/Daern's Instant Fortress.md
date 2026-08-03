@@ -5,6 +5,7 @@ tags:
   - rarity-rare
   - save-dexterity
   - wondrous-items
+url: https://derpydm.com/dd/items/container/wondrous-items/daerns-instant-fortress
 ---
 # Daern's Instant Fortress
 

@@ -4,6 +4,7 @@ tags:
   - martial-melee
   - rarity-veryrare
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/battleaxe-3
 ---
 # Battleaxe, +3
 

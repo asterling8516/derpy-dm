@@ -4,6 +4,7 @@ tags:
   - item
   - medium-armor
   - rarity-veryrare
+url: https://derpydm.com/dd/items/equipment/medium-armor/living-armor-breastplate
 ---
 # Living Armor, Breastplate
 

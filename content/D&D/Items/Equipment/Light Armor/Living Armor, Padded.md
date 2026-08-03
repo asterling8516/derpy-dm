@@ -4,6 +4,7 @@ tags:
   - item
   - light-armor
   - rarity-veryrare
+url: https://derpydm.com/dd/items/equipment/light-armor/living-armor-padded
 ---
 # Living Armor, Padded
 

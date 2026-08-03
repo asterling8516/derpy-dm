@@ -4,6 +4,7 @@ tags:
   - level-3
   - save-wisdom
   - spell
+url: https://derpydm.com/dd/spells/3rd-level/fast-friends
 ---
 # Fast Friends
 

@@ -4,6 +4,7 @@ tags:
   - heavy-armor
   - item
   - rarity-veryrare
+url: https://derpydm.com/dd/items/equipment/heavy-armor/ring-mail-2
 ---
 # Ring Mail, +2
 

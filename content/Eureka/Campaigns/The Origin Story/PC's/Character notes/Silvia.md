@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/pcs/character-notes/silvia
+---
 # Silvia Surath - Notes
 ## Backstory
 A former angel of death who regrets her inaction to stop sources of unfair death. She has rebelled against heaven and lost almost all of her powers but stands firm in her quest to slay those that inflict unfair death on the innocent.

@@ -4,6 +4,7 @@ tags:
   - martial-melee
   - save-constitution
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/lance
 ---
 # Lance
 

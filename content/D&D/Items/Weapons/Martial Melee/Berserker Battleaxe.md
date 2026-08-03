@@ -5,6 +5,7 @@ tags:
   - rarity-rare
   - save-wisdom
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/berserker-battleaxe
 ---
 # Berserker Battleaxe
 

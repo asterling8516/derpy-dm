@@ -5,6 +5,7 @@ tags:
   - save-wisdom
   - simple-melee
   - weapons
+url: https://derpydm.com/dd/items/weapons/simple-melee/gulthias-staff
 ---
 # Gulthias Staff
 

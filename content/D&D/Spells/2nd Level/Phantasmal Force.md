@@ -4,6 +4,7 @@ tags:
   - level-2
   - save-intelligence
   - spell
+url: https://derpydm.com/dd/spells/2nd-level/phantasmal-force
 ---
 # Phantasmal Force
 

@@ -5,6 +5,7 @@ tags:
   - save-dexterity
   - simple-ranged
   - weapons
+url: https://derpydm.com/dd/items/weapons/simple-ranged/seeker-dart
 ---
 # Seeker Dart
 

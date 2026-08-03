@@ -4,6 +4,7 @@ tags:
   - item
   - medium-armor
   - rarity-artifact
+url: https://derpydm.com/dd/items/equipment/medium-armor/smiths-apprentice
 ---
 # Smiths Apprentice
 

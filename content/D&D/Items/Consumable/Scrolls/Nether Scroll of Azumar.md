@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-legendary
   - scrolls
+url: https://derpydm.com/dd/items/consumable/scrolls/nether-scroll-of-azumar
 ---
 # Nether Scroll of Azumar
 

@@ -6,6 +6,7 @@ tags:
   - fey
 aliases:
   - Celeste
+url: https://derpydm.com/eureka/places/the-azure-bloom/lady-celeste
 ---
 ![[lady_celeste.png|00]]
 ### **Lady Celeste, AKA The Blue Fairy**

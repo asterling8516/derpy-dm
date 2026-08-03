@@ -4,6 +4,7 @@ tags:
   - level-8
   - save-wisdom
   - spell
+url: https://derpydm.com/dd/spells/8th-level/maddening-darkness
 ---
 # Maddening Darkness
 

@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-veryrare
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/belt-of-fire-giant-strength
 ---
 # Belt of Fire Giant Strength
 

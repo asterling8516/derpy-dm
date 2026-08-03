@@ -4,6 +4,7 @@ tags:
   - heavy-armor
   - item
   - rarity-veryrare
+url: https://derpydm.com/dd/items/equipment/heavy-armor/living-armor-plate
 ---
 # Living Armor, Plate
 

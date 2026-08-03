@@ -4,6 +4,7 @@ tags:
   - level-2
   - save-wisdom
   - spell
+url: https://derpydm.com/dd/spells/2nd-level/mind-spike
 ---
 # Mind Spike
 

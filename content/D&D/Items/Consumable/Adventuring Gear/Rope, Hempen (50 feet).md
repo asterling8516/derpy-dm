@@ -3,6 +3,7 @@ tags:
   - item
   - consumable
   - adventuring-gear
+url: https://derpydm.com/dd/items/consumable/adventuring-gear/rope-hempen-50-feet
 ---
 # Rope, Hempen (50 feet)
 

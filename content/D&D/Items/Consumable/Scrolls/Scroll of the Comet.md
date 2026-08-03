@@ -5,6 +5,7 @@ tags:
   - rarity-legendary
   - save-dexterity
   - scrolls
+url: https://derpydm.com/dd/items/consumable/scrolls/scroll-of-the-comet
 ---
 # Scroll of the Comet
 

@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-rare
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/figurine-of-wondrous-power-marble-elephant
 ---
 # Figurine of Wondrous Power (Marble Elephant)
 

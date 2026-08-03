@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-common
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/mabaran-ebony-focus
 ---
 # Mabaran Ebony Focus
 

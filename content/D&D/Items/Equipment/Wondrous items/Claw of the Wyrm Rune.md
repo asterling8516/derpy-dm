@@ -5,6 +5,7 @@ tags:
   - rarity-rare
   - save-constitution
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/claw-of-the-wyrm-rune
 ---
 # Claw of the Wyrm Rune
 

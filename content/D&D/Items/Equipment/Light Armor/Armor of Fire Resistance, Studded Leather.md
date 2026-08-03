@@ -4,6 +4,7 @@ tags:
   - item
   - light-armor
   - rarity-rare
+url: https://derpydm.com/dd/items/equipment/light-armor/armor-of-fire-resistance-studded-leather
 ---
 # Armor of Fire Resistance, Studded Leather
 

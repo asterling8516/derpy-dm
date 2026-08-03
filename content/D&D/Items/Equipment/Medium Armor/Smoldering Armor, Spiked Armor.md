@@ -4,6 +4,7 @@ tags:
   - item
   - medium-armor
   - rarity-common
+url: https://derpydm.com/dd/items/equipment/medium-armor/smoldering-armor-spiked-armor
 ---
 # Smoldering Armor, Spiked Armor
 

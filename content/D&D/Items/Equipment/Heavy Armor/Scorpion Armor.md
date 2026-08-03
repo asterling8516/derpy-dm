@@ -5,6 +5,7 @@ tags:
   - item
   - rarity-rare
   - save-constitution
+url: https://derpydm.com/dd/items/equipment/heavy-armor/scorpion-armor
 ---
 # Scorpion Armor
 

@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/the-wilds-beyond-the-witchlight/people/candlefoot
+---
 # Candlefoot
 
 A mime who works for the Witchlight Carnival at the Hall of Illusions. He is a human who wears classic black-and-white mime makeup and clothing.

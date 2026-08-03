@@ -3,6 +3,7 @@ tags:
   - item
   - weapons
   - martial-melee
+url: https://derpydm.com/dd/items/weapons/martial-melee/pike
 ---
 # Pike
 

@@ -4,6 +4,7 @@ tags:
   - item
   - light-armor
   - rarity-rare
+url: https://derpydm.com/dd/items/equipment/light-armor/armor-of-thunder-resistance-padded
 ---
 # Armor of Thunder Resistance, Padded
 

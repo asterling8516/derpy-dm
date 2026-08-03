@@ -4,6 +4,7 @@ tags:
   - rarity-rare
   - simple-ranged
   - weapons
+url: https://derpydm.com/dd/items/weapons/simple-ranged/dart-2
 ---
 # Dart, +2
 

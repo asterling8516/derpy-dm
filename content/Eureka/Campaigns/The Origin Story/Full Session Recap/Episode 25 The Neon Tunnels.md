@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-25-the-neon-tunnels
+---
 # D&D Session Recap: Neon Depths & Equine Afflictions
 
 ## The Omen in the Sky

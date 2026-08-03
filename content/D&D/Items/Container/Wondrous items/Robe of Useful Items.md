@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-uncommon
   - wondrous-items
+url: https://derpydm.com/dd/items/container/wondrous-items/robe-of-useful-items
 ---
 # Robe of Useful Items
 

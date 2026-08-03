@@ -4,6 +4,7 @@ tags:
   - item
   - light-armor
   - rarity-legendary
+url: https://derpydm.com/dd/items/equipment/light-armor/studded-leather-3
 ---
 # Studded Leather, +3
 

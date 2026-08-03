@@ -4,6 +4,7 @@ tags:
   - martial-melee
   - rarity-artifact
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/necromancers-kukuri-blades
 ---
 # Necromancers Kukuri Blades
 

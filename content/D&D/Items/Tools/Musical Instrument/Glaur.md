@@ -3,6 +3,7 @@ tags:
   - item
   - tools
   - musical-instrument
+url: https://derpydm.com/dd/items/tools/musical-instrument/glaur
 ---
 # Glaur
 

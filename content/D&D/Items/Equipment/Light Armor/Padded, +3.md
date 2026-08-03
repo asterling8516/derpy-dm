@@ -4,6 +4,7 @@ tags:
   - item
   - light-armor
   - rarity-legendary
+url: https://derpydm.com/dd/items/equipment/light-armor/padded-3
 ---
 # Padded, +3
 

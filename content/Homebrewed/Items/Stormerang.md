@@ -3,6 +3,7 @@ tags:
   - weapon
   - homebrew
   - item
+url: https://derpydm.com/homebrewed/items/stormerang
 ---
 ![[stormerang.png|500]]
 # Item Type

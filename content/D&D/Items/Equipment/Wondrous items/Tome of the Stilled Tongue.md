@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-legendary
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/tome-of-the-stilled-tongue
 ---
 # Tome of the Stilled Tongue
 

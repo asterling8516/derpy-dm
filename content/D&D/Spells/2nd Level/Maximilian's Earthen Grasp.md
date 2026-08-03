@@ -4,6 +4,7 @@ tags:
   - level-2
   - save-strength
   - spell
+url: https://derpydm.com/dd/spells/2nd-level/maximilians-earthen-grasp
 ---
 # Maximilian's Earthen Grasp
 

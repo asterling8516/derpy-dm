@@ -4,6 +4,7 @@ tags:
   - level-4
   - save-strength
   - spell
+url: https://derpydm.com/dd/spells/4th-level/evards-black-tentacles
 ---
 # Evard's Black Tentacles
 

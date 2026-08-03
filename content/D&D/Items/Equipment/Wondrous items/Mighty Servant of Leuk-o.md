@@ -6,6 +6,7 @@ tags:
   - save-dexterity
   - save-wisdom
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/mighty-servant-of-leuk-o
 ---
 # Mighty Servant of Leuk-o
 

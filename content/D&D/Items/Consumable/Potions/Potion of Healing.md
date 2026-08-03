@@ -3,6 +3,7 @@ tags:
   - item
   - consumable
   - potions
+url: https://derpydm.com/dd/items/consumable/potions/potion-of-healing
 ---
 # Potion of Healing
 

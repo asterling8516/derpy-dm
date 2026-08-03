@@ -1,6 +1,7 @@
 ---
 tags:
   - TWBTWL
+url: https://derpydm.com/the-wilds-beyond-the-witchlight/welcome-to-the-carnival
 ---
 Once every seven years The Witchlight Carnival visits and it just so happens that now is that time! When you were younger you snuck into the carnival without paying for your ticket, but were caught by the hosts of the carnival Mr. Witch and Mr. Light. They warned you that you would still have to pay the price for the ticket even though it may not be what you expect the cost to be. 
 

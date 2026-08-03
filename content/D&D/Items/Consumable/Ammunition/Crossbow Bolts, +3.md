@@ -4,6 +4,7 @@ tags:
   - consumable
   - item
   - rarity-veryrare
+url: https://derpydm.com/dd/items/consumable/ammunition/crossbow-bolts-3
 ---
 # Crossbow Bolts, +3
 

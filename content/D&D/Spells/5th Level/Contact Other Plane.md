@@ -4,6 +4,7 @@ tags:
   - level-5
   - save-intelligence
   - spell
+url: https://derpydm.com/dd/spells/5th-level/contact-other-plane
 ---
 # Contact Other Plane
 

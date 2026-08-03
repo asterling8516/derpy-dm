@@ -4,6 +4,7 @@ tags:
   - level-4
   - save-dexterity
   - spell
+url: https://derpydm.com/dd/spells/4th-level/wall-of-fire
 ---
 # Wall of Fire
 

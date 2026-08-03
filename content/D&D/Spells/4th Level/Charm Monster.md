@@ -4,6 +4,7 @@ tags:
   - level-4
   - save-wisdom
   - spell
+url: https://derpydm.com/dd/spells/4th-level/charm-monster
 ---
 # Charm Monster
 

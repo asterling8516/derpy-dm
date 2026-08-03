@@ -5,6 +5,7 @@ tags:
   - rarity-rare
   - save-dexterity
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/sunforger
 ---
 # Sunforger
 

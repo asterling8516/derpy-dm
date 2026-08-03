@@ -5,6 +5,7 @@ tags:
   - save-dexterity
   - save-strength
   - spell
+url: https://derpydm.com/dd/spells/7th-level/whirlwind
 ---
 # Whirlwind
 

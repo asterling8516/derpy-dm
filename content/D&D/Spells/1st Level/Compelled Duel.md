@@ -4,6 +4,7 @@ tags:
   - level-1
   - save-wisdom
   - spell
+url: https://derpydm.com/dd/spells/1st-level/compelled-duel
 ---
 # Compelled Duel
 

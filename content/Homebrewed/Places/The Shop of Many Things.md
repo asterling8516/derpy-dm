@@ -2,6 +2,7 @@
 tags:
   - homebrew
   - places
+url: https://derpydm.com/homebrewed/places/the-shop-of-many-things
 ---
 ### The Player's Survival Guide to: The Shop of Many Things
 

@@ -3,6 +3,7 @@ tags:
   - item
   - equipment
   - clothing
+url: https://derpydm.com/dd/items/equipment/clothing/costume
 ---
 # Costume
 

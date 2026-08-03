@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-rare
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/censer-of-controlling-air-elementals
 ---
 # Censer of Controlling Air Elementals
 

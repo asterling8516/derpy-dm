@@ -4,6 +4,7 @@ tags:
   - consumable
   - item
   - rarity-common
+url: https://derpydm.com/dd/items/consumable/ammunition/unbreakable-arrow
 ---
 # Unbreakable Arrow
 

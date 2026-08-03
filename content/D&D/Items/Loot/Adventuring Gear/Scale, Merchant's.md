@@ -3,6 +3,7 @@ tags:
   - item
   - loot
   - adventuring-gear
+url: https://derpydm.com/dd/items/loot/adventuring-gear/scale-merchants
 ---
 # Scale, Merchant's
 

@@ -5,6 +5,7 @@ tags:
   - rarity-veryrare
   - save-wisdom
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/soul-harvester
 ---
 # Soul Harvester
 

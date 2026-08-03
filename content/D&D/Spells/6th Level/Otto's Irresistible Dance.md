@@ -4,6 +4,7 @@ tags:
   - level-6
   - save-wisdom
   - spell
+url: https://derpydm.com/dd/spells/6th-level/ottos-irresistible-dance
 ---
 # Otto's Irresistible Dance
 

@@ -4,6 +4,7 @@ tags:
   - level-2
   - save-dexterity
   - spell
+url: https://derpydm.com/dd/spells/2nd-level/web
 ---
 # Web
 

@@ -4,6 +4,7 @@ tags:
   - cantrip
   - save-constitution
   - spell
+url: https://derpydm.com/dd/spells/0th-level-cantrip/word-of-radiance
 ---
 # Word of Radiance
 

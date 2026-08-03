@@ -4,6 +4,7 @@ tags:
   - level-4
   - save-constitution
   - spell
+url: https://derpydm.com/dd/spells/4th-level/giant-insect
 ---
 # Giant Insect
 

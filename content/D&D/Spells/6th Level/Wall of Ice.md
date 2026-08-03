@@ -5,6 +5,7 @@ tags:
   - save-constitution
   - save-dexterity
   - spell
+url: https://derpydm.com/dd/spells/6th-level/wall-of-ice
 ---
 # Wall of Ice
 

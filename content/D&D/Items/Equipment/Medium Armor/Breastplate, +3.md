@@ -4,6 +4,7 @@ tags:
   - item
   - medium-armor
   - rarity-legendary
+url: https://derpydm.com/dd/items/equipment/medium-armor/breastplate-3
 ---
 # Breastplate, +3
 

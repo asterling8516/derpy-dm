@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/pcs/kookush-mamawaseasak
+---
 # ♟️ Character Sheet
 ## ♟ Kookoush Mamakwasesak
 > **Character Concept**

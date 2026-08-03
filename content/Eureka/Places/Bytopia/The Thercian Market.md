@@ -1,1 +1,4 @@
+---
+url: https://derpydm.com/eureka/places/bytopia/the-thercian-market
+---
 Colossal stone architecture fills the sky-line. Vast pyramid like structures and monumental walls, seemingly left over from the pre-cataclysmic times. These stone building resemble old Aztec ruins now serving as old crumbling sentinels standing over the dezeins below.  The cities heart is made up of a massive open air bizarre (Grand Market Square) The ground here is a mix of packed soil and old stone blocks that probably fell off of the massive buildings. Many creatures here you recognize and many you don't from goblins to humans, but the strange ones are the beings that seem to be made from pure crystal others from plants, and some seem to form from many smaller creatures. In this strange land it seems even the dinosaurs of old exist.

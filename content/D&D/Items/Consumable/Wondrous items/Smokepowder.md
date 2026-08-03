@@ -5,6 +5,7 @@ tags:
   - rarity-uncommon
   - save-dexterity
   - wondrous-items
+url: https://derpydm.com/dd/items/consumable/wondrous-items/smokepowder
 ---
 # Smokepowder
 

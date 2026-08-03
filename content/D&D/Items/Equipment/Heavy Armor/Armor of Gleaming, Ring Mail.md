@@ -4,6 +4,7 @@ tags:
   - heavy-armor
   - item
   - rarity-common
+url: https://derpydm.com/dd/items/equipment/heavy-armor/armor-of-gleaming-ring-mail
 ---
 # Armor of Gleaming, Ring Mail
 

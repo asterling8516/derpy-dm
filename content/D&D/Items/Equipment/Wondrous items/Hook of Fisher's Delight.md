@@ -5,6 +5,7 @@ tags:
   - rarity-rare
   - save-strength
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/hook-of-fishers-delight
 ---
 # Hook of Fisher's Delight
 

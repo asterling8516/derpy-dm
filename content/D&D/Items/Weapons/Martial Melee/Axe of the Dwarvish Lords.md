@@ -4,6 +4,7 @@ tags:
   - martial-melee
   - rarity-artifact
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/axe-of-the-dwarvish-lords
 ---
 # Axe of the Dwarvish Lords
 

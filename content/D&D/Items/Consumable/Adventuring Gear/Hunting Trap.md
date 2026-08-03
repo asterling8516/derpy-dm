@@ -4,6 +4,7 @@ tags:
   - consumable
   - item
   - save-dexterity
+url: https://derpydm.com/dd/items/consumable/adventuring-gear/hunting-trap
 ---
 # Hunting Trap
 

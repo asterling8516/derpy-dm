@@ -3,6 +3,7 @@ level: 2
 tags:
   - spell
   - level-2
+url: https://derpydm.com/dd/spells/2nd-level/protection-from-poison
 ---
 # Protection from Poison
 

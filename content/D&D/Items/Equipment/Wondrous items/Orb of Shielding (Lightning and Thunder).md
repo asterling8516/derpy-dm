@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-common
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/orb-of-shielding-lightning-and-thunder
 ---
 # Orb of Shielding (Lightning and Thunder)
 

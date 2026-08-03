@@ -5,6 +5,7 @@ tags:
   - rarity-rare
   - rods
   - save-wisdom
+url: https://derpydm.com/dd/items/equipment/rods/rod-of-rulership
 ---
 # Rod of Rulership
 

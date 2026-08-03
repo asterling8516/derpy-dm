@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/the-wilds-beyond-the-witchlight/people/palasha
+---
 # Palasha
 
 An elegant mermaid with beautiful, shimmering scales who sings at Silversong Lake in the Witchlight Carnival. She has a bit of a diva-like personality but is ultimately kind-hearted.

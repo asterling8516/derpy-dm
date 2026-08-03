@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-uncommon
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/amulet-of-proof-against-detection-and-location
 ---
 # Amulet of Proof against Detection and Location
 

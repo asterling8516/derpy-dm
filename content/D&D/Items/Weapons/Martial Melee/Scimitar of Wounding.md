@@ -5,6 +5,7 @@ tags:
   - rarity-rare
   - save-constitution
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/scimitar-of-wounding
 ---
 # Scimitar of Wounding
 

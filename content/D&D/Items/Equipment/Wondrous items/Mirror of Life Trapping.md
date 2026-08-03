@@ -5,6 +5,7 @@ tags:
   - rarity-veryrare
   - save-charisma
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/mirror-of-life-trapping
 ---
 # Mirror of Life Trapping
 

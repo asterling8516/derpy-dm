@@ -4,6 +4,7 @@ tags:
   - item
   - medium-armor
   - rarity-uncommon
+url: https://derpydm.com/dd/items/equipment/medium-armor/mariners-half-plate
 ---
 # Mariner's Half Plate
 

@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-veryrare
   - scrolls
+url: https://derpydm.com/dd/items/consumable/scrolls/spell-scroll-7th-level
 ---
 # Spell Scroll (7th Level)
 

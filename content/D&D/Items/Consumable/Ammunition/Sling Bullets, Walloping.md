@@ -5,6 +5,7 @@ tags:
   - item
   - rarity-common
   - save-strength
+url: https://derpydm.com/dd/items/consumable/ammunition/sling-bullets-walloping
 ---
 # Sling Bullets, Walloping
 

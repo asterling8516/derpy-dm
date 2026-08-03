@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-rare
   - shields
+url: https://derpydm.com/dd/items/equipment/shields/shield-of-missile-attraction
 ---
 # Shield of Missile Attraction
 

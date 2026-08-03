@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-veryrare
   - scrolls
+url: https://derpydm.com/dd/items/consumable/scrolls/spell-scroll-level-8
 ---
 # Spell Scroll (Level 8)
 

@@ -5,6 +5,7 @@ tags:
   - rarity-legendary
   - save-strength
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/waythe
 ---
 # Waythe
 

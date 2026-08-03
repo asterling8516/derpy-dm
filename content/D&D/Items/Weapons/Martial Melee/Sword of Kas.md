@@ -5,6 +5,7 @@ tags:
   - rarity-artifact
   - save-charisma
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/sword-of-kas
 ---
 # Sword of Kas
 

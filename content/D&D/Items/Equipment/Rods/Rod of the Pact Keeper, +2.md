@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-rare
   - rods
+url: https://derpydm.com/dd/items/equipment/rods/rod-of-the-pact-keeper-2
 ---
 # Rod of the Pact Keeper, +2
 

@@ -3,6 +3,7 @@ tags:
   - item
   - equipment
   - arcane-foci
+url: https://derpydm.com/dd/items/equipment/arcane-foci/orb
 ---
 # Orb
 

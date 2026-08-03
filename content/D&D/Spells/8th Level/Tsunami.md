@@ -4,6 +4,7 @@ tags:
   - level-8
   - save-strength
   - spell
+url: https://derpydm.com/dd/spells/8th-level/tsunami
 ---
 # Tsunami
 

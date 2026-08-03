@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-rare
   - wands
+url: https://derpydm.com/dd/items/equipment/wands/wand-of-the-war-mage-2
 ---
 # Wand of the War Mage, +2
 

@@ -4,6 +4,7 @@ tags:
   - item
   - medium-armor
   - rarity-uncommon
+url: https://derpydm.com/dd/items/equipment/medium-armor/mithral-scale-mail
 ---
 # Mithral Scale Mail
 

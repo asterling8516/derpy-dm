@@ -3,6 +3,7 @@ tags:
   - item
   - consumable
   - adventuring-gear
+url: https://derpydm.com/dd/items/consumable/adventuring-gear/alchemists-fire-flask
 ---
 # Alchemist's Fire (flask)
 

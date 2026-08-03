@@ -5,6 +5,7 @@ tags:
   - rarity-rare
   - save-constitution
   - wands
+url: https://derpydm.com/dd/items/equipment/wands/wand-of-paralysis
 ---
 # Wand of Paralysis
 

@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/full-session-recap/episode-20-the-gems-in-the-oasis
+---
 # The Chronicles of [[Oasis City]]: Chaos, Cleansing, and a Floating Friend
 
 ## Act I: A Rift in the Heavens

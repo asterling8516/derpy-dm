@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-uncommon
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/psi-crystal-int-8-11
 ---
 # Psi Crystal (Int 8-11)
 

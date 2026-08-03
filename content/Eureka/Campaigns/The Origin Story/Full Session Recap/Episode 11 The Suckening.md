@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-11-the-suckening
+---
 # Echoes of the Lost and Crystal Fangs
 
 ## Act I: The Hall of Haunted Memories

@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-rare
   - scrolls
+url: https://derpydm.com/dd/items/consumable/scrolls/spell-scroll-5th-level
 ---
 # Spell Scroll (5th Level)
 

@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-artifact
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/baba-yagas-mortar-and-pestle
 ---
 # Baba Yaga's Mortar and Pestle
 

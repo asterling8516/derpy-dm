@@ -4,6 +4,7 @@ tags:
   - cantrip
   - save-dexterity
   - spell
+url: https://derpydm.com/dd/spells/0th-level-cantrip/sacred-flame
 ---
 # Sacred Flame
 

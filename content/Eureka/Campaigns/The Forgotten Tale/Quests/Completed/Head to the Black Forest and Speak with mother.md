@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/quests/completed/head-to-the-black-forest-and-speak-with-mother
+---
 # Who
 Happily Ever After
 

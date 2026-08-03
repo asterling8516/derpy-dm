@@ -4,6 +4,7 @@ tags:
   - rarity-uncommon
   - simple-melee
   - weapons
+url: https://derpydm.com/dd/items/weapons/simple-melee/handaxe-1
 ---
 # Handaxe, +1
 

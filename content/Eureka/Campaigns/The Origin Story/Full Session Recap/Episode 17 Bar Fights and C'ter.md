@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-17-bar-fights-and-cter
+---
 # The Chronicles of Frostlight: Blood, Brotherhood, and the Blue Fairy
 
 ## Act I: A Silver Thank You and the Toll of Arcane Power

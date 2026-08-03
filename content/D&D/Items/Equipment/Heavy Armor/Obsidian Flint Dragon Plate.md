@@ -4,6 +4,7 @@ tags:
   - heavy-armor
   - item
   - rarity-legendary
+url: https://derpydm.com/dd/items/equipment/heavy-armor/obsidian-flint-dragon-plate
 ---
 # Obsidian Flint Dragon Plate
 

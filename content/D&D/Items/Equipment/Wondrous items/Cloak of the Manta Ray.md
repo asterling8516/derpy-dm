@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-uncommon
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/cloak-of-the-manta-ray
 ---
 # Cloak of the Manta Ray
 

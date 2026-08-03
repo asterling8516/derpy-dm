@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-rare
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/bracer-of-flying-daggers
 ---
 # Bracer of Flying Daggers
 

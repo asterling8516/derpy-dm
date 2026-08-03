@@ -5,6 +5,7 @@ tags:
   - rarity-rare
   - rods
   - save-constitution
+url: https://derpydm.com/dd/items/equipment/rods/tentacle-rod
 ---
 # Tentacle Rod
 

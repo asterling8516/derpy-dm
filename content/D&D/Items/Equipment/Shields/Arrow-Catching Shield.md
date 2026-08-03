@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-rare
   - shields
+url: https://derpydm.com/dd/items/equipment/shields/arrow-catching-shield
 ---
 # Arrow-Catching Shield
 

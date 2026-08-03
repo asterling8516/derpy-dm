@@ -3,6 +3,7 @@ tags:
   - item
   - equipment
   - druidic-foci
+url: https://derpydm.com/dd/items/equipment/druidic-foci/sprig-of-mistletoe
 ---
 # Sprig of Mistletoe
 

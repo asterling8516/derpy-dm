@@ -5,6 +5,7 @@ tags:
   - save-constitution
   - save-dexterity
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/gnomengarde-grenade
 ---
 # Gnomengarde Grenade
 

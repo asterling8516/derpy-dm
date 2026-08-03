@@ -3,6 +3,7 @@ tags:
   - item
   - equipment
   - light-armor
+url: https://derpydm.com/dd/items/equipment/light-armor/studded-leather
 ---
 # Studded Leather
 

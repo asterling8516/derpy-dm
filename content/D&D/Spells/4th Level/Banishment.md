@@ -4,6 +4,7 @@ tags:
   - level-4
   - save-charisma
   - spell
+url: https://derpydm.com/dd/spells/4th-level/banishment
 ---
 # Banishment
 

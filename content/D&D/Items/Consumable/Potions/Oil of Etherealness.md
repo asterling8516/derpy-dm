@@ -4,6 +4,7 @@ tags:
   - item
   - potions
   - rarity-rare
+url: https://derpydm.com/dd/items/consumable/potions/oil-of-etherealness
 ---
 # Oil of Etherealness
 

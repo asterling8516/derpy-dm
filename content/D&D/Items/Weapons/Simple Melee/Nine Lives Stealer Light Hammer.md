@@ -5,6 +5,7 @@ tags:
   - save-constitution
   - simple-melee
   - weapons
+url: https://derpydm.com/dd/items/weapons/simple-melee/nine-lives-stealer-light-hammer
 ---
 # Nine Lives Stealer Light Hammer
 

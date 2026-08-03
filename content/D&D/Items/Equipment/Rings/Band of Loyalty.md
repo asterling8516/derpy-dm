@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-common
   - rings
+url: https://derpydm.com/dd/items/equipment/rings/band-of-loyalty
 ---
 # Band of Loyalty
 

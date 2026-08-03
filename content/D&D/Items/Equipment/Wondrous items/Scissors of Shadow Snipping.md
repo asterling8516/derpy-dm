@@ -5,6 +5,7 @@ tags:
   - rarity-rare
   - save-charisma
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/scissors-of-shadow-snipping
 ---
 # Scissors of Shadow Snipping
 

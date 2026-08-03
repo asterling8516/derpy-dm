@@ -5,6 +5,7 @@ tags:
   - save-constitution
   - save-dexterity
   - spell
+url: https://derpydm.com/dd/spells/9th-level/storm-of-vengeance
 ---
 # Storm of Vengeance
 

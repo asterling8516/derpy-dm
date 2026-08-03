@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-common
   - shields
+url: https://derpydm.com/dd/items/equipment/shields/shield-of-expression
 ---
 # Shield of Expression
 

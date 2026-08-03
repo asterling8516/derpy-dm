@@ -5,6 +5,7 @@ tags:
   - rarity-artifact
   - save-wisdom
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/stone-of-golorr
 ---
 # Stone of Golorr
 

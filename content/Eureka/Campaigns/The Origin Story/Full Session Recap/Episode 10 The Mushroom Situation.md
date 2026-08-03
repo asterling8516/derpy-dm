@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-10-the-mushroom-situation
+---
 # The Spore-Choked Depths and the Pantheon of Old Gods
 
 ## Part I: The Quiet Before the Storm

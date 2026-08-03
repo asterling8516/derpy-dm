@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-rare
   - rods
+url: https://derpydm.com/dd/items/equipment/rods/rod-of-the-vonindod
 ---
 # Rod of the Vonindod
 

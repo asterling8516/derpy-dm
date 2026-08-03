@@ -5,6 +5,7 @@ tags:
   - save-constitution
   - save-dexterity
   - spell
+url: https://derpydm.com/dd/spells/8th-level/earthquake
 ---
 # Earthquake
 

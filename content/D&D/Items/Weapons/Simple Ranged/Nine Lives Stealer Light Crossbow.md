@@ -5,6 +5,7 @@ tags:
   - save-constitution
   - simple-ranged
   - weapons
+url: https://derpydm.com/dd/items/weapons/simple-ranged/nine-lives-stealer-light-crossbow
 ---
 # Nine Lives Stealer Light Crossbow
 

@@ -5,6 +5,7 @@ tags:
   - rarity-uncommon
   - save-constitution
   - wondrous-items
+url: https://derpydm.com/dd/items/consumable/wondrous-items/dust-of-corrosion
 ---
 # Dust of Corrosion
 

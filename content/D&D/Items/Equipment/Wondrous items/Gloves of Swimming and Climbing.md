@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-uncommon
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/gloves-of-swimming-and-climbing
 ---
 # Gloves of Swimming and Climbing
 

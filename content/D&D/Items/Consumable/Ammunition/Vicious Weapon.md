@@ -4,6 +4,7 @@ tags:
   - consumable
   - item
   - rarity-rare
+url: https://derpydm.com/dd/items/consumable/ammunition/vicious-weapon
 ---
 # Vicious Weapon
 

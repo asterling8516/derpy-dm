@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-uncommon
   - wands
+url: https://derpydm.com/dd/items/equipment/wands/wand-of-magic-missiles
 ---
 # Wand of Magic Missiles
 

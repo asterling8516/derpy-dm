@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-legendary
   - rings
+url: https://derpydm.com/dd/items/equipment/rings/ring-of-three-wishes
 ---
 # Ring of Three Wishes
 

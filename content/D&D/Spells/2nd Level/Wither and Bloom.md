@@ -4,6 +4,7 @@ tags:
   - level-2
   - save-constitution
   - spell
+url: https://derpydm.com/dd/spells/2nd-level/wither-and-bloom
 ---
 # Wither and Bloom
 

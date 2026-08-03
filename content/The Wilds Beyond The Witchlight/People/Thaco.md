@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/the-wilds-beyond-the-witchlight/people/thaco
+---
 # Thaco
 
 The clown who guards the staff area of the Witchlight Carnival. 

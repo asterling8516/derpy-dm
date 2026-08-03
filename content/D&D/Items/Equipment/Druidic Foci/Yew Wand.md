@@ -3,6 +3,7 @@ tags:
   - item
   - equipment
   - druidic-foci
+url: https://derpydm.com/dd/items/equipment/druidic-foci/yew-wand
 ---
 # Yew Wand
 

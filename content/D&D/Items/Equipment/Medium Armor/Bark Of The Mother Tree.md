@@ -4,6 +4,7 @@ tags:
   - item
   - medium-armor
   - rarity-veryrare
+url: https://derpydm.com/dd/items/equipment/medium-armor/bark-of-the-mother-tree
 ---
 # Bark Of The Mother Tree
 

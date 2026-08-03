@@ -4,6 +4,7 @@ tags:
   - heavy-armor
   - item
   - rarity-common
+url: https://derpydm.com/dd/items/equipment/heavy-armor/cast-off-armor-plate
 ---
 # Cast-Off Armor, Plate
 

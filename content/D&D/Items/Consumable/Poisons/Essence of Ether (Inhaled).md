@@ -4,6 +4,7 @@ tags:
   - item
   - poisons
   - save-constitution
+url: https://derpydm.com/dd/items/consumable/poisons/essence-of-ether-inhaled
 ---
 # Essence of Ether (Inhaled)
 

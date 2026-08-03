@@ -4,6 +4,7 @@ tags:
   - level-1
   - save-strength
   - spell
+url: https://derpydm.com/dd/spells/1st-level/thunderous-smite
 ---
 # Thunderous Smite
 

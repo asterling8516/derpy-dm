@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-8-zalost-the-second-hand-king
+---
 # The Rising Peak and the Chains of Vengeance
 
 ## Session Recap: The Story So Far

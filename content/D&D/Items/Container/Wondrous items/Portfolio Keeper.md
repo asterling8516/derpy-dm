@@ -3,6 +3,7 @@ tags:
   - item
   - container
   - wondrous-items
+url: https://derpydm.com/dd/items/container/wondrous-items/portfolio-keeper
 ---
 # Portfolio Keeper
 

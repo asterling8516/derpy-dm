@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/the-forgotten-tale
+---
 %% Begin Waypoint %%
 - **Companions**
 	- [[Daryl]]

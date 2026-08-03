@@ -5,6 +5,7 @@ tags:
   - rarity-legendary
   - save-strength
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/helm-of-disjunction
 ---
 # Helm of Disjunction
 

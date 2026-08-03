@@ -5,6 +5,7 @@ tags:
   - rarity-rare
   - rings
   - save-dexterity
+url: https://derpydm.com/dd/items/equipment/rings/ring-of-evasion
 ---
 # Ring of Evasion
 

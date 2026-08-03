@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-6-a-dragons-memory
+---
 # Campaign Chronicle: The Binding of the Dragon Queen
 
 ## Into the Dragon’s Maw

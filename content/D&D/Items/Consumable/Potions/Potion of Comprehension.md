@@ -4,6 +4,7 @@ tags:
   - item
   - potions
   - rarity-common
+url: https://derpydm.com/dd/items/consumable/potions/potion-of-comprehension
 ---
 # Potion of Comprehension
 

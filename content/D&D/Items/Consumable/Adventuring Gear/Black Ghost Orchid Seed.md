@@ -3,6 +3,7 @@ tags:
   - item
   - consumable
   - adventuring-gear
+url: https://derpydm.com/dd/items/consumable/adventuring-gear/black-ghost-orchid-seed
 ---
 # Black Ghost Orchid Seed
 

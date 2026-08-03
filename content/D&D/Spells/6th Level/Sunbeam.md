@@ -4,6 +4,7 @@ tags:
   - level-6
   - save-constitution
   - spell
+url: https://derpydm.com/dd/spells/6th-level/sunbeam
 ---
 # Sunbeam
 

@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-15-a-dragons-horde
+---
 # Campaign Recap: The Mists of Mistvale & The Dragon's Hoard
 
 ## Post-Battle Chaos & Volatile Alchemy

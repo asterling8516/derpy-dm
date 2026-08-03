@@ -4,6 +4,7 @@ tags:
   - item
   - medium-armor
   - rarity-rare
+url: https://derpydm.com/dd/items/equipment/medium-armor/mithral-half-plate-1
 ---
 # Mithral Half Plate, +1
 

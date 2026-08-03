@@ -3,6 +3,7 @@ tags:
   - item
   - equipment
   - holy-symbols
+url: https://derpydm.com/dd/items/equipment/holy-symbols/holy-symbol
 ---
 # Holy Symbol
 

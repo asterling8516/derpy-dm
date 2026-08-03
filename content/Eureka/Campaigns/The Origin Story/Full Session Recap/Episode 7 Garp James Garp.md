@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-7-garp-james-garp
+---
 # The Chronicles of Eureka: The Echoing Depths
 
 ## The Awakening of the Beams

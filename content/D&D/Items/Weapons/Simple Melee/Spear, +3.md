@@ -4,6 +4,7 @@ tags:
   - rarity-veryrare
   - simple-melee
   - weapons
+url: https://derpydm.com/dd/items/weapons/simple-melee/spear-3
 ---
 # Spear, +3
 

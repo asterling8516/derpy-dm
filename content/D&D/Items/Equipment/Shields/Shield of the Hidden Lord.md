@@ -5,6 +5,7 @@ tags:
   - rarity-legendary
   - save-wisdom
   - shields
+url: https://derpydm.com/dd/items/equipment/shields/shield-of-the-hidden-lord
 ---
 # Shield of the Hidden Lord
 

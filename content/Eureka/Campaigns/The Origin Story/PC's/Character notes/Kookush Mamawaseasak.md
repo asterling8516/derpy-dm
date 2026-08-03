@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/pcs/character-notes/kookush-mamawaseasak
+---
 # Kookoush Mamakwasesak - Notes
 ## Backstory
 Self exiled from his small town of elven kind, nestled between the highlands and forest. The people there were mainly farmers and druids, living off the land and harvesting it's bounty. Nature was revered above all and Kookoush's propensity to use nature's bounty for his own pleasures was met with scorn.

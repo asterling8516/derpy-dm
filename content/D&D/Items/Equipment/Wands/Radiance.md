@@ -3,6 +3,7 @@ tags:
   - item
   - equipment
   - wands
+url: https://derpydm.com/dd/items/equipment/wands/radiance
 ---
 # Radiance
 

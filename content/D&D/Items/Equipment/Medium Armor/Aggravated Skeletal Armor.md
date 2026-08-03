@@ -4,6 +4,7 @@ tags:
   - item
   - medium-armor
   - rarity-veryrare
+url: https://derpydm.com/dd/items/equipment/medium-armor/aggravated-skeletal-armor
 ---
 # Aggravated Skeletal Armor
 

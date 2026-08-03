@@ -5,6 +5,7 @@ tags:
   - rarity-rare
   - save-wisdom
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/figurine-of-wondrous-power-ivory-goats
 ---
 # Figurine of Wondrous Power (Ivory Goats)
 

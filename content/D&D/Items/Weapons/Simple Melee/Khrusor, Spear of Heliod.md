@@ -4,6 +4,7 @@ tags:
   - rarity-artifact
   - simple-melee
   - weapons
+url: https://derpydm.com/dd/items/weapons/simple-melee/khrusor-spear-of-heliod
 ---
 # Khrusor, Spear of Heliod
 

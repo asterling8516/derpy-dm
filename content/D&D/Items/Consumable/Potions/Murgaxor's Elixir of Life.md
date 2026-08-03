@@ -3,6 +3,7 @@ tags:
   - item
   - consumable
   - potions
+url: https://derpydm.com/dd/items/consumable/potions/murgaxors-elixir-of-life
 ---
 # Murgaxor's Elixir of Life
 

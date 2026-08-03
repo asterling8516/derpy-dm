@@ -4,6 +4,7 @@ tags:
   - item
   - potions
   - rarity-legendary
+url: https://derpydm.com/dd/items/consumable/potions/potion-of-giant-size
 ---
 # Potion of Giant Size
 

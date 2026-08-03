@@ -5,6 +5,7 @@ tags:
   - save-constitution
   - simple-ranged
   - weapons
+url: https://derpydm.com/dd/items/weapons/simple-ranged/storm-boomerang
 ---
 # Storm Boomerang
 

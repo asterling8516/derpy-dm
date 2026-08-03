@@ -4,6 +4,7 @@ tags:
   - rarity-artifact
   - simple-melee
   - weapons
+url: https://derpydm.com/dd/items/weapons/simple-melee/heart-of-the-mother-tree
 ---
 # Heart Of the Mother Tree
 

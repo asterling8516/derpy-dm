@@ -1,6 +1,7 @@
 ---
 tags:
   - conditions
+url: https://derpydm.com/dd/rules/conditions/suffocating
 ---
 A creature can hold its breath for a number of minutes equal to 1 + its Constitution modifier (minimum of 30 seconds).
 

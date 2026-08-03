@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-9-the-night-of-the-living-blood
+---
 # Session Recap: The Shadows of Heresy
 
 ## Prologue: A Time-Twisted Tale

@@ -4,6 +4,7 @@ tags:
   - dying
 aliases:
   - death saving throw
+url: https://derpydm.com/dd/rules/conditions/dying/death-saving-throws
 ---
 #### Death Saving Throws
 

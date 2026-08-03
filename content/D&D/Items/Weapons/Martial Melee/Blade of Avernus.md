@@ -5,6 +5,7 @@ tags:
   - rarity-artifact
   - save-charisma
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/blade-of-avernus
 ---
 # Blade of Avernus
 

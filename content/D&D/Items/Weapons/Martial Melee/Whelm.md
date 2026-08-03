@@ -3,6 +3,7 @@ tags:
   - rarity-legendary
   - save-constitution
   - weapon
+url: https://derpydm.com/dd/items/weapons/martial-melee/whelm
 ---
 # Whelm
 

@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-common
   - scrolls
+url: https://derpydm.com/dd/items/consumable/scrolls/spell-scroll-level-1
 ---
 # Spell Scroll (Level 1)
 

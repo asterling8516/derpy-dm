@@ -4,6 +4,7 @@ tags:
   - item
   - light-armor
   - rarity-rare
+url: https://derpydm.com/dd/items/equipment/light-armor/armor-of-force-resistance-padded
 ---
 # Armor of Force Resistance, Padded
 

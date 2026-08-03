@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-uncommon
   - scrolls
+url: https://derpydm.com/dd/items/consumable/scrolls/spell-scroll-3rd-level
 ---
 # Spell Scroll (3rd Level)
 

@@ -5,6 +5,7 @@ tags:
   - rarity-rare
   - save-charisma
   - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/far-realm-shard
 ---
 # Far Realm Shard
 

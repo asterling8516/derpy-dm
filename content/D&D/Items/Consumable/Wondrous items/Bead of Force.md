@@ -5,6 +5,7 @@ tags:
   - rarity-rare
   - save-dexterity
   - wondrous-items
+url: https://derpydm.com/dd/items/consumable/wondrous-items/bead-of-force
 ---
 # Bead of Force
 

@@ -4,6 +4,7 @@ tags:
   - item
   - rarity-rare
   - wondrous-items
+url: https://derpydm.com/dd/items/consumable/wondrous-items/quaals-feather-token-whip
 ---
 # Quaal's Feather Token (Whip)
 

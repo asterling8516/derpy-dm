@@ -4,6 +4,7 @@ tags:
   - rarity-common
   - simple-melee
   - weapons
+url: https://derpydm.com/dd/items/weapons/simple-melee/armblade-javelin
 ---
 # Armblade (Javelin)
 

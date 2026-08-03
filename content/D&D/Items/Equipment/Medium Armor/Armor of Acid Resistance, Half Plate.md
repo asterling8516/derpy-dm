@@ -4,6 +4,7 @@ tags:
   - item
   - medium-armor
   - rarity-rare
+url: https://derpydm.com/dd/items/equipment/medium-armor/armor-of-acid-resistance-half-plate
 ---
 # Armor of Acid Resistance, Half Plate
 

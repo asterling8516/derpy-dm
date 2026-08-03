@@ -4,6 +4,7 @@ tags:
   - martial-melee
   - rarity-common
   - weapons
+url: https://derpydm.com/dd/items/weapons/martial-melee/armblade-battleaxe
 ---
 # Armblade (Battleaxe)
 

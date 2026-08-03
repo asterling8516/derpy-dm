@@ -4,6 +4,7 @@ tags:
   - heavy-armor
   - item
   - rarity-uncommon
+url: https://derpydm.com/dd/items/equipment/heavy-armor/adamantine-plate
 ---
 # Adamantine Plate
 
