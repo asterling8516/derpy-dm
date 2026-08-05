@@ -8,8 +8,10 @@ url: https://derpydm.com/homebrewed/homebrewed
 - **Feats**
 	- [[Veil Touched]]
 - **Items**
+	- [[Crown Of the Glass Sovereign]]
 	- [[Stormerang]]
 	- [[Strongspirit Mug]]
+	- [[The Shattered Neon Scepter]]
 - **Places**
 	- [[The Shop of Many Things]]
 - **Rules**
