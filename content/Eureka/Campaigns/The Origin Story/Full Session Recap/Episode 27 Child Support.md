@@ -25,7 +25,7 @@ The damp, suffocating air of the subterranean cavern clung to the adventurers as
 *   **The Swap:** **Silvia** lunged at the paralyzed king, but Jix managed to use a cruel reaction, swapping places with a nearby minion. Silvia's blade sliced the unfortunate goblin instead. 
 *   **The Climax:** King Jix broke free and unleashed a devastating, freezing strike upon Silvia, leaving her clinging to life with mere whispers of breath. Seeing his ally on the brink, Garp tossed Silvia a healing potion, raised his anti-matter shotgun, and pulled the trigger. 
 
-The blast echoed like thunder through the tunnels. A massive hole opened in King Jix's chest, and the goblin king collapsed, dead before he hit the stone floor. Kookush, Slicer, and Fynn systematically cleaned up the remaining, exploding goblin lackeys.
+The blast echoed like thunder through the tunnels. A massive hole opened in King Jix's chest, and the goblin king collapsed, dead before he hit the stone floor. Kookush, Slicer, and Fynn systematically cleaned up the remaining, exploding goblin lackeys..
 
 ***
 
