@@ -15,6 +15,5 @@ url: https://derpydm.com/eureka/campaigns/the-origin-story/pcs/pcs
 - [[Garp]]
 - [[Kookush Mamawaseasak]]
 - [[S Licer]]
-- [[Silvia]]
 
 %% End Waypoint %%

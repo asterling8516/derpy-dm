@@ -13,9 +13,7 @@ url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/pcs/pcs
 	- [[Cinderella]]
 	- [[Stove]]
 - [[Adamson]]
-- [[Bearskin]]
 - [[Frezer]]
 - [[Odin Steelwing]]
-- [[Skal Deathchewer]]
 
 %% End Waypoint %%
