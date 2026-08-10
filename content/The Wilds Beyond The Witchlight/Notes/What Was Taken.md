@@ -1,6 +1,7 @@
 ---
 tags:
   - TWBTWL
+url: https://derpydm.com/the-wilds-beyond-the-witchlight/notes/what-was-taken
 ---
 |    Who    |            What             |                   Curse                   | Who Took it? |
 | :-------: | :-------------------------: | :---------------------------------------: | ------------ |

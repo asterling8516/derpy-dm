@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/assets/templates/character-sheet
+---
 
 # ♜ [[Sleepy]]
 

@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/recaps/session-8-recap-twas-the-night-of-ruins
+---
 ’Twas a moment of rest, and all through the zone, The party was tired, and felt quite alone. The egg was passed round with a sigh and a shrug, "It’s dead," you all thought, giving one final tug.
 
 When out on the ground there arose such a clatter, A whistle blew loud to see what was the matter! To the entrance you flew like a flash in the night, To see devils soaring in unholy flight.

@@ -1,4 +1,7 @@
-![lady_celeste.png](app://fff81b145014327fb619aea40f4fe0310f01/C:/Users/iamas/Obsidian_Vaults/DnD-Vault/Assets/People/lady_celeste.png?1784605910177)
+---
+url: https://derpydm.com/eureka/people/lady-celest
+---
+![[lady_celeste.png]]
 
 ### **Lady Celeste, The Blue Fairy**
 

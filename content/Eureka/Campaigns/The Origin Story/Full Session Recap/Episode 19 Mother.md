@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-19-mother
+---
 # Campaign Recap: A Pact of Salt and Tea
 
 ## The Vault of the Iron Dwarf

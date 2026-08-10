@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/the-wilds-beyond-the-witchlight/people/king-gullop-xix
+---
 # King Gullop XIX
 
 The current monarch of the Soggy Court, a society of Bullywugs (frog-folk) who live in the swampy domain of [[Hither]], specifically in the settlement of Downfall.

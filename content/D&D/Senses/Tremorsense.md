@@ -1,6 +1,7 @@
 ---
 tags:
   - Senses
+url: https://derpydm.com/dd/senses/tremorsense
 ---
 
 A monster with tremorsense can detect and pinpoint the origin of vibrations within a specific radius, provided that the monster and the source of the vibrations are in contact with the same ground or substance.

@@ -1,6 +1,7 @@
 ---
 aliases:
   - odin
+url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/pcs/odin-steelwing
 ---
 
 # ♟️ Character Sheet

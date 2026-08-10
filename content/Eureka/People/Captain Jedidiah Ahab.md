@@ -1,1 +1,4 @@
+---
+url: https://derpydm.com/eureka/people/captain-jedidiah-ahab
+---
 A rowdy old dwarf ship captain who was on the hunt after the creature of the depths known as Moby Dick. This creature was a massive whale that lived in the Obsidian Maw an almost boiling ocean located near Mistveil a small shipping/fishing town located on the edge of The Kingdom of Hearts. 

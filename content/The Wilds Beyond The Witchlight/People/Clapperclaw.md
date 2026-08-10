@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/the-wilds-beyond-the-witchlight/people/clapperclaw
+---
 # Clapperclaw
 
 A scarecrow with a patchwork body and giant lobster claws for hands. Clapperclaw is a native of the Feywild domain of [[Hither]].

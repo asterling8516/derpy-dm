@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/pcs/pcs
+---
 %% Begin Waypoint %%
 - **Character notes**
 	- [[Garp]]
@@ -12,6 +15,5 @@
 - [[Garp]]
 - [[Kookush Mamawaseasak]]
 - [[S Licer]]
-- [[Silvia]]
 
 %% End Waypoint %%

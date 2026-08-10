@@ -1,8 +1,11 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-4-the-lost-lands
+---
 # Session Recap: The Paper Spire & The Lands of the Lost
 
 ## Act I: The Spire of Mismatched Memories
 
-The morning in Elysia began with the lingering taste of wild mushrooms and the uneasy peace of a realm built on what the world had cast aside. Eager to find answers regarding the "First Chord" and a cure for their fading companion, Birdie, the party made their way to the towering spire at the center of town. 
+The morning in [[Elysia]] began with the lingering taste of wild mushrooms and the uneasy peace of a realm built on what the world had cast aside. Eager to find answers regarding the "First Chord" and a cure for their fading companion, Birdie, the party made their way to the towering spire at the center of town. 
 
 The spire itself was a surreal monument to the forgotten:
 * **The Architecture:** Constructed entirely of yellowing paper, the structure was braced by mismatched furniture legs, raw tree branches, and entire uprooted trees holding up the paper walls.
@@ -10,7 +13,7 @@ The spire itself was a surreal monument to the forgotten:
 * **The Ascent:** Stepping into a glowing circle at the tower's base, the party was carried upward on a draft of floating motes of light. 
 
 As they ascended, the glowing motes flared, reflecting lost memories back to those who gazed into them:
-* **Naya’s Memory:** She saw herself walking through a quiet forest, kneeling beside a broken, shivering shrub. When she attempted to heal it, her magic surged out of control, warping the plant into the living, parrot-like form of Iago—her familiar, who has been trapped in her lantern ever since.
+* **Nijya’s Memory:** She saw herself walking through a quiet forest, kneeling beside a broken, shivering shrub. When she attempted to heal it, her magic surged out of control, warping the plant into the living, parrot-like form of Iago—her familiar, who has been trapped in her lantern ever since.
 * **Kookoush’s Memory:** He saw himself sprinting through a dense wood, pursued by hulking stone golems. Just as fatigue set in, a blinding explosion leveled the forest behind him, leaving a massive crater. Out of the smoke stepped a small gnome with a clockwork bird perched upon his shoulder.
 
 ---
@@ -19,16 +22,15 @@ As they ascended, the glowing motes flared, reflecting lost memories back to tho
 
 At the apex of the spire, Thatcher ushered the party into a grand dining hall. The table was a patchwork of faded card tables, surrounded by chairs fashioned from polished thimbles and spools of thread. A massive feast materialized before them—a spread of local molds, mushrooms, and stale bread. 
 
-Then, **Lady Seraphina** entered. 
+Then, **[[Eureka/Places/The Shifting Veil/Lady Seraphina|Lady Seraphina]]** entered. 
 
 ```
-OSIDIAN NOTE: Lady Seraphina
 - Perception of her is warped. Fynn and Garp struggled to keep their eyes on her, their gaze constantly slipping away as if she were a fading thought. 
-- Kookoush and Naya, already touched by the shifting veil of the dustlings, could see her clearly.
+- Kookoush and Nijya, already touched by the shifting veil of the [dustlings], could see her clearly.
 ```
 
-Seraphina, gentle and melancholy, immediately untied Birdie from Naya’s broom, soothing her. She explained the tragic nature of Elysia:
-* **The Dustling Curse:** Anyone who stays in Elysia eventually fades. Their colors wash away, their memories dissolve, and they transform into the "perfect," quiet dustlings who serve the spire. 
+Seraphina, gentle and melancholy, immediately untied Birdie from Nijya’s broom, soothing her. She explained the tragic nature of [[Elysia]]:
+* **The [[Dustlings|Dustling]] Curse:** Anyone who stays in [[Elysia]] eventually fades. Their colors wash away, their memories dissolve, and they transform into the "perfect," quiet [[dustlings]] who serve the spire. 
 * **The Lands of the Lost:** While Seraphina had no knowledge of the First Chord, she pointed them toward the outermost ring of her map. In these desolate outer lands, her power is weakest. The oldest forgotten things reside there, corrupted by time and regret. 
 * **The Time Dilation:** She warned them that time behaves erratically in the outer rings. A journey of a few hours inside the mist could translate to years passing in the world outside.
 
@@ -63,9 +65,9 @@ ENVIRONMENTAL HAZARD: Shifting Veil Storm
 The storm soon brought danger. Out of the swirling dust, four desiccated, mummy-like shadow beasts barred their path. 
 
 The battle immediately descended into beautiful, chaotic madness:
-* **Stunned by the Mist:** The sudden ambush and the oppressive atmosphere briefly stunned both Garp and Kookoush, leaving Naya and Fynn to hold the line.
+* **Stunned by the Mist:** The sudden ambush and the oppressive atmosphere briefly stunned both Garp and Kookoush, leaving Nijya and Fynn to hold the line.
 * **The Anti-Matter Rifle:** Once he shook off the daze, Garp retreated and unleashed his massive anti-matter rifle, blasting holes of necrotic energy through the shadows, though the close-quarters fighting forced him to swap to his revolver.
-* **Naya's Primal Fury:** Naya took to the sky on her broom, raining down *Eldritch Blasts* and eventually diving into melee, sprouting spectral claws and fangs via *Primal Savager* to tear into the beasts.
+* **Nijya's Primal Fury:** Nijya took to the sky on her broom, raining down *Eldritch Blasts* and eventually diving into melee, sprouting spectral claws and fangs via *Primal Savager* to tear into the beasts.
 * **Kookoush's Acid:** Kookoush, battered to the brink of consciousness, retaliated with a searing *Acid Arrow*, melting the dust-mummies from the inside out.
 
 ### Fynn's Wild Ride
@@ -97,5 +99,5 @@ The giant turned to look at the battered party, and the screen faded to black.
 * **Garp:** Restored memory of *Coralie*. Out of healing potions. Equipped with Anti-Matter Rifle and Revolver.
 * **Fynn:** Completely hairless (temporary). Craving stale bread. Currently unconscious but stable.
 * **Kookoush:** Low health, heavily battered.
-* **Naya:** Slightly damaged, took minor kickback.
+* **Nijya:** Slightly damaged, took minor kickback.
 * **Group:** **LEVEL UP!** The party has reached the next level upon taking a long rest.

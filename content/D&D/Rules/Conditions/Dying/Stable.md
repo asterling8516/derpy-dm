@@ -2,6 +2,7 @@
 tags:
 aliases:
   - stabilized
+url: https://derpydm.com/dd/rules/conditions/dying/stable
 ---
 #### Going Stable!
 The best way to save a creature with 0 hit points is to heal it. If healing is unavailable, the creature can at least be stabilized so that it isn’t killed by a failed [[death saving throw]].

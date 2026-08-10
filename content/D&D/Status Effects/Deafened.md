@@ -1,0 +1,6 @@
+---
+url: https://derpydm.com/dd/status-effects/deafened
+---
+A deafened creature can’t hear and automatically fails any ability check that requires hearing.
+
+#statuseffects 

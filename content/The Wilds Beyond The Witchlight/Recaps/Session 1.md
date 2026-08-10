@@ -1,6 +1,7 @@
 ---
 tags:
   - TWBTWL
+url: https://derpydm.com/the-wilds-beyond-the-witchlight/recaps/session-1
 ---
 Last time on The Wilds Beyond The Witchlight. We learned that you had all lost something long ago a small children having been caught by Mr. Witch and Mr. Light  and warned that everything has a cost that cost would be paid. Now feeling the pull of your lost things by the Witchlight Carnival you have once again returned.
 

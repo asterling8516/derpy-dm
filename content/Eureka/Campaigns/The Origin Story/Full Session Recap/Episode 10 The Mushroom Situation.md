@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-10-the-mushroom-situation
+---
 # The Spore-Choked Depths and the Pantheon of Old Gods
 
 ## Part I: The Quiet Before the Storm
@@ -17,7 +20,7 @@ Sensing a temporary window of safety, they retreated to a defensible nook in the
 ```
 Watch Schedule:
 1. Jersey
-2. Naya
+2. Nijya
 3. Kookoush
 4. Fynn & Garp
 ```
@@ -25,18 +28,18 @@ Watch Schedule:
 ### The First Watch: Jersey
 Barely fifteen minutes after the camp fell dark, the silence broke. The ruins groaned back to life. In the distance, Jersey heard the rhythmic, chilling jingle of dragging chains and the skittering of unseen vermin. Nothing approached their alcove, but the dungeon was awake once more.
 
-### The Second Watch: Naya
-As Naya took her turn in the dark, heavy, deliberate footsteps echoed down the long hallway. Recognizing the arrogant stride, she slipped away from the camp to intercept the intruder before he could alert her sleeping companions. 
+### The Second Watch: Nijya
+As Nijya took her turn in the dark, heavy, deliberate footsteps echoed down the long hallway. Recognizing the arrogant stride, she slipped away from the camp to intercept the intruder before he could alert her sleeping companions. 
 
 Out of the gloom stepped **Zallust**, the devil, dressed immaculately in his fine suit. 
-> "Shh," Naya whispered, raising a finger to her lips. 
+> "Shh," Nijya whispered, raising a finger to her lips. 
 
 Zallust grinned, a terrible, sharp-toothed expression. He gestured for her to follow him slightly further down the corridor, out of sight of the sleeping party. 
 > "I must admit, I'm surprised you are still here," Zallust murmured, pulling out a gleaming pocket watch. "I figured you would have fled during my brief absence."
 > 
-> "We're just gearing up," Naya replied smoothly, hiding her dread. "Can't disappoint you in the final fight."
+> "We're just gearing up," Nijya replied smoothly, hiding her dread. "Can't disappoint you in the final fight."
 
-With a mocking wink and a wave over his shoulder, the devil vanished back into the dark. Naya returned to her post, letting out a breath she hadn't realized she was holding, while Garp’s heavy, rhythmic snoring echoed through the stone chamber.
+With a mocking wink and a wave over his shoulder, the devil vanished back into the dark. Nijya returned to her post, letting out a breath she hadn't realized she was holding, while Garp’s heavy, rhythmic snoring echoed through the stone chamber.
 
 ### The Third Watch: Kookoush
 As the hours crawled by, Kookoush took his place. His keen eyes caught a slow, shuffling movement down the narrow corridor. Several horrific figures—some dripping with animated blood, others held together by exposed, yellowed bone—were dragging themselves toward the camp. 
@@ -48,7 +51,7 @@ Reacting instantly, Kookoush kicked over a nearby weapon rack. The metal clatter
 
 ## Part III: The Fungal Infection
 
-The battle was swift but chaotic. Kookoush unleashed searing *Firebolts*, Garp’s pistol barked in the tight corridor, and Fynn sent a crackling line of *Lightning Bolt* tearing through the packed monsters. Jersey’s heavy fists shattered bone, and Naya’s *Eldritch Blasts* tore the remaining undead to ribbons.
+The battle was swift but chaotic. Kookoush unleashed searing *Firebolts*, Garp’s pistol barked in the tight corridor, and Fynn sent a crackling line of *Lightning Bolt* tearing through the packed monsters. Jersey’s heavy fists shattered bone, and Nijya’s *Eldritch Blasts* tore the remaining undead to ribbons.
 
 With the immediate threat neutralized, the party completed their rest, greeting a new dawn in the dark underbelly of the world. 
 
@@ -68,11 +71,11 @@ Thinking fast, Kookoush lunged at Fynn, pinning him to the ground. Reaching into
 
 But the danger was far from over. The final spore zombie unleashed another burst. This time, Jersey failed to resist. The towering brawler sprouted yellow caps along his arms, his eyes glazing over with fungal madness. 
 
-Naya immediately conjured a torrential downpour using *Create Water*, soaking the room to prevent further airborne spores. 
+Nijya immediately conjured a torrential downpour using *Create Water*, soaking the room to prevent further airborne spores. 
 
 Kookoush tried to repeat his force-feeding trick on Jersey, but the charmed giant was too fast. Jersey swatted Kookoush away, delivering a stunning blow that knocked the artificer unconscious. 
 
-Garp fired a non-lethal shot to subdue his friend, but Jersey’s iron-like reflexes allowed him to catch the bullet out of the air. It took a coordinated effort—Naya freezing Jersey with *Frostbite* and Garp delivering a final, precise shot—to finally knock the giant unconscious and break the spore's hold. Fynn sliced the last zombie in half with his *Green Flame Blade*.
+Garp fired a non-lethal shot to subdue his friend, but Jersey’s iron-like reflexes allowed him to catch the bullet out of the air. It took a coordinated effort—Nijya freezing Jersey with *Frostbite* and Garp delivering a final, precise shot—to finally knock the giant unconscious and break the spore's hold. Fynn sliced the last zombie in half with his *Green Flame Blade*.
 
 Battered, bruised, and covered in soot, the party dragged Jersey and Kookoush out of the spore-choked room. They administered healing potions, stabilized their wounds, and systematically incinerated the remaining mushrooms with fire magic until nothing but ash remained.
 
@@ -105,7 +108,7 @@ Offerings & Divine Boons:
 | **Garp** | Mother of the Veils | 5 Poison Bullets | **Unseen Presence of the Void**: Can turn invisible as a bonus action in dim light/darkness once per rest. |
 | **Jersey** | Tiamat | Boots of Speed | **Chromatic Breath**: Can exhale a 15-foot cone of elemental energy once per long rest. |
 | **Fynn** | Serafina (Custom Shrine) | A handwritten vow of remembrance | **Shadow Step**: Can teleport up to 30 feet as a bonus action (uses equal to proficiency bonus). |
-| **Naya** | The Fickle Fates | Custom raincoat, pride silk outfit, & a dagger | **Thread Weaver**: Gained two Luck Points that replenish at dawn. |
+| **Nijya** | The Fickle Fates | Custom raincoat, pride silk outfit, & a dagger | **Thread Weaver**: Gained two Luck Points that replenish at dawn. |
 | **Kookoush** | Gond | A magically tinkered tin whistle emitting the scent of forge coals | **Clockwork Spark**: Once per long rest, can treat a failed save or missed attack roll as a natural 20. |
 ```
 

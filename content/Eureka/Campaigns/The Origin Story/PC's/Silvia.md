@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/pcs/silvia
+---
 # ♟️ Character Sheet
 ## ♟ Silvia Surath
 > **Character Concept**

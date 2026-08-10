@@ -1,6 +1,7 @@
 ---
 tags:
   - quest
+url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/quests/completed/go-to-the-city-of-mistveil-and-find-out-what-has-happened-to-the-branch-of-the-silent-archives
 ---
 # Who
 a "book golem" named **Codex**

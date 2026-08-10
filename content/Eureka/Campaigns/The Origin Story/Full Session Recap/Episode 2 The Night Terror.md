@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-2-the-night-terror
+---
 # The Whispers of the Waste: Dreams, Dust, and Debris
 
 ## Session Overview
@@ -6,7 +9,7 @@
   * **Garp** (The Rogue/Gunslinger)
   * **Fynn** (The Sorcerer)
   * **Kookoush** (The Alchemist)
-  * **Naya** (The Winged Mage)
+  * **Nijya** (The Winged Mage)
 
 ---
 
@@ -33,11 +36,11 @@ Fynn awoke in a realm of blinding, featureless white, where sky and ground melte
 A thick, black vine erupted from the entity, piercing Fynn and binding them as one before he gasped back to consciousness.
 
 ### The Graying Curse
-When the party fully awoke, a grim transformation was underway. **Kookoush** and **Naya** had taken on a permanent, ash-gray coloration. The very dust of the wasteland had bonded to their skin, refusing to wash away. Naya’s vibrant blue hue was muted, and Kookoush looked like a living corpse. Yet, this curse carried a strange boon: their dusty complexions made them fade into the background, granting them unnatural stealth. 
+When the party fully awoke, a grim transformation was underway. **Kookoush** and **Nijya** had taken on a permanent, ash-gray coloration. The very dust of the wasteland had bonded to their skin, refusing to wash away. Nijya’s vibrant blue hue was muted, and Kookoush looked like a living corpse. Yet, this curse carried a strange boon: their dusty complexions made them fade into the background, granting them unnatural stealth. 
 
 Desperate to regain his color, Kookoush ground up dried rose petals, painting a makeshift rouge onto his pale cheeks.
 
-Before they departed, their mechanical owl companion unhinged its head with a sickening click. It projected a glowing holographic replay of the night before, showing a strange, luminous essence drifting out of Kookoush and Naya’s sleeping bodies, passing through the tower walls, and vanishing into the wastes.
+Before they departed, their mechanical owl companion unhinged its head with a sickening click. It projected a glowing holographic replay of the night before, showing a strange, luminous essence drifting out of Kookoush and Nijya’s sleeping bodies, passing through the tower walls, and vanishing into the wastes.
 
 ---
 
@@ -60,21 +63,21 @@ Stepping out of the tower, Garp and Fynn discovered tiny, thumb-sized hoof print
 ```
 
 ### The Malformed Elf
-A few miles into their journey, they spotted a lone, misshapen humanoid wandering the junk heaps. Naya flew down to investigate. 
+A few miles into their journey, they spotted a lone, misshapen humanoid wandering the junk heaps. Nijya flew down to investigate. 
 
-The creature was an elf, but horribly mutated by the wastes. One of its arms was withered and tiny, a single feathered wing jutted from its back, and its skin was the same deathly gray as Kookoush’s. When Naya approached, the elf reached out with pleading, empty eyes.
+The creature was an elf, but horribly mutated by the wastes. One of its arms was withered and tiny, a single feathered wing jutted from its back, and its skin was the same deathly gray as Kookoush’s. When Nijya approached, the elf reached out with pleading, empty eyes.
 > *"Do you know who I am? Do you know my name? Do you know where we are?"*
 
-Naya explained they were in the Land of the Forgotten, but within seconds, the elf’s memory reset. It stared blankly and repeated the exact same questions. Realizing the creature was entirely hollowed out, they nicknamed her **Birdie**. 
+Nijya explained they were in the Land of the Forgotten, but within seconds, the elf’s memory reset. It stared blankly and repeated the exact same questions. Realizing the creature was entirely hollowed out, they nicknamed her **Birdie**. 
 
-Kookoush cast *Identify* on the tragic figure. His magical senses revealed a powerful, passive transmutation curse gripping the land. It was slowly, inevitably rewriting Birdie's biology—and the graying skin on Kookoush and Naya was the terrifying first stage of the same disease.
+Kookoush cast *Identify* on the tragic figure. His magical senses revealed a powerful, passive transmutation curse gripping the land. It was slowly, inevitably rewriting Birdie's biology—and the graying skin on Kookoush and Nijya was the terrifying first stage of the same disease.
 
 ### The Dill-Tinted Glasses
 While the party debated what to do, Garp slipped his hands into Birdie's loose, dusty clothing. He retrieved four pairs of wire-framed spectacles with circular green lenses. 
 
 Garp placed one pair on Birdie's face. She immediately forgot they were there but smiled. The rest of the party donned the remaining glasses. Instantly, the bleak, gray wasteland was bathed in a vibrant, soothing green. 
 
-Refusing to leave Birdie to rot, Naya sat the forgetful elf on her broom, holding her tightly by the waist as they continued their march.
+Refusing to leave Birdie to rot, Nijya sat the forgetful elf on her broom, holding her tightly by the waist as they continued their march.
 
 ---
 
@@ -103,7 +106,7 @@ In the dead of night, the psychic resonance hit. Fynn awoke screaming as a wave 
 ```
 
 * **The Defense Begins:** Garp, waking from his trance, immediately dove into the shadows of the tower. Peeking through an arrow slit, he fired his pistols into the gloom, wounding one of the beasts.
-* **The Void of Hadar:** Naya conjured a rift of absolute darkness outside the front door—a *Hunger of Hadar*. Acidic, milky tentacles lashed out from the void, dragging one of the dust wolves into the blackness and dissolving it into nothingness.
+* **The Void of Hadar:** Nijya conjured a rift of absolute darkness outside the front door—a *Hunger of Hadar*. Acidic, milky tentacles lashed out from the void, dragging one of the dust wolves into the blackness and dissolving it into nothingness.
 * **Alchemical Fortitude:** Kookoush stood up, drank a fortifying brew (*False Life*), and tossed a beaker of highly toxic chemicals (*Ray of Sickness*) out of a side window, badly poisoning the second wolf.
 * **Fynn’s Ultimate Gamble:** Seeking to end the threat, Fynn prepared to teleport outside. As he stepped into the storm, he channeled his magic into a devastating *Lightning Bolt*. 
 
@@ -125,4 +128,4 @@ With the wolves destroyed and Fynn stabilized, the party looked toward the horiz
 * **Acquired:** 4x Green-Lensed Spectacles (worn by the party and Birdie).
 * **Companion Joined:** "Birdie," the memory-wiped, mutated elf.
 * **Consumables Used:** 1x Potion of Healing (Fynn), 1x Potion of Healing (Garp).
-* **Current Status:** Kookoush and Naya have permanent advantage on Stealth checks but are slowly turning gray.
+* **Current Status:** Kookoush and Nijya have permanent advantage on Stealth checks but are slowly turning gray.

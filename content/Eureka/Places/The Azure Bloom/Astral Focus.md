@@ -3,6 +3,7 @@ tags:
   - item
   - fey
   - thebloom
+url: https://derpydm.com/eureka/places/the-azure-bloom/astral-focus
 ---
 ## **Astral Focus: The Whispering Star-Gem**
 

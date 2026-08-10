@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/dd/rules/leveling
+---
 # 🐉 The Full Dragon Scale: Levels 1–20
 
 _A breakdown of what it actually takes to level up using Standard XP (Shared by a party of 4)._

@@ -1,12 +1,15 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-6-a-dragons-memory
+---
 # Campaign Chronicle: The Binding of the Dragon Queen
 
 ## Into the Dragon’s Maw
 
 The air outside the ruins of the Thesian Market was thick with the scent of dust and old stone. Having just survived a chaotic magical mishap that left their gear altered and their minds on high alert, the party stood at the threshold of the subterranean ruins. 
 
-The warnings of traps weighed heavily on them. **Jersey**, a towering boxing champion of a monk, stepped to the front. Lacking the darkvision of his companions, he relied on his uncanny tremor sense—feeling the very heartbeat of the ruins through the soles of his boots. Behind him came **Naya**, hovering on her flying broomstick, with the squishy but brilliant sorcerer **Fynn** tied securely to her back so he wouldn't accidentally step on a pressure plate. **Kikush** and **Garp** brought up the rear, weapons drawn.
+The warnings of traps weighed heavily on them. **Jersey**, a towering boxing champion of a monk, stepped to the front. Lacking the darkvision of his companions, he relied on his uncanny tremor sense—feeling the very heartbeat of the ruins through the soles of his boots. Behind him came **Nijya**, hovering on her flying broomstick, with the squishy but brilliant sorcerer **Fynn** tied securely to her back so he wouldn't accidentally step on a pressure plate. **Kikush** and **Garp** brought up the rear, weapons drawn.
 
-Jersey struck a torch, casting flickering amber light across the damp stone walls. The passage was cramped—scarcely ten feet high—forcing Naya and Fynn to duck their heads as they floated forward. Etched into the ancient masonry were vibrant, sweeping murals of dragons of every color, their painted eyes seeming to follow the intruders.
+Jersey struck a torch, casting flickering amber light across the damp stone walls. The passage was cramped—scarcely ten feet high—forcing Nijya and Fynn to duck their heads as they floated forward. Etched into the ancient masonry were vibrant, sweeping murals of dragons of every color, their painted eyes seeming to follow the intruders.
 
 From the dark depths of a southern corridor, a low, rhythmic growling and clicking echoed. 
 
@@ -23,13 +26,13 @@ INITIATIVE ROLLS:
 - Garp: 15
 - Jersey: 12
 - Raptors: 10
-- Naya: 8
+- Nijya: 8
 - Fynn: 5
 ```
 
 Before the party could coordinate, the **Red Raptor** lunged from its perch, opening its maw to unleash a torrent of searing dragon-fire. The flames engulfed the narrow passage. 
 *   Kikush reacted instantly, using his *Stone’s Endurance* to shrug off the worst of the heat.
-*   Fynn and Naya dodged behind the broom, taking partial cover, but the blast left the rest of the party badly singed.
+*   Fynn and Nijya dodged behind the broom, taking partial cover, but the blast left the rest of the party badly singed.
 
 "Focus fire on the ones that haven't moved!" yelled Fynn, coughing through the smoke.
 
@@ -38,10 +41,10 @@ COMBAT LOG - KEY ACTIONS:
 - Kikush retaliates with a searing Fire Bolt, striking the Green Raptor.
 - Jersey leaps forward, his fists wrapped in the golden glow of his magical gloves. He delivers a staggering blow to the Blue Raptor, channeling his ki to stun the beast in place.
 - Fynn unleashes a devastating Lightning Bolt that tears through the cavern, arcing between the White and Green Raptors.
-- Naya hexes the Green Raptor and finishes it off with a crackling beam of Eldritch Blast.
+- Nijya hexes the Green Raptor and finishes it off with a crackling beam of Eldritch Blast.
 ```
 
-The **White Raptor** burrowed into the loose earth, bursting through a side wall to breathe a cloud of freezing frost over Naya and Fynn, nearly knocking the sorcerer unconscious. 
+The **White Raptor** burrowed into the loose earth, bursting through a side wall to breathe a cloud of freezing frost over Nijya and Fynn, nearly knocking the sorcerer unconscious. 
 
 Garp, noticing the webbed feet of the White Raptor, realized its aquatic nature and attempted to de-escalate the conflict. "Stand down!" Garp bellowed in Draconic, trying to intimidate the beast. "Your pack is defeated! No one else has to die!"
 
@@ -49,7 +52,7 @@ The raptor hissed back, its eyes wild with fanatical devotion. Fynn translated i
 
 Realizing there was no reasoning with the zealots, Garp leveled his massive **Anti-Matter Rifle**. A blinding flash of energy vaporized the Red Raptor. Jersey, executing a spectacular jump-kick off the cavern wall, pummeled the White Raptor, leaving it dazed before Fynn put it out of its misery with a chilling touch. 
 
-The Blue Raptor, thoroughly battered and unconscious, was hogtied and bound to the bottom of Naya’s broomstick as a future mount or captive.
+The Blue Raptor, thoroughly battered and unconscious, was hogtied and bound to the bottom of Nijya’s broomstick as a future mount or captive.
 
 ---
 
@@ -58,13 +61,13 @@ The Blue Raptor, thoroughly battered and unconscious, was hogtied and bound to t
 With the immediate threat neutralized, the party took a much-needed short rest to bandage their wounds. Kikush and Fynn set to work harvesting the magical essence of the slain beasts.
 
 ### Harvested Materials
-*   **White Raptor Heart (Ice):** Worth $150\text{ gp}$ of enchanting material. (Stored by Naya).
+*   **White Raptor Heart (Ice):** Worth $150\text{ gp}$ of enchanting material. (Stored by Nijya).
 *   **Green Raptor Heart (Poison):** Worth $75\text{ gp}$ of enchanting material. (Used to craft ammo).
 *   **Red Raptor Heart (Fire):** Worth $75\text{ gp}$ of enchanting material.
 
 While harvesting, the party discussed the raptor's dying words. *Tiamat.* 
 
-Kikush and Naya recalled ancient lore: Tiamat was the legendary five-headed dragon deity of old. When the planes collided centuries ago, she and the other old gods vanished, replaced in the broken skies by the silent, colossal flying manta rays that drift through the void.
+Kikush and Nijya recalled ancient lore: Tiamat was the legendary five-headed dragon deity of old. When the planes collided centuries ago, she and the other old gods vanished, replaced in the broken skies by the silent, colossal flying manta rays that drift through the void.
 
 Pressing deeper into the ruins, Jersey discovered a small, hidden alcove containing a cracked, ancient **Dragon Egg Shell**. Sensing its historical value, he carefully pocketed it.
 
@@ -90,7 +93,7 @@ Five smaller plaques around the room read:
 
 In the mouths of the five obsidian heads sat five massive, glittering gemstones: a **Ruby, Diamond, Sapphire, Emerald, and Onyx**.
 
-Kikush flew up on Naya’s broom to inspect the Emerald. The moment his fingers brushed the gem to cast *Identify*, the statue pulsed with a violent, dark energy. The murals on the walls shimmered, and spectral guardian raptors materialized from the stone, claws bared.
+Kikush flew up on Nijya’s broom to inspect the Emerald. The moment his fingers brushed the gem to cast *Identify*, the statue pulsed with a violent, dark energy. The murals on the walls shimmered, and spectral guardian raptors materialized from the stone, claws bared.
 
 The guardians were swift, but the party was swifter. Jersey moved like a hurricane, darting across the chamber and executing a series of stunning strikes that froze three of the spectral raptors in their tracks. Garp utilized Kikush's shoulder as a steady tripod, firing his revolvers with pinpoint accuracy to shatter the remaining guardians.
 
@@ -109,7 +112,7 @@ The party spent an hour preparing. Kikush used the harvested Green Raptor Heart 
 *   **Fire:** Jersey (holding his burning torch to the plaque).
 *   **Poison:** Garp (aiming a poison-imbued bullet).
 *   **Lightning:** Fynn (channeling a spark of lightning).
-*   **Cold:** Naya (preparing an icy hex).
+*   **Cold:** Nijya (preparing an icy hex).
 *   **Acid:** Kikush (holding an acidic conjuration).
 
 "On three," Jersey whispered. "One... two... three!"
@@ -137,8 +140,8 @@ The world was shaking.
 ## Party Inventory & Quest Log Updates
 
 ### Items Acquired
-*   **Blue Raptor (Captive):** Currently hogtied and secured to Naya's broom.
-*   **White Raptor Heart:** Highly magical ice-enchanted organ (Naya's inventory).
+*   **Blue Raptor (Captive):** Currently hogtied and secured to Nijya's broom.
+*   **White Raptor Heart:** Highly magical ice-enchanted organ (Nijya's inventory).
 *   **Dragon Egg Shell:** Ancient relic of potential value (Jersey's inventory).
 *   **Chromatic Prism:** Magic item (Kikush's inventory).
 *   **Strong Spirit Mug:** Magic item (Fynn's inventory).

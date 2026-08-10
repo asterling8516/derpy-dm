@@ -1,5 +1,6 @@
 ---
 title: Welcome Adventurers and Fellow DMs!
+url: https://derpydm.com/index
 ---
 Welcome fellow adventurers, to **The Derpy Dm's Guide**!
 

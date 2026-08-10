@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/lore/the-treaty-of-evermore
+---
 # The Great War
 Once the four planes collided, the peoples of the planes **immediately** blamed each other for **what became known as** The Great Cataclysm and began fighting for dominance of the new world. The war lasted for over a century and cost many lives. Much of the world's history was lost, **leading** to the birth of new religions. **The constant arguing over who was to blame for the Cataclysm also** caused much misinformation to be recorded.
 

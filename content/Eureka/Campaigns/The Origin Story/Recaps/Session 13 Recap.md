@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/recaps/session-13-recap
+---
 We did together, but was basically as follows:
 - You fought and defeated Zalost and his mirror images
 - Zalost begged for you to spare him since it would doom others to death whom his magic was keeping alive

@@ -2,6 +2,7 @@
 tags:
   - homebrew
   - rules
+url: https://derpydm.com/homebrewed/rules/shopping-bargaining
 ---
 # Shopping
 Introducing some new rules from [Kobold Press]([https://koboldpress.com/kpstore?raf=ref4237525](https://koboldpress.com/kpstore?raf=ref4237525))'s  Wander's Guide to Merchants and Magic and slighting changing them to fit my players and campaigns. We will use some new rules for shopping to hopefully make shopping more fun and providing more RP opportunities. 
@@ -26,7 +27,7 @@ Through RP/changing your offer/or something else. You can make another attempt a
 
 # Impacts
 There are a few things that will impact the starting cost such as
-- Species (for example in our world [[Eureka]] the devils and the mortals may not have the best relationship due to [[The Treaty of Evermore | The Great War]] and may set the price higher to start)
+- Species (for example in our world [[Eureka/Eureka]] the devils and the mortals may not have the best relationship due to [[The Treaty of Evermore | The Great War]] and may set the price higher to start)
 - Class. An alchemist may set the price a bit lower for a fellow alchemist.
 - Reputation. Are you a renowned adventurer? Do you come back to the same merchant often? Have you helped the merchant out before?
 - Manners. Having a silver tongue when talking to someone you want to buy something from may not be a bad thing

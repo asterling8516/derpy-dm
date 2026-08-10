@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/recaps/session-7-recap-twas-the-night-of-the-towers
+---
 'Twas the start of the session, and all through the pack, You opened the items from the Shop’s magical sack. With boons and with monsters, the cards were all played, But the good outweighed bad in the trades that were made.
 
 To the Obsidian Cathedral, you ventured with might, And entered the Blue Tower, devoid of all light. A contract was broken, a deal left unbound, And lightning struck hard, knocking folks to the ground.

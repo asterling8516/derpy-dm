@@ -1,0 +1,112 @@
+---
+tags:
+  - item
+  - equipment
+  - wondrous-items
+url: https://derpydm.com/dd/items/equipment/wondrous-items/spell-gem
+---
+# Spell Gem
+
+**Spell Gem**
+_Trinket_
+**Type:** Trinket
+**Quantity:** 1
+**Weight:** N/A
+**Price:** N/A
+**Rarity:** 
+**Attunement:** Requires Attunement
+
+*<div class="item-attunement"><i>(Requires attunement by a Spellcaster if Seeking to Imbue the Gem)</i><p>A spell gem can contain one spell from any class’s spell list. You become aware of the spell when you learn the gem’s properties. While holding the gem, you can cast the spell from it as an action if you know the spell or if the spell is on your class’s spell list. Doing so doesn’t require any components and doesn’t require attunement. The spell then disappears from the gem.
+
+If the spell is of a higher level than you can normally cast, you must make an ability check using your spellcasting ability to determine whether you cast it successfully. The DC equals 10 + the spell’s level. On a failed check, the spell disappears from the gem with no other effect.
+
+Each spell gem has a maximum level for the spell it can store. The spell level determines the gem’s rarity and the stored spell’s saving throw DC and attack bonus, as shown in the Spell Gem table.
+
+You can imbue the gem with a spell if you’re attuned to it and it’s empty. To do so, you cast the spell while holding the gem. The spell is stored in the gem instead of having any effect. Casting the spell must require either 1 action or 1 minute or longer, and the spell’s level must be no higher than the gem’s maximum. If the spell belongs to the school of [[abjuration]] and requires material components that are consumed, you must provide them, but they can be worth half as much as normal.
+
+Once imbued with a spell, the gem can’t be imbued again until the next dawn.
+
+Deep gnomes created these magic gemstones and keep the creation process a secret.</p>
+<table>
+<thead>
+<tr>
+<th>Max. Spell Level</th>
+<th>Gemstone</th>
+<th>Rarity</th>
+<th>Save DC</th>
+<th><span class="Comment-Reference">Attack Bonus</span></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cantrip</td>
+<td>Obsidian</td>
+<td>Uncommon</td>
+<td>13</td>
+<td>+5</td>
+</tr>
+<tr>
+<td>1st</td>
+<td><span class="No-Break">Lapis lazuli</span></td>
+<td>Uncommon</td>
+<td>13</td>
+<td>+5</td>
+</tr>
+<tr>
+<td>2nd</td>
+<td>Quartz</td>
+<td>Rare</td>
+<td>13</td>
+<td>+5</td>
+</tr>
+<tr>
+<td>3rd</td>
+<td>Blood Stone</td>
+<td>Rare</td>
+<td>15</td>
+<td>+7</td>
+</tr>
+<tr>
+<td>4th</td>
+<td>Amber</td>
+<td>Very rare</td>
+<td>15</td>
+<td>+9</td>
+</tr>
+<tr>
+<td>5th</td>
+<td>Jade</td>
+<td>Very rare</td>
+<td>17</td>
+<td>+9</td>
+</tr>
+<tr>
+<td>6th</td>
+<td>Topaz</td>
+<td>Very rare</td>
+<td>17</td>
+<td>+10</td>
+</tr>
+<tr>
+<td>7th</td>
+<td>Star ruby</td>
+<td>Legendary</td>
+<td>18</td>
+<td>+10</td>
+</tr>
+<tr>
+<td>8th</td>
+<td>Ruby</td>
+<td>Legendary</td>
+<td>18</td>
+<td>+10</td>
+</tr>
+<tr>
+<td>9th</td>
+<td>Diamond</td>
+<td>Legendary</td>
+<td>19</td>
+<td>+11</td>
+</tr>
+</tbody>
+</table>*

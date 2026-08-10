@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/recaps/session-4-recap
+---
 The group met up with Thatcher in the morning after learning that [[Garp]] had forgotten Birdy. You floated up the tower with Thatcher as [[Nijya]] and [[Kookoush|Kookoush]] saw memories of theirs here in the tower. One where [[Nijya]] first met her familiar Iago and another where [[Kookoush|Kookoush]] first met his "friend" a small gnome who obliterated a chunk of forest and a handful of golems chasing him down. 
 
 You after eating a meal of mold, mushrooms, and stale bread, finally met [[Eureka/Places/The Shifting Veil/Lady Seraphina]]. She told you she wasn't sure, but [[The First Chord]] most likely is in the [[Lands of the Lost]] a place that even time has forgotten. Where the [[Weather]] is treacherous time is different and strange creatures call it home. She offered [[Tumblesteeds]] to help you travel since you are now one of her "subjects" she felt obligated to help you. 

@@ -1,6 +1,7 @@
 ---
 tags:
   - recap
+url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/recaps/session-1-recap
 ---
 Welcome back everyone!
 

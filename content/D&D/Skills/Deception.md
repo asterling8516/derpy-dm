@@ -1,6 +1,7 @@
 ---
 tags:
   - skills
+url: https://derpydm.com/dd/skills/deception
 ---
 Ability: Charisma 
 

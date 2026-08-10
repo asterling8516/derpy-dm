@@ -1,5 +1,6 @@
 ---
 publish: true
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-26-the-goblin-in-the-hole
 ---
 
 # The Neon Descent: The Battle of the Rave Cave

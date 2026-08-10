@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-22-the-sands-of-rhuamor
+---
 # Chronicle of the Sands: The Ooze, the Glass, and the Void
 
 A recount of the party's perilous trek across the shifting dunes of **Rue Amor**, where the desert itself remembers what travelers wish to forget, and a companion’s curse threatens to dissolve the fellowship entirely.

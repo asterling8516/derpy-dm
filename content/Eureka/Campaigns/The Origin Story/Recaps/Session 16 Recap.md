@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/recaps/session-16-recap
+---
 Last session, the skies offered a haunting glimpse into the past.
 
 After a two-week staredown with Piper in Mistveil, your shopping finally concluded, and your true mission was set. You are to travel to the Black Forest and confront "Mother" regarding Ursula. You must find out why the Capital cities were attacked, and how to stop it from ever happening again.

@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/recaps/session-3-recap
+---
 The party did this mostly, but here's some key points:
 
 - Everyone woke up in a tavern after having dreamed of the travels to [[Mistveil Anchorage|Mistveil]]. You had arrived 8 days ago.

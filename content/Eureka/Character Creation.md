@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/character-creation
+---
 ## Extra Starting Items
 |    **Rarity**     | **Number of Item** |          Potions          | Number of Item |
 | :---------------: | :----------------: | :-----------------------: | :------------: |

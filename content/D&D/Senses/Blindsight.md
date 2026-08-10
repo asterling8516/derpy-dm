@@ -1,6 +1,7 @@
 ---
 tags:
   - Senses
+url: https://derpydm.com/dd/senses/blindsight
 ---
 
 A monster with blindsight can perceive its surroundings without relying on sight, within a specific radius.

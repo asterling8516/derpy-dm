@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/the-wilds-beyond-the-witchlight/people/tsu-harfoot
+---
 # Tsu Harfoot
 
 Tsu Harfoot is a cheerful human woman who runs the **Inn at the End of the Road**, a magical traveling inn that roams across the Domains of Delight (frequently popping up in Prismeer). 

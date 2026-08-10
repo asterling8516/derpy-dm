@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-1-the-tale-of-the-broken-legs
+---
 # Campaign Journal: The Chronicles of Eureka
 ## Session 1: The Land of Lost Things
 
@@ -39,7 +42,7 @@ As they sat around the fire, they took stock of their strange companions:
 *   **Fynn**: A curse-born, wolf-like humanoid. Though his mind was blank, he felt the chaotic pull of wild magic humming in his veins.
 *   **Garp**: A sea elf with the weathered look of a pirate. He possessed a sharp eye, a brace of pistols, and an immediate, compulsive urge to pocket nearby shiny objects.
 *   **Kookoush**: A tall, disheveled half-wood elf wearing a pair of dirty, child-sized rabbit-ear moccasins and a stained brown robe over leather armor. He carried the tools of an artificer and sported a magnificent, downward-sweeping Imperial mustache.
-*   **Anaya**: A blue-skinned, black-haired Djinn Warlock. Once a powerful genie bound to a lamp, she had been freed five years prior and now sought a home, though she retained little knowledge of the world outside her former vessels.
+*   **Nijya**: A blue-skinned, black-haired Djinn Warlock. Once a powerful genie bound to a lamp, she had been freed five years prior and now sought a home, though she retained little knowledge of the world outside her former vessels.
 
 ---
 
@@ -58,7 +61,7 @@ The pylon began to expand, vacuuming the campfire's flames into its core. The me
 
 A holographic projection beamed from the owl’s eyes, displaying a pre-recorded video of the party themselves. In the recording, they were actively planning an operation. The past version of themselves explained the situation:
 
-> *"If you're seeing this, it worked. Your memories have been sealed into the Echo Shards. To enter this place, you had to be forgotten. You still have your skills, your spells, and your instincts, but your identities are locked. Your objective is to find the **First Cord**. This construct is **Glimmer**. He will guide you to **Lady Seraphina, the Queen of Lost Things**. She can point you to the Cord. Good luck."*
+> *"If you're seeing this, it worked. Your memories have been sealed into the Echo Shards. To enter this place, you had to be forgotten. You still have your skills, your spells, and your instincts, but your identities are locked. Your objective is to find the **First Cord**. This construct is **Glimmer**. He will guide you to **[[Eureka/Places/The Shifting Veil/Lady Seraphina|Lady Seraphina]], the Queen of Lost Things**. She can point you to the Cord. Good luck."*
 
 The hologram faded. Glimmer the owl clicked, cooed, and dropped a small scroll from his talons. Written upon it was a single word in Primordial: *Democ*—the command word for a small, metallic chess rook found in their gear: an **Instant Fortress**.
 
@@ -74,9 +77,9 @@ In a fraction of a second, the fortress violently surged upward and outward, exp
 
 The sheer kinetic force of the expansion mangled **Fynn**, snapping his legs and launching him into the air like a ragdoll. He plummeted back to the dusty ground, a bloody, unconscious heap. 
 
-Thinking quickly, **Kookoush** rushed forward, casting *Spare the Dying* to stabilize the reckless sorcerer, followed by a *Healing Word*. **Fynn** gasped back to consciousness, his legs shattered and bent at unnatural angles. **Anaya** summoned her magic broom, and with **Garp’s** nautical expertise, they fashioned a splint and hogtied the crippled sorcerer to the back of the broom to keep him from falling off.
+Thinking quickly, **Kookoush** rushed forward, casting *Spare the Dying* to stabilize the reckless sorcerer, followed by a *Healing Word*. **Fynn** gasped back to consciousness, his legs shattered and bent at unnatural angles. **Nijya** summoned her magic broom, and with **Garp’s** nautical expertise, they fashioned a splint and hogtied the crippled sorcerer to the back of the broom to keep him from falling off.
 
-While high in the air on the broom, **Anaya** and **Garp** scanned the horizon:
+While high in the air on the broom, **Nijya** and **Garp** scanned the horizon:
 *   **To the North**: A faint, warm glow illuminated the gray sky—resembling distant light pollution or a massive campfire.
 *   **To the South**: A wall of pitch-black clouds swirled, crackling with multicolored lightning, plunging the southern landscape into an eternal night.
 

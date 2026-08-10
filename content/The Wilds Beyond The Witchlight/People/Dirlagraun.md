@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/the-wilds-beyond-the-witchlight/people/dirlagraun
+---
 # Dirlagraun
 
 Dirlagraun is a majestic Displacer Beast (a panther-like creature with six legs and two tentacle-whips on its shoulders) who mans the Lost Property wagon at the Witchlight Carnival. 

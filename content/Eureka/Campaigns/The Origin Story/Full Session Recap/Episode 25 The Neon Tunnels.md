@@ -1,8 +1,11 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-25-the-neon-tunnels
+---
 # D&D Session Recap: Neon Depths & Equine Afflictions
 
 ## The Omen in the Sky
 
-The party found themselves camping a few miles outside the sandstone walls of **Oasis City**. Under the baking heat of the desert sun, they tended to their mounts—including Garp’s beloved giant lizard, "Sonata"—while waiting out a series of bizarre, debilitating afflictions. 
+The party found themselves camping a few miles outside the sandstone walls of **[[Oasis City]]**. Under the baking heat of the desert sun, they tended to their mounts—including Garp’s beloved giant lizard, "Sonata"—while waiting out a series of bizarre, debilitating afflictions. 
 
 *   **S Licer** was utterly convinced he was a thoroughbred horse, trotting on all fours.
 *   **Kookoush** was floating aimlessly, fully believing himself to be a frog.
@@ -19,9 +22,9 @@ In the quiet that followed, a booming voice echoed in Fynn’s mind. It was Talo
 
 ## Infiltration & The Ziggurat Baths
 
-With wanted posters bearing their faces plastered across the region, the party knew they couldn't enter Oasis City looking like themselves. S Licer, momentarily channeling his inner artisan despite his equine delusions, broke out a disguise kit. He meticulously equipped everyone with oversized fake mustaches and glasses. 
+With wanted posters bearing their faces plastered across the region, the party knew they couldn't enter [[Oasis City]] looking like themselves. S Licer, momentarily channeling his inner artisan despite his equine delusions, broke out a disguise kit. He meticulously equipped everyone with oversized fake mustaches and glasses. 
 
-Thus "disguised," they entered the city. Oasis City was a breathtaking sight—a blend of ancient sandstone architecture and sci-fi grandeur, dominated by flashing corporate holograms from the *Happily Ever After* corporation. Amidst the neon advertisements, however, were hundreds of missing persons posters. 
+Thus "disguised," they entered the city. [[Oasis City]] was a breathtaking sight—a blend of ancient sandstone architecture and sci-fi grandeur, dominated by flashing corporate holograms from the *Happily Ever After* corporation. Amidst the neon advertisements, however, were hundreds of missing persons posters. 
 
 Seeking a cure for their curses, the party made a beeline for the central **Ziggurat**, beneath which lay the fabled healing springs of "The Source." 
 
@@ -48,7 +51,7 @@ The party ordered rounds of **Shadow Stout**—a murky import from the Shadowfel
 
 When questioned about Coralai, the bartender’s crystal clicked as he recalled her:
 *   She had been seen a few weeks prior, traveling with a group of nomadic Eladrin on a massive "sand-boat" (an airship designed to traverse the dunes).
-*   They were last seen heading toward the mountains between Oasis City and Grimhold.
+*   They were last seen heading toward the mountains between [[Oasis City]] and Grimhold.
 *   However, she hadn't returned for supplies in weeks—highly unusual for the nomads.
 *   The bartender also noted that people had been vanishing off the streets. A "crazy dwarf" in town insisted that something sinister was hunting from beneath the Ziggurat.
 

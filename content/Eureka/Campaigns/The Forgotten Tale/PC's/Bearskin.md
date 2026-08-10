@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/pcs/bearskin
+---
 # ♟️ Character Sheet
 ## ♟ Bearskin
 > **Character Concept**

@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/the-wilds-beyond-the-witchlight/places/downfall
+---
 # Downfall
 
 Downfall is the primary settlement in the swampy domain of [[Hither]] and serves as the capital of the **Soggy Court**—a society of Bullywugs (frog-folk) known for their ridiculous and constant political backstabbing. 

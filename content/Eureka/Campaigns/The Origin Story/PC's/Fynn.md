@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/pcs/fynn
+---
 # ♟️ Character Sheet
 ## ♟ Fynn
 > **Character Concept**

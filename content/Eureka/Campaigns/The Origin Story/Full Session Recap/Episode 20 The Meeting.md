@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-20-the-meeting
+---
 # The Black Forest Betrayal: A Meeting with the Sea Witch
 
 ## Chapter I: Withdrawal and Weird Graves

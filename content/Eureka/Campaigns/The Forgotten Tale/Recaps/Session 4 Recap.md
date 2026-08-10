@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/recaps/session-4-recap
+---
 You headed outside of town and found an old ship that had a huge bite taken out of it that had been turned into a makeshift house. Happy knocked on the door and then just barged in after hearing some noise come from inside the ship. An old dwarf with a peg leg was stuck in the floor boards of the ship and was not impressed with Happy who just went to make himself comfortable in the dwarfs hammock after filling it with straw. Stove and [[Odin|Odin]] helped the dwarf get unstuck and mended his leg and the floor. 
 
 You learned the Dwarfs name was Captain Jedidiah Ahab and had chosen to live in his ruined ship after his crew had died. You questioned him about the sea hag and what had been going on in town, but he was clueless about both. He asked if you'd be interested in helping him take on a great white whale he had been hunting and you said yes! He told you to give him a few days to gather a ship and crew and meet him back here. 

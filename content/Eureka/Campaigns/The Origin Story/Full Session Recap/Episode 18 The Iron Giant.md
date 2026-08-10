@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-18-the-iron-giant
+---
 # Campaign Chronicle: The Vault of Spades and the Crucible of Fire
 
 ## Chapter I: An Army in the Blizzard
@@ -25,7 +28,7 @@ Garp, usually a man of few words and many drinks, stepped forward. He was not th
 
 ```
 [Garp's Inquiry: Caspian & Coralli]
-  └─ Last Known Location: The Deserts outside Oasis City
+  └─ Last Known Location: The Deserts outside [Oasis City]
   └─ Traveling Companions: Desert Nomads riding giant lizards
   └─ Caspian's Age: Approximately 5 years old
 ```

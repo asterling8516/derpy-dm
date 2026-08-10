@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/quests/find-lady-celestes-astral-focus
+---
 # Who
 a Archfey named "Lady Celeste"
 

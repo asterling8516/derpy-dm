@@ -6,6 +6,7 @@ tags:
   - places
   - fey
   - liminal
+url: https://derpydm.com/eureka/places/the-shifting-veil/the-shifting-veil
 ---
 The Shifting Veil is the last destination of all forgotten things. That sock you lost, the sweater your grandma gave you but you secretly hated, those potion bottles from the healing potions you drank while fighting the dragon, that memory that sits on the tip of your tongue that you can't quite recall. The Shifting Veil lays claim to them all! 
 
@@ -30,9 +31,10 @@ While the sun is always high in the sky here its constantly blurred into a dusk-
 # Table of Contents
 
 %% Begin Waypoint %%
+- [[Dustling Disease]]
 - [[Dustlings]]
 - [[Elysia]]
-- [[Eureka/Places/The Shifting Veil/Lady Seraphina]]
+- [[Lady Seraphina]]
 - [[Mushrooms]]
 - [[The Spire of Whispers]]
 - [[Tumblesteeds]]

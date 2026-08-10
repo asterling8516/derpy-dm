@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/the-wilds-beyond-the-witchlight/full-session-recaps/episode-8-a-ballon-a-promise-and-a-claw
+---
 # The Soggy Court of Downfall
 
 ## An Ill-Fated Crossing

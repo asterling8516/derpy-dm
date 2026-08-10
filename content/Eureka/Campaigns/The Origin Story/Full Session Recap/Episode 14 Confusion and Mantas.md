@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-14-confusion-and-mantas
+---
 # Act II: Waking in the Lab & The Wrath of Grimhold
 
 ## The Awakening in Happily Ever After
@@ -10,9 +13,9 @@ This was **Alara Nightbloom**, a lead scientist for the mega-corporation *Happil
 
 As the fog of the time-loop cleared from their minds, a wave of nausea hit. One by one, they leaned over the buckets Alara had hastily provided, retching up a thick, foul-tasting black liquid. As Kookoush threw up the sludge, the sickly gray pallor that had stained his skin dissipated, returning him to normal.
 
-"Oh dear," Alara muttered, looking at one of the empty beds. "Naya should have been here. Is she... is she still coming?"
+"Oh dear," Alara muttered, looking at one of the empty beds. "Nijya should have been here. Is she... is she still coming?"
 
-The party exchanged grim looks. They remembered Naya, but their memories of her were fractured, missing pieces like a puzzle left in the rain. She had been banished back to wherever she came from, and Glimmer, Kookoush’s faithful construct companion, was gone too. Alara gestured sadly to a metallic, tree-like docking station where Glimmer would normally recharge. 
+The party exchanged grim looks. They remembered Nijya, but their memories of her were fractured, missing pieces like a puzzle left in the rain. She had been banished back to wherever she came from, and Glimmer, Kookoush’s faithful construct companion, was gone too. Alara gestured sadly to a metallic, tree-like docking station where Glimmer would normally recharge. 
 
 "Three out of four isn't bad for a return rate," Alara said, flipping a whiteboard that previously read *Probability of Survival: 1*. 
 

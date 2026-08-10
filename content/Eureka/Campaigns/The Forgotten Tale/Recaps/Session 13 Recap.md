@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/recaps/session-13-recap
+---
 Last session, the ink on your contracts dried, and the true cost of employment was revealed.
 
 Leaving the Marble Tower behind, you sought the quiet of your quarters aboard the _Happily Ever After_ airship. [[Eureka/Campaigns/The Forgotten Tale/PC's/Adamson|Adamson]], thrilled by the rare luxury of a private room, left a trail of seedlings scattered across his floor. But rest was fleeting. A sudden warning echoed through the halls: a capsule launch to Mistveil was imminent. Moments later, the massive ship rocked violently as the payload was fired into the sky.

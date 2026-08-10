@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/eureka/campaigns/the-origin-story/full-session-recap/episode-21-the-sound-of-war
+---
 # Campaign Recap: Into the Sands of Rumor
 
 ## I. The Bitter Aftermath

@@ -5,6 +5,10 @@ tags:
   - theveil
   - homebrew
   - creature
+aliases:
+  - Dustling
+  - dustling
+url: https://derpydm.com/eureka/places/the-shifting-veil/dustlings
 ---
 ![[dustlings.jpg]]
 

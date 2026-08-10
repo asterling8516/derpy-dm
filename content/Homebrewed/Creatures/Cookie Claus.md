@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/homebrewed/creatures/cookie-claus
+---
 ## **The Dough Golem (Cookie-Claus)**
 
 _(A large, slightly clumsy construct built from enchanted gingerbread, fortified with thick frosting plates, and glowing with an inner Spark of Joy.)_

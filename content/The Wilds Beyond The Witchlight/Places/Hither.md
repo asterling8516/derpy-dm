@@ -1,3 +1,6 @@
+---
+url: https://derpydm.com/the-wilds-beyond-the-witchlight/places/hither
+---
 # Hither
 
 Hither is the first of the three splintered realms of **Prismeer** (the other two being Thither and Yon). It is a Domain of Delight in the Feywild that has fallen under the oppressive rule of the hag **Bavlorna Blightstraw**.

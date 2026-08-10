@@ -1,7 +1,11 @@
+---
+url: https://derpydm.com/eureka/places/places
+---
 %% Begin Waypoint %%
 - **[[Bytopia]]**
 	- [[The Red Dragon's Memory]]
 	- [[The Thercian Market]]
+- **[[Eureka]]**
 - **[[The Azure Bloom]]**
 	- [[Astral Focus]]
 	- [[Lady Celeste]]
