@@ -8,7 +8,9 @@ url: https://derpydm.com/eureka/factions/factions
 		- [[The Followers]]
 		- [[The Three Sisters]]
 	- **[[The Silent Archives]]**
-		- [[Eureka/Factions/Religions/The Silent Archives/Codex]]
+		- [[Codex]]
 		- [[The First Scribe]]
+- **[[The Looking Glass Coven]]**
+	- [[The Silvered Eye]]
 
 %% End Waypoint %%
