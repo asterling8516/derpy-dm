@@ -21,9 +21,9 @@ Kaelin’s eyes widened. He revealed that the Astrophocus had indeed been turned
 According to the Captain, the heist was a coordinated attack:
 * **The Distraction:** A chaotic tiefling woman with coral-like horns and long, hooked chains ran through the city, laughing hysterically and setting fires to random buildings and a local church. She reportedly cried tears of black ink.
 * **The Heist:** While the guard was distracted, accomplices bypassed the vault doors entirely. They left behind an unusual pool of water and carved a teleportation sigil directly onto the inside of the vault door.
-* **Other Stolen Goods:** Aside from the shifting Astrophocus, the thieves broke several defensive statues and stole an enchanted bow known to possess and manipulate the minds of the weak-willed.
+* **Other Stolen Goods:** Aside from the shifting Astrophocus, the thieves broke several defensive statues and stole an enchanted bow.
 
-Kaelin explained that the teleportation sigil on the vault door led to a clearing in the forest at the base of the mountains just outside Frostlight. Before parting ways, the group bought a round of drinks for the guards in the tavern to smooth over their rocky introduction. In the drunken revelry, Adamson—who had recently been shrunk to a smaller size—confused the Captain by showing off the literal, empty void in his chest left by his missing Nana gem. 
+Kaelin explained that the teleportation sigil on the vault door led to a clearing in the forest at the base of the mountains just outside Frostlight. Before parting ways, the group bought a round of drinks for the guards in the tavern to smooth over their rocky introduction. In the drunken revelry, Adamson—who had recently been shrunk to a smaller size—confused the Captain by showing off the literal, empty void in his chest left by his missing mana gem. 
 
 With a lead in hand, the party slipped out of the tavern, aiming to investigate the vandalized church before heading into the frozen wilderness.
 
@@ -33,7 +33,7 @@ With a lead in hand, the party slipped out of the tavern, aiming to investigate 
 
 The party arrived at a massive, magically hardened temple sculpted entirely from ice. Inside, dwarven and elven laborers worked tirelessly to repair a pantheon of stone deities. Strangely, the statues were actively crumbling, shedding baseball-sized chunks of stone even as they were being patched.
 
-While Frezer and Skal went to speak with the workers, they noticed a group of high elves huddled in a back corner under a dense, sweet-smelling cloud of "clavis" smoke. Walking into the haze, several members of the party immediately felt the world slow down, their vision swimming. 
+While Frezer and Skal went to speak with the workers, they noticed a group of "high' elves huddled in a back corner under a dense, sweet-smelling cloud of smoke. Walking into the haze, several members of the party immediately felt the world slow down, their vision swimming. 
 
 The stoned elves were more than happy to share their snacks and gossip:
 * They claimed that a few hours prior, a group of people with "wings of light" had swept through the church, tried to steal their belongings, and vanished.
@@ -42,7 +42,7 @@ The stoned elves were more than happy to share their snacks and gossip:
 
 Hoping to halt the decay, Adamson approached the crumbling statues. He knelt and offered a deeply sincere prayer. To the amazement of the onlookers, the stone stopped shedding, its decay slowing to a crawl. 
 
-Moving to a stone statue of a great tree, Adamson offered another prayer, wishing for strength. As he prayed, a strange warmth bloomed in his chest. The empty void left by the Nana gem began to knit together, filled by the magic of the stone tree. 
+Moving to a stone statue of a great tree, Adamson offered another prayer, wishing for strength. As he prayed, a strange warmth bloomed in his chest. The empty void left by the mana gem began to knit together, filled by the magic of the stone tree. 
 
 With Adamson whole once more and the high wearing off, the party resolved to leave the city behind and head for the teleportation clearing.
 
@@ -64,7 +64,7 @@ Frezer immediately cast *Faerie Fire*, outlining a tall figure in glowing, viole
 
 ## A Rogue's Gallery and the Flight to Shadow's Haven
 
-Thelon claimed he had not been following the party, but had overheard them speaking of the Astrophocus at the tavern. He revealed that he, too, was seeking the artifact to return it to the vault of King Baron Vane. 
+Thelon claimed he had not been following the party, but had overheard them speaking of the Astrophocus at the tavern. He revealed that he, too, was seeking the artifact to return it to the vault of King Vane. 
 
 Recognizing they shared a common enemy, Thelon agreed to share what he knew. He warned the party that the thieves were a dangerous, highly organized mercenary crew sporting a crest of a **dragon surrounded by a thorny briar bush**. 
 
@@ -82,7 +82,7 @@ Thelon rattled off the key members of this rogue's gallery:
 * **The Shifter:** Possesses shark-like teeth; fights on all fours.
 * **The Astral Elf:** The apparent leader, clad in fluid armor made of water and wielding a sword of glass.
 
-Hearing the description of the crest—the dragon and the briar bush—the party’s memories were jogged. They had seen this exact sigil once before: carved into the stone walls of the mysterious well at the **Temple of Cimera**.
+Hearing the description of the crest—the dragon and the briar bush—the party’s memories were jogged. They had seen this exact sigil once before: carved into the stone walls of the mysterious well.
 
 Thelon suggested that a crew this notorious and on the run would only head to one place: **Shadow's Haven**. 
 
