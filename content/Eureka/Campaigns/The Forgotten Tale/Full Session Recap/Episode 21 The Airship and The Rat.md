@@ -170,4 +170,4 @@ The entire tavern went dead silent. Dozens of eyes in silver and purple helmets 
 
 Before Frezer could draw his anti-matter rifle, a heavy, metal-clad hand slammed down onto his shoulder. Frezer turned slowly to find a towering human knight in pristine, polished armor staring down at him. The knight's hand rested on the pommel of a very real, very sharp broadsword.
 
-"Excuse me," the knight sneered, his voice dripping with cold menace. "What did you just say?".
+"Excuse me," the knight sneered, his voice dripping with cold menace. "What did you just say?"
