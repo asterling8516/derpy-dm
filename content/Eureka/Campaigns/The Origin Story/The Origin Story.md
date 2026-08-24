@@ -15,6 +15,10 @@ My online group
 		- [[Head to Frostlight]]
 		- [[Retrieve the Blue Fairy's Star]]
 	- [[Confront Happily Ever After's Leadership]]
+	- [[Destroy the Trash-Sending Devices]]
+	- [[Find Garp's Family]]
+	- [[Hunt the Whale-Killing Dwarven Captain]]
+	- [[Seek out Codex in the Silent Archives]]
 - **Recaps**
 	- [[Session 1 Recap]]
 	- [[Session 2 Recap]]
