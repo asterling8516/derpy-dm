@@ -40,7 +40,7 @@ The stoned elves were more than happy to share their snacks and gossip:
 * A dwarf laborer confirmed that the statues had been crumbling for months, long before the recent Manta Ray attack.
 * The tiefling arsonist had targeted a statue of **Melora**, a goddess who once wandered the material plane. The fire had completely destroyed her likeness.
 
-Hoping to halt the decay, Adamson approached the crumbling statues. He knelt and offered a deeply sincere prayer. To the amazement of the onlookers, the stone stopped shedding, its decay slowing to a crawl. 
+Hoping to halt the decay, Frezer approached the crumbling statues. He knelt and offered a deeply sincere prayer. To the amazement of the onlookers, the stone stopped shedding, its decay slowing to a crawl. 
 
 Moving to a stone statue of a great tree, Adamson offered another prayer, wishing for strength. As he prayed, a strange warmth bloomed in his chest. The empty void left by the mana gem began to knit together, filled by the magic of the stone tree. 
 
