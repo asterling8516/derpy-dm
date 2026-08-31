@@ -12,5 +12,7 @@ url: https://derpydm.com/eureka/factions/factions
 		- [[The First Scribe]]
 - **[[The Looking Glass Coven]]**
 	- [[The Silvered Eye]]
+- **The Silent Archives**
+	- [[The First Scribe]]
 
 %% End Waypoint %%

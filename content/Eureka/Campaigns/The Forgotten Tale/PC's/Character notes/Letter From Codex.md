@@ -1,0 +1,3 @@
+> To all librarians,
+> Happily Ever After has figured out how to open the door to the Archives, They seem to be searching for something though I haven't figured out what as of yet. I am calling all librarians to please come to the Archives and retrieve as much information as possible and return to your libraries and destroy all evidence of our connection. We must prevent Happily Ever After from finding whatever they are after. The have eradicated Oasis City for something they are calling Project Unity. We lost contact with Urath librarian of the Library located there. Sound bombs were used pulling in commonfolk and producing monsters in their place. We, humanity, is under attack.
+> Codex
