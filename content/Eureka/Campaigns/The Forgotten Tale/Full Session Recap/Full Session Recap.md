@@ -8,6 +8,7 @@ These are AI generated recaps using the sessions recordings.
 - [[Episode 20 The Gems in the Oasis]]
 - [[Episode 21 The Airship and The Rat]]
 - [[Episode 22 The Journey To Shadows Haven]]
+- [[Episode 23 James Black]]
 
 %% End Waypoint %%
 
