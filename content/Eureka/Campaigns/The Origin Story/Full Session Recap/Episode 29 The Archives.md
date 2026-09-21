@@ -8,7 +8,7 @@ The smoke of battle still hung heavy over the ruined streets of Oasis City. Only
 Seeking respite, the party headed directly to the safehouse of Coraline and Caspian. But as **Garp** pushed open the creaking, half-crumbled door, he was instantly met with cold steel—Coraline stood before him, her eyes blazing with fury, holding a dagger directly to his throat.
 
 *   **A Cold Welcome:** Garp’s attempts at awkward charm did little to soothe Coraline’s wrath. She lowered the blade only to strike him hard in the shoulder, furious that he had prioritized saving the city over protecting his own flesh and blood, Caspian.
-*   **The Unfortunate Peacekeeper:** **Slicer** stepped forward to de-escalate, offering Coraline a calming draught to "soothe her nerves." His diplomacy was rewarded with a swift, no-holds-barred punch directly to the jaw, sending him sprawling to the floor. **Silvia** watched him drop with silent, amused approval.
+*   **The Unfortunate Peacekeeper:** **Slicer** stepped forward to de-escalate, offering Coraline a calming draught to "soothe her nerves."  Garpwas rewarded with a swift, no-holds-barred punch directly to the jaw, sending him sprawling to the floor. **Silvia** watched him drop with silent, amused approval.
 
 ### A Change of Plans
 With Oasis City devastated and the looming threat of the hostile organization **Happily Ever After** casting a shadow over their next moves, the party regrouped to plan. 
@@ -37,8 +37,8 @@ To expedite their departure, the party split into two groups to handle preparati
 The trio navigated the chaotic guard headquarters to find **Captain Theron**, who was desperately trying to organize the evacuation of Oasis City.
 
 *   **The Donation:** Slicer generously donated **1,000 gold pieces** to Theron to bribe a stubborn airship captain into evacuating more citizens. In exchange, Theron promised them passage to Shadows Haven on an outbound evacuation vessel.
-*   **The Message of Alliance:** Theron agreed to support their grand alliance once his people were safe, promising to send runners to Frostlight and Infernium to warn them of the attack.
-*   **The Fate of Sonata:** Because passenger airships had no room for large beasts, Garp was forced to leave his beloved giant lizard, **Sonata**, behind. Garp handed Sonata's leash to a nervous guard named **Gardy**, along with **100 gold pieces** for premium feed, with strict instructions to deliver the lizard to Shadows Haven on a later military transport.
+*   **The Message of Alliance:** Theron agreed that messengers needed to be sent to Frostlight, Infernium, and Shadows Haven to warn them of the attack.
+*   **The Fate of Sonata:** Because passenger airships had no room for large beasts, Garp was forced to leave his beloved giant lizard, **Sonata**, behind. Slicer handed Sonata's leash to a nervous guard named **Gardy**, along with **100 gold pieces** for premium feed, with strict instructions to deliver the lizard to Shadows Haven on a later military transport.
 
 ### Team Temple: Fynn, Silvia, and Coraline
 Meanwhile, Fynn and Silvia sought out the local temple in search of the **Silent Archives**—a secret order of scholars dedicated to hoarding forbidden knowledge. Fynn’s divine patron had previously whispered a riddle of a *sword, a quill, and a book*.
@@ -54,8 +54,8 @@ Meanwhile, Fynn and Silvia sought out the local temple in search of the **Silent
 
 Reunited, the party boarded the crowded evacuation airship. As they sailed through the clouds, key revelations and sudden threats converged.
 
-*   **A Grim Realization:** Fynn realized the devastating portals opened in Oasis City were powered by the "First Chord"—a powerful musical artifact the party had previously retrieved from Pandemonium under false pretenses. The guilt of indirectly arming Happily Ever After weighed heavily upon them.
-*   **The Origami Messenger:** Silvia and Fynn spotted a flock of strange, geometric mechanical birds in the sky. Slicer cast *Earthbind*, while Garp shot one down. They retrieved the fallen construct, which was an origami owl containing a desperate message from **Codex**:
+*   **A Grim Realization:** Fynn realized the devastating portals opened in Oasis City were powered by the "First Chord"—a powerful musical artifact the party had previously retrieved from [[The Shifting Veil]] under false pretenses. The guilt of indirectly arming Happily Ever After weighed heavily upon them.
+*   **The Origami Messenger:** Silvia and Fynn spotted a flock of strange, geometric paper birds in the sky. Slicer cast *Earthbind*, while Garp shot one down. They retrieved the fallen construct, which was an origami owl containing a desperate message from **Codex**:
     > *"To all librarians... Happily Ever After has figured out how to open the door to the archives... They have eradicated Oasis City for Project Unity... We must prevent them from finding what they are after. Destroy all evidence of our connection..."*
 *   **Breaching the Gate:** Realizing the Silent Archives were actively falling, Fynn held the silver mirror and prayed to his father, **Talos**, for a way inside. In response to his plea, writhing black tentacles erupted from the glass, wrapping around the party and dragging them bodily through the mirror's surface, leaving a horrified Coraline behind on the airship deck.
 

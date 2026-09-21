@@ -5,5 +5,6 @@ These are generated recaps using AI and the audiofiles from the session.
 
 %% Begin Waypoint %%
 - [[Episode 8 A ballon, a promise, and a claw]]
+- [[Session_9_The_New_King]]
 
 %% End Waypoint %%
