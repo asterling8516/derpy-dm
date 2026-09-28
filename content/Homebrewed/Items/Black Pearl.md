@@ -1,0 +1,1 @@
+*Black Pearl  (50 gp):* Not actual pearls, but condensed drops of shadow-magic. Can be crushed to cast *Darkness* once.

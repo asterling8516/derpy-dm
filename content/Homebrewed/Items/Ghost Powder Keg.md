@@ -1,0 +1,1 @@
+*Ghost Powder Keg (250 gp):* A highly volatile explosive. When detonated, it deals 6d6 fire and 6d6 necrotic damage in a 20-foot radius. The flames are pitch black.

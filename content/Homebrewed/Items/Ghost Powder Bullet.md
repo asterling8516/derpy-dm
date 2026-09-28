@@ -1,0 +1,1 @@
+*Shadow-Touched Bullets/Arrows (10 gp each):* Ammunition infused with ghost powder. On a hit, they deal an extra 1d6 necrotic damage and leave a trail of cold grey smoke.

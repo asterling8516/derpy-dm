@@ -1,0 +1,1 @@
+*Shadow-glass Lantern (25 gp):* A lantern that burns with a cold, grey flame. It reveals invisible creatures within 15 feet but casts no actual illuminating light.
