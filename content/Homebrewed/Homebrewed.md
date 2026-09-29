@@ -8,7 +8,11 @@ url: https://derpydm.com/homebrewed/homebrewed
 - **Feats**
 	- [[Veil Touched]]
 - **Items**
+	- [[Black Pearl]]
 	- [[Crown Of the Glass Sovereign]]
+	- [[Ghost Powder Bullet]]
+	- [[Ghost Powder Keg]]
+	- [[Shadow-Glass Lantern]]
 	- [[Stormerang]]
 	- [[Strongspirit Mug]]
 	- [[The Shattered Neon Scepter]]

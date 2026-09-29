@@ -9,6 +9,7 @@ tags:
 url: https://derpydm.com/eureka/places/the-kingdom-of-clubs/the-kingdom-of-clubs
 ---
 %% Begin Waypoint %%
+- [[Fort Dreadwake]]
 - [[Shadows Haven]]
 - [[The Stillwater Shards]]
 

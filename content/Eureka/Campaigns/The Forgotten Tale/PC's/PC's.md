@@ -5,6 +5,8 @@ url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/pcs/pcs
 - **Character notes**
 	- [[Adamson]]
 	- [[Bearskin]]
+	- [[Letter From Codex]]
+	- [[Letter from Morven]]
 	- [[Odin]]
 	- [[Skal]]
 - **PDF**
@@ -13,7 +15,9 @@ url: https://derpydm.com/eureka/campaigns/the-forgotten-tale/pcs/pcs
 	- [[Cinderella]]
 	- [[Stove]]
 - [[Adamson]]
+- [[Bearskin]]
 - [[Frezer]]
 - [[Odin Steelwing]]
+- [[Skal Deathchewer]]
 
 %% End Waypoint %%
