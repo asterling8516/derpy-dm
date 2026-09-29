@@ -5,4 +5,4 @@ An old fort on one of the southern islands of The Kingdom of Clubs, with several
 **Nearby Settlements & The People:**
 The settlements surrounding the fort are a melting pot of unique cultures. They are populated by Fae, descendants of the Shadowfell, and Dwarves, as well as the children of these groups. The dwarven presence is a direct result of them being originally brought in to outfit the fort with its engineering and alchemical defenses, and many chose to stay and build families with the local inhabitants. 
 
-The children born of this unique Fae/Shadowfell and Dwarven heritage possess an uncanny relationship with metals and technology. To them, technology and metalwork almost seem alive, and they possess a unique ability to intuitively communicate with and manipulate these alchemical and mechanical systems.1
+The children born of this unique Fae/Shadowfell and Dwarven heritage possess an uncanny relationship with metals and technology. To them, technology and metalwork almost seem alive, and they possess a unique ability to intuitively communicate with and manipulate these alchemical and mechanical systems.
