@@ -10,6 +10,7 @@ These are AI generated recaps using the sessions recordings.
 - [[Episode 22 The Journey To Shadows Haven]]
 - [[Episode 23 James Black]]
 - [[Episode 24 Teach's Heart]]
+- [[Episode 25 The Escape and the Declaration of War]]
 
 %% End Waypoint %%
 
