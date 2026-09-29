@@ -15,16 +15,16 @@ Before parting, the companions huddled together. Magic was spun, plans were hast
 With practiced stealth, the two demolition teams placed their fifty-pound kegs of ghost powder 150 feet away from the main gate, retreating just to the edge of their magical range. 
 
 *   **The Spark:** At a silent signal, firebolts flashed through the twilight. The kegs detonated in a spectacular, earth-shaking roar, billowing thick clouds of eerie green smoke into the streets.
-*   **The Rush:** As the guards scrambled toward the explosions, Bearksin and Thalen made a mad dash for the guard tower. Inside, they found no simple lever, but a massive, iron-shod wooden wheel wound with heavy ropes. 
-*   **Lifting the Gate:** Gritting his teeth, the mighty Minotaur Bearksin grabbed the wheel. With Thalen assisting, Bearksin strained against the massive weight, his muscles bulging as he successfully began to hoist the heavy iron portcullis (Strength check: 22).
+*   **The Rush:** As the guards scrambled toward the explosions, Bearskin and Thalen made a mad dash for the guard tower. Inside, they found no simple lever, but a massive, iron-shod wooden wheel wound with heavy ropes. 
+*   **Lifting the Gate:** Gritting his teeth, the mighty Minotaur Bearskin grabbed the wheel. With Thalen assisting, Bearskin strained against the massive weight, his muscles bulging as he successfully began to hoist the heavy iron portcullis (Strength check: 22).
 
 But the commotion did not go unnoticed. Two towering giants began descending the tower stairs, their heavy footsteps shaking the stone. 
 
-Outside, the rest of the party bolted for the closing gap. Skal stumbled slightly, drawing the attention of a nearby marksman. A musket cracked through the green smoke, the lead ball grazing Adamson as they ran. 
+Outside, the rest of the party bolted for the closing gap. Skal stumbled slightly, drawing the attention of a nearby marksman. A musket cracked through the green smoke, the lead ball grazing him as they ran. 
 
-As more giants flooded the stairs to crush Bearksin, Odin acted swiftly. Casting a powerful earth-shaping spell, Odin shattered the stone stairs, erupting a towering wall of jagged earth and debris that completely blocked the giants' descent. 
+As more giants flooded the stairs to crush Bearskin, Adamson acted swiftly. Casting a powerful earth-shaping spell, Adamson shattered the stone stairs, erupting a towering wall of jagged earth and debris that completely blocked the giants' descent. 
 
-With the path clear, the party slid beneath the rising portcullis. Bearksin, still holding the tension of the wheel, waited until the last possible second. With a swift, brutal strike, he severed the heavy ropes. As the portcullis slammed down to seal their pursuers inside, Frezer cast *Vortex Warp*, instantly teleporting Bearksin through the solid iron bars to join them on the other side.
+With the path clear, the party slid beneath the rising portcullis. Bearskin, still holding the tension of the wheel, waited until the last possible second. With a swift, brutal strike, he severed the heavy ropes. As the portcullis slammed down to seal their pursuers inside, Frezer cast *Vortex Warp*, instantly teleporting Bearskin through the solid iron bars to join them on the other side.
 
 ---
 
@@ -32,7 +32,7 @@ With the path clear, the party slid beneath the rising portcullis. Bearksin, sti
 
 The relief of escape was short-lived. Emerging onto the outer cliffs, the party looked up to see a terrifying sight: hovering a hundred feet in the air was a massive, 400-foot-long flying galleon. It was the *Queen Anne’s Revenge*, its wooden hull scarred with hastily carved extra cannon ports. 
 
-On the deck below, the pirate captain Teach stepped into view. He held a strange glass focus, his cold gaze locking onto Frezer. Instantly, the cursed dagger hidden within Frezer’s *bag of holding* began to vibrate violently, a dark magic pulling Frezer's hand toward it. 
+On the ground below, the pirate captain Teach stepped into view. He held a glass rapier, his cold gaze locking onto Frezer. Instantly, the cursed dagger hidden within Frezer’s *bag of holding* began to vibrate violently, a dark magic pulling Frezer's hand toward it. 
 *"Run!"* the party screamed, snapping Frezer out of the dark trance.
 
 ```
@@ -43,12 +43,12 @@ On the deck below, the pirate captain Teach stepped into view. He held a strange
        (_)(_)(_)
 ```
 
-*   **The Chase:** The party threw down their magic carpet, while Bearksin downed a potion of speed. With Thalen clinging to his horns, Bearksin sprinted down the steep, slippery embankment at impossible speeds, matching the flying carpet stride for stride.
+*   **The Chase:** The party threw down their magic carpet, while Bearskin downed a potion of speed. With Thalen clinging to his horns, Bearskin sprinted down the steep, slippery embankment at impossible speeds, matching the flying carpet stride for stride.
 *   **The Bombardment:** The sky rained fire. The *Queen Anne’s Revenge* unleashed a devastating cannonade. Shrapnel tore through the trees, severely wounding Thalen and knocking Frezer unconscious. 
 *   **The Abominations:** Glancing back, the party saw a horrifying horde of thirty multi-limbed, multi-headed abominations sprinting down the hill in hot pursuit.
 *   **The Rescue:** Ducking into the dense forest canopy, Odin took the reins of the carpet while the party hastily revived Frezer with a potion of greater healing. 
 
-Sprinting through the trees, they reached their hidden airship just as the forest behind them was incinerated by dropping explosive kegs. Bearksin took the helm, maneuvering the vessel with expert precision. A final cannonball from the *Queen Anne* scraped the hull, but slid harmlessly off the ship's magical defenses. With a roar of wind, they broke away into the open sky, leaving the burning forest behind.
+Sprinting through the trees, they reached their hidden airship just as the forest behind them was incinerated by dropping explosive kegs. Bearskin took the helm, maneuvering the vessel with expert precision. A final cannonball from the *Queen Anne* scraped the hull, but slid harmlessly off the ship's magical defenses. With a roar of wind, they broke away into the open sky, leaving the burning forest behind.
 
 ---
 
@@ -59,9 +59,9 @@ Safe in the clouds, the battered party took a much-needed long rest. They set a 
 While in the city, Skal and Thalen slipped into the local magic shops, spending a small fortune of their hard-earned gold to re-arm:
 *   **Potions:** 6 Potions of Advantage, 6 Potions of Invisibility, and a hoard of Greater Healing potions.
 *   **Scrolls:** Scrolls of *Vortex Warp*, *Lightning Bolt*, *Invisibility*, *Greater Invisibility*, *Revivify*, and *Sending*.
-*   **The Amulet:** Frezer acquired an *Amulet of Health*, binding it to his chest to permanently bolster his constitution.
+*   **The Amulet:** Skal acquired an *Amulet of Health*, binding it to his chest to permanently bolster his constitution.
 
-During their search, Bearksin inquired about his lost weapon, the legendary *Trident of Tidecold*. To his heartbreak, the shopkeeper revealed that a group of high elves had recently pawned it for a massive stash of exotic dream-weed. Unfortunately, the merchant demanded an astronomical 35,000 gold pieces to buy it back—a sum far beyond the party's current reach. For now, the trident would have to wait.
+During their search, Bearskin inquired about his lost weapon, the legendary *Tidealforce Trident*. To his heartbreak, the shopkeeper revealed that a group of high elves had recently pawned it for a massive stash of exotic dream-weed. Unfortunately, the merchant demanded an astronomical 35,000 gold pieces to buy it back—a sum far beyond the party's current reach. For now, the trident would have to wait.
 
 ---
 
@@ -81,15 +81,15 @@ In the darkness, Skal stood beside a silent skeleton. Before them stood Edward, 
 > 
 > *Hoist the Jolly Roger. The shadows are coming to claim it all."*
 
-As hundreds of thousands of shadowy monsters roared in approval, Skal snapped back to reality on the deck of the airship. He was shivering, feeling a deep, instinctual pull guiding him back toward the Shadowfell. Teach was rallying an army of darkness, and the world was on the brink of annihilation.
+As hundreds of thousands of shadowy monsters roared in approval, Skal snapped back to reality on the deck of the airship. He was shivering, feeling a deep, instinctual pull guiding him back toward Shadows Haven. Teach was rallying an army of darkness, and the world was on the brink of annihilation.
 
 ---
 
-## Destination: Inferneum
+## Destination: Infernium
 
 Recognizing the escalating threat, the party knew they needed Codex's ancient knowledge now more than ever. 
 
-1.  **Disguising the Ship:** Using scrap metal salvaged from a crashed Happily Ever After (HEA) vessel and Bearksin’s artistic genius (Nat 20 on Sleight of Hand), they retrofitted their elegant ship to look like a cold, metallic HEA functional transport.
+1.  **Disguising the Ship:** Frezer using scrap metal salvaged from a crashed Happily Ever After (HEA) vessel and Bearskin’s artistic genius (Nat 20 on Sleight of Hand), they retrofitted their elegant ship to look like a cold, metallic HEA functional transport.
 2.  **Crafting Grenades:** Using the remaining ghost powder, Frezer carefully constructed six highly volatile hand-grenades, packing them with necrotic and fire magic.
 3.  **The Sending:** They used a *Sending* scroll to contact Mother. They warned her of Teach's impending war and asked for her aid. Mother responded, offering to open a direct planar portal to Codex's location, though she warned that crossing dimensions is highly imprecise.
 
@@ -97,7 +97,7 @@ Gathering on the deck, Skal committed his newly acquired spells—*Greater Invis
 
 Mother began her ritual. In the clearing below, massive tree branches twisted and wove together, forming a glowing, wooden ring. The portal flared to life.
 
-With weapons drawn and Bearksin's rage bubbling just beneath the surface, the party stepped through the threshold.
+With weapons drawn and Bearskin's rage bubbling just beneath the surface, the party stepped through the threshold.
 
 ```
    ____________________________________________________
