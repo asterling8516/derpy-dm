@@ -34,7 +34,7 @@ tug pulling at his soul, urging him to return to Shadow's Haven.
 
 No sooner had Garp shared his grim vision than Kookush fell into a trance of his own. The steady ticking of a clock echoed in the bird-man's mind, drowning out the voices of his companions. The ticking gave way to rhythmic, metallic beeping—a distress signal in Morse code.
 
-Kookush decoded the message: *"Artificers, blacksmiths, alchemists, mechanists is falling. Assistance may be required."*
+Kookush decoded the message: *"Artificers, blacksmiths, alchemists, mechanus is falling. Assistance may be required."*
 
 **Silvia** recognized the name *Mechanus* from her planar lore. She explained that Mechanus was not merely a place, but a colossal cosmic orrery drifting in the Astral Sea—a grand machine of gears and brass that maintained the rotations and boundaries of the entire multiverse. 
 
