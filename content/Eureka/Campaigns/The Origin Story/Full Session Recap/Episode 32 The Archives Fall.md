@@ -10,7 +10,7 @@ Before the crumbling halls collapsed entirely, Codex granted the party their rew
 * **The Spell Scroll Catalog:** A magical directory allowing the party to order spell scrolls across dimensions.
 * **A Souvenir:** A commemorative shirt declaring, *"I went to the Silent Archives and all I got was this stupid shirt,"* alongside a official library card.
 
-Just as the party finished speaking with Codex, the rival adventuring party (*Happily Ever After*) stepped through a newly opened floral portal created by their rat-folk companion, taunting our heroes about their airship before disappearing. Refusing to be left behind in the burning ruins, **Silvia**, **Slicer**, **Garp**, **Kookush**, and **Fynn** dove through the closing threshold behind them.
+Just as the party finished speaking with Codex, the rival adventuring party stepped through a newly opened floral portal created by their rat-folk companion, telling our heroes about the Happily Ever After airship before disappearing. Refusing to be left behind in the burning ruins, **Silvia**, **Slicer**, **Garp**, **Kookush**, and **Fynn** dove through the closing threshold behind them.
 
 ---
 
@@ -26,7 +26,7 @@ Safe for the moment, the companions emptied the contents of their satchel and id
   * **Root of the Mother Tree:** A sacred branch charged with potent restorative magic.
   * **Amulet of the Devout (+2):** A small silver symbol bearing an inverted cross, drastically empowering divine spellcasting.
   * **+3 Multi-Tool:** A superior, highly versatile artificer's instrument claimed by **Kookush**.
-  * **Entropy Weave Armor (+2 Studded Leather):** Deflects deadly blows and grants the ability to cast *Shield*, claimed by **Slicer**.
+  * **Entropy Weave Armor (+2 Studded Leather):** Deflects deadly blows and grants the ability to cast *Shield*, claimed by **Garp**.
   * **20 Platinum Pieces**
 
 ### The Secrets of Ascension
