@@ -59,7 +59,7 @@ Navigating the gloomy, brine-scented streets, **Garp** led the group to **The Dr
 Inside, Garp reunited with his wife, **Coraline**, and his child, **Caspian**. Coraline gave Garp an earful about the state of the world, the missing houses, and the sheer burden of taking care of **Sonata**, Garp's giant pet lizard.
 
 Before departing, Coraline shared crucial intelligence:
-1. The rival party (*Happily Ever After*) had ambushed her earlier trying to steal the group's magical mirror, though she held onto it.
+1. The rival party had ambushed her earlier trying to steal the group's magical mirror, though she held onto it.
 2. **Teach** had recently departed Shadows Haven, heading south to **Fort Dreadwick** after striking a deal with a dangerous group of foreign mercenaries.
 
 ---
