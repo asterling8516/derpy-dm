@@ -11,6 +11,8 @@ These are AI generated recaps using the sessions recordings.
 - [[Episode 23 James Black]]
 - [[Episode 24 Teach's Heart]]
 - [[Episode 25 The Escape and the Declaration of War]]
+- [[Episode 26 The Archives Fall]]
+- [[Episode 27 The Frozen Dragon]]
 
 %% End Waypoint %%
 
